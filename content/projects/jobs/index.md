@@ -32,12 +32,12 @@ slides: ""
 
 ## 2017-10-01 ~ 2017-12-31
 
-- Operation and development of database services for b2b (Java, Javascript)
+- Operation and development of database services (Java, Javascript)
 
 ## 2018-01-01 ~ 2019-03-31
 
 - Launch of data analysis team in b2b section (SQL, Python)
-- Development APIs to handle contract information (Node.js)
+- Development of APIs to handle contract information (Node.js)
 
 ## 2019-04-01 ~
 
