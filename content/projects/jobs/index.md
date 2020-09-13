@@ -3,7 +3,7 @@ title: Job Roles
 summary:
 tags:
 - 
-date: "2020-09-14T00:00:00Z"
+date: "2020-09-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,16 +30,16 @@ url_video: ""
 slides: ""
 ---
 
-# 2017-10-01 ~ 2017-12-31
+## 2017-10-01 ~ 2017-12-31
 
 - Operation and development of database services for b2b (Java, Javascript)
 
-# 2018-01-01 ~ 2019-03-31
+## 2018-01-01 ~ 2019-03-31
 
 - Launch of data analysis team in b2b section (SQL, Python)
 - Development APIs to handle contract information (Node.js)
 
-# 2019-04-01 ~
+## 2019-04-01 ~
 
 - Data analysis and service development for b2b products (SQL, Python)
 - Research and development across departments (SQL, Python)
