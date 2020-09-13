@@ -32,7 +32,7 @@ slides: ""
 
 ## 2017-10-01 ~ 2017-12-31
 
-- Operation and development of database services (Java, Javascript)
+- Operation and development of database services (Java, JavaScript)
 
 ## 2018-01-01 ~ 2019-03-31
 
