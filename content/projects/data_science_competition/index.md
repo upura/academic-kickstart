@@ -38,6 +38,7 @@ https://www.kaggle.com/sishihara
 - [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team), 2019.
   - [AI Task Force, PetFinder.my](https://www.petfinder.my/ai_taskforce.htm)
 - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification) 32nd, Silver (Team), 2019.
+- [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) 58th, Silver (Solo), 2020.
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo), 2018.
 - [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) 212th, Silver (Team), 2019.
 - [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) 325th, Bronze (Solo), 2018.
