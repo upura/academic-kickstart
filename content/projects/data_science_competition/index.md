@@ -50,6 +50,7 @@ Expert
 https://signate.jp/profile/history
 
 - [【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定](https://signate.jp/competitions/158) 3rd (Solo), 2019.
+- [国立公園の観光宿泊者数予測](https://signate.jp/competitions/141) 10th (Solo), 2018.
 
 # Nishika
 
