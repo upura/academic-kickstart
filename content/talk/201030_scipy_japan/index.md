@@ -11,8 +11,8 @@ event_url: https://www.scipyjapan.scipy.org/
 #   postcode: '94305'
 #   country: United States
 
-summary: 
-abstract: ""
+summary: https://upura.hatenablog.com/entry/2020/10/25/131543
+abstract: "https://upura.hatenablog.com/entry/2020/10/25/131543"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

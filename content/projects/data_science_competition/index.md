@@ -66,3 +66,4 @@ https://atcoder.jp/users/upura
 - [ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)（エンジニアリング部門） 2nd (Team), 2018.
 - [オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000) 2nd (Solo), 2019.
 - [Basketball Behavior Challenge BBC2020](https://competitions.codalab.org/competitions/23905) 1st (Solo), 2020.
+- [Sansan × atmaCup #6](https://atma.connpass.com/event/188865/) 15th & LT大会 社会人枠最優秀LT賞 (Solo), 2020.
