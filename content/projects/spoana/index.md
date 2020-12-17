@@ -40,3 +40,4 @@ This is a community for sports analysts and those interested in sports data anal
 - [Sports Analyst Meetup #6](https://upura.hatenablog.com/entry/2020/02/17/120725), Frb 16th, 2020.
 - [Sports Analyst Meetup #7](https://upura.hatenablog.com/entry/2020/04/17/190500), Apr 16th, 2020.
 - [Sports Analyst Meetup #8](https://upura.hatenablog.com/entry/2020/07/19/090000), July 18th, 2020.
+- [Sports Analyst Meetup #9](https://upura.hatenablog.com/entry/2020/12/14/090032), Dec 13rd, 2020.

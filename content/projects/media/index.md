@@ -30,6 +30,7 @@ url_video: ""
 slides: ""
 ---
 
+- [東京大学新聞 2020年12月8日 100周年記念号](https://utnp.stores.jp/items/5fcdba9b8a457268993e69c8), Dec 8th, 2020.
 - [日本経済新聞社のデータサイエンティストにインタビュー。その仕事の内容とは？](https://advanced.massmedian.co.jp/article/detail/id=5940), マスメディアン, Nov 4th, 2020.
 - [INMA 30 Under 30: Shotaro Ishihara of Nikkei](https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei), INMA, Sep 23rd, 2020.
 - [「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html), ITmedia, Jun 11st, 2020.
