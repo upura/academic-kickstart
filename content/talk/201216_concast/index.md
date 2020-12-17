@@ -11,8 +11,8 @@ event_url: https://sports-con.xyz/concast-74/
 #   postcode: '94305'
 #   country: United States
 
-summary: 
-abstract: ""
+summary: https://sports-con.xyz/concast-74/
+abstract: "https://sports-con.xyz/concast-74/"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

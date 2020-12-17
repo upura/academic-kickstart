@@ -1,7 +1,7 @@
 ---
-title: PK戦の先攻有利は「ABBA方式」で変わるか？
-event: Sports Analyst Meetup#3
-event_url: https://spoana.connpass.com/event/134243/
+title: Basketball Behavior Challenge 1位解法
+event: Sports Analyst Meetup#9
+event_url: https://spoana.connpass.com/event/190699/
 
 # location: Source Themes HQ
 # address:
@@ -16,7 +16,7 @@ abstract: "https://upura.hatenablog.com/entry/2020/12/14/090032"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-30T14:30:00Z"
+date: "2020-12-13T14:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -40,7 +40,7 @@ featured: false
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://speakerdeck.com/upura/pk-abba-simulation"
+url_slides: "https://speakerdeck.com/upura/basketball-behavior-challenge-1st-place-solution"
 url_video: ""
 
 # Markdown Slides (optional).
