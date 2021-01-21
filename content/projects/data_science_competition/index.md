@@ -55,6 +55,7 @@ https://signate.jp/profile/history
 # Nishika
 
 - [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 2nd (Solo), 2020.
+- [判例の個人情報の自動マスキング](https://www.nishika.com/competitions/7/summary) 7th (Solo), 2021.
 
 # AtCoder
 
