@@ -30,6 +30,7 @@ url_video: ""
 slides: ""
 ---
 
+- [企業の“Kaggler枠”って実際どうなの？ ― データサイエンティスト協会 7th シンポジウム](https://www.atmarkit.co.jp/ait/articles/2102/01/news024.html), ＠IT, Feb 1st, 2021.
 - [【100周年特別企画】「東大新聞が与えてくれたもの」石原祥太郎さん（日本経済新聞社）](https://www.todaishimbun.org/ishihara20201223/), 東京大学新聞オンライン, Dec 23rd, 2020.
 - [東京大学新聞 2020年12月8日 100周年記念号](https://utnp.stores.jp/items/5fcdba9b8a457268993e69c8), Dec 8th, 2020.
 - [日本経済新聞社のデータサイエンティストにインタビュー。その仕事の内容とは？](https://advanced.massmedian.co.jp/article/detail/id=5940), マスメディアン, Nov 4th, 2020.
