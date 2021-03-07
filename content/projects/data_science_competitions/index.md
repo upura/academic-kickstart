@@ -41,6 +41,7 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), 6th (Team), 2021.
 - [ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)（エンジニアリング部門） 2nd (Team), 2018.
 - [オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000) 2nd (Solo), 2019.
 - [Basketball Behavior Challenge BBC2020](https://competitions.codalab.org/competitions/23905) 1st (Solo), 2020.
