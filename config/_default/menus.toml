@@ -15,27 +15,20 @@
 
 [[main]]
   name = "Talks"
-  url = "#talks"
+  url = "/projects/talks_and_media/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "/projects/publications/"
   weight = 40
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "OSS"
+  url = "/projects/oss_activities/"
   weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
