@@ -21,9 +21,9 @@ organizations:
 bio: Data Scientist at a Japanese Media Company
 
 interests:
-- Journalism
-- Machine Learning Competition
+- Applied Machine Learning
 - Natural Language Processing
+- Journalism / News Media
 
 education:
   courses:
@@ -68,4 +68,7 @@ email: ""
 user_groups: []
 ---
 
-Shotaro Ishihara is a data scientist at a Japanese media company, engaged in data analysis and service developments. While studying computer science at university, he was also involved in [a university press](http://www.todaishimbun.org/). He has participated in machine learning competitions and has experiences of getting first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosting a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition and publishing [a technical book for beginners](https://www.kspub.co.jp/book/detail/5190067.html). The International News Media Association gave him "[30 Under 30 Awards and Grand Prize](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards)" in 2020.
+I'm a data scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
+While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
+I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition, and published [a technical book for beginners](https://www.kspub.co.jp/book/detail/5190067.html).
+The International News Media Association gave me "[30 Under 30 Awards and Grand Prize](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards)" in 2020.
