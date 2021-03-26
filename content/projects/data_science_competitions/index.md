@@ -41,9 +41,10 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [言語処理学会第27回年次大会（NLP2021）ワークショップ2 AI王 〜クイズAI日本一決定戦〜 ライブコンペティション](https://sites.google.com/view/nlp2021-aio/) 5th (Team), 2021.
 - [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), 6th (Team), 2021.
-- [ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)（エンジニアリング部門） 2nd (Team), 2018.
-- [オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000) 2nd (Solo), 2019.
 - [Basketball Behavior Challenge BBC2020](https://competitions.codalab.org/competitions/23905) 1st (Solo), 2020.
 - [Sansan × atmaCup #6](https://atma.connpass.com/event/188865/) 15th & LT大会 社会人枠最優秀LT賞 (Solo), 2020.
 - [CA × atmaCup 2nd](https://atma.connpass.com/event/189613/) 5th (Team), 2020.
+- [オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000) 2nd (Solo), 2019.
+- [ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)（エンジニアリング部門） 2nd (Team), 2018.
