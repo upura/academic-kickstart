@@ -24,6 +24,7 @@ date: "2021-03-07T00:00:00Z"
 ## Book
 
 - **石原祥太郎**, 村田秀樹 (2020). [PythonではじめるKaggleスタートブック](https://www.kspub.co.jp/book/detail/5190067.html), 講談社, 2020年3月17日.
+- **石原祥太郎**, 村田秀樹 (2021). [Kaggle大師教您用Python玩資料科學，比賽拿獎金](http://books.gotop.com.tw/v_ACD021100), 碁峰資訊（股）有限公司, 2021年4月7日.
 
 ## Book Section
 
