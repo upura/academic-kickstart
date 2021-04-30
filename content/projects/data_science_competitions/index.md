@@ -41,6 +41,7 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [Solafune: 夜間光データから土地価格を予測](https://solafune.com/#/competitions/f03f39cc-597b-4819-b1a5-41479d4b73d6) 6th (Solo), 2021.
 - [言語処理学会第27回年次大会（NLP2021）ワークショップ2 AI王 〜クイズAI日本一決定戦〜 ライブコンペティション](https://sites.google.com/view/nlp2021-aio/) 5th (Team), 2021.
 - [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), 6th (Team), 2021.
 - [Basketball Behavior Challenge BBC2020](https://competitions.codalab.org/competitions/23905) 1st (Solo), 2020.
