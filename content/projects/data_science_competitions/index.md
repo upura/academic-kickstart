@@ -3,13 +3,13 @@ title: Data Science Competitions
 summary: https://www.kaggle.com/sishihara
 tags:
 - Kaggle
-date: "2018-05-01T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 
 ---
 
 ## Kaggle
 
-Competition Master / Notebooks Expert / Discussion Expert
+Competition Master / Notebooks Master / Discussion Expert
 https://www.kaggle.com/sishihara
 
 - [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team), 2019.
