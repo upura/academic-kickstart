@@ -3,7 +3,7 @@ title: Publications
 summary:
 tags:
 - 
-date: "2021-03-07T00:00:00Z"
+date: "2021-06-16T00:00:00Z"
 
 ---
 
@@ -11,15 +11,16 @@ date: "2021-03-07T00:00:00Z"
 
 - **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/), March 12, 2021, Jerusalem, Israel.
 - **Shotaro Ishihara**, Norihiko Sawa (2020). [Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle"](https://cj2021.northeastern.edu/research-papers/). [Computation + Journalism Symposium 2020](https://cj2020.northeastern.edu/). Boston, MA, USA.
-- Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–20.
+- Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720.
 
-## Conference (Unreferred)
+## Misc
 
-- 石原慧人, **石原祥太郎**, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集.
-- **石原祥太郎**, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集.
+- 石原慧人, **石原祥太郎**, 白井穂乃 (2021). [BertSumを用いた日本語ニュース記事の抽象型要約手法の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
+- **石原祥太郎**, 澤紀彦 (2021). [MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. [Computation + Journalism Symposium 2021](https://cj2021.northeastern.edu/).
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. [NLP若手の会 (YANS) 第15回シンポジウム](https://yans.anlp.jp/entry/yans2020), 2020年9月23日.
 - 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, [第８回高齢社会デザイン研究発表会](http://www.ipsj.or.jp/kenkyukai/event/asd8.html), 2017年6月19日.
+- 和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, **石原祥太郎** (2016). [学生突撃レポート 港湾空港技術研究所](https://ci.nii.ac.jp/naid/40020991735/). 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45.
 
 ## Book
 

@@ -3,12 +3,13 @@ title: Talks & Media Coverage
 summary:
 tags:
 - 
-date: "2021-02-04T00:00:00Z"
+date: "2021-06-16T00:00:00Z"
 
 ---
 
 ## Talks
 
+- [東海高校OBが語る！マスコミにおけるデータサイエンティストの仕事](https://www.satprogram.net/list.html), [第39回サタデープログラム](https://www.satprogram.net/), June 26th, 2021.
 - [74 第9回スポアナ感想戦 (Gota, K, upura)](https://sports-con.xyz/concast-74/), [CONCAST](https://sports-con.xyz/concast-74/), Dec 16th, 2020.
 - [Basketball Behavior Challenge 1位解法](https://upura.hatenablog.com/entry/2020/12/14/090032), [Sports Analyst Meetup#9](https://spoana.connpass.com/event/190699/), Dec 13rd, 2020.
 - [73 spoana振り返り(Gota, K, upura)](https://sports-con.xyz/concast-73/), [CONCAST](https://sports-con.xyz/concast-73/), Dec 11th, 2020.
