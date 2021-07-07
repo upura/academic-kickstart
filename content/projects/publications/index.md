@@ -3,13 +3,13 @@ title: Publications
 summary:
 tags:
 - 
-date: "2021-06-16T00:00:00Z"
+date: "2021-07-08T00:00:00Z"
 
 ---
 
 ## Conference Paper (Referred)
 
-- **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/), March 12, 2021, Jerusalem, Israel.
+- **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf), [Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)](http://ceur-ws.org/Vol-2855/), March 12, 2021, Jerusalem, Israel, pp. 46-49.
 - **Shotaro Ishihara**, Norihiko Sawa (2020). [Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle"](https://cj2021.northeastern.edu/research-papers/). [Computation + Journalism Symposium 2020](https://cj2020.northeastern.edu/). Boston, MA, USA.
 - Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720.
 
@@ -24,6 +24,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Book
 
+- Abhishek Thakur (著), **石原祥太郎** (翻訳) (2021). [Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ](https://www.amazon.co.jp/dp/4839974985/), マイナビ出版, 2021年8月24日.
 - **石原祥太郎**, 村田秀樹 (2020). [PythonではじめるKaggleスタートブック](https://www.kspub.co.jp/book/detail/5190067.html), 講談社, 2020年3月17日.
 - **石原祥太郎**, 村田秀樹 (2021). [Kaggle大師教您用Python玩資料科學，比賽拿獎金](http://books.gotop.com.tw/v_ACD021100), 碁峰資訊（股）有限公司, 2021年4月7日.
 

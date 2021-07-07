@@ -21,13 +21,15 @@ date: "2021-03-07T00:00:00Z"
 - [University of Tokyo Press](http://www.todaishimbun.org/author/shhrshtr/)
 - Events
   - [Sports Analyst Meetup](https://spoana.connpass.com/)
+    - [ARCS IDEATHON (Sports Analyst Meetup #11)](https://spoana.connpass.com/event/218035/), Aug 7th, 2021.
+    - [Sports Analyst Meetup #10](https://spoana.connpass.com/event/213076/), June 26th, 2021.
     - [Sports Analyst Meetup #9](https://upura.hatenablog.com/entry/2020/12/14/090032), Dec 13rd, 2020.
     - [Sports Analyst Meetup #8](https://upura.hatenablog.com/entry/2020/07/19/090000), July 18th, 2020.
     - [Sports Analyst Meetup #7](https://upura.hatenablog.com/entry/2020/04/17/190500), Apr 16th, 2020.
     - [Sports Analyst Meetup #6](https://upura.hatenablog.com/entry/2020/02/17/120725), Frb 16th, 2020.
     - [Sports Analyst Meetup #5](https://upura.hatenablog.com/entry/2019/11/02/220842), Nov 2nd, 2019.
     - [Sports Analyst Meetup #4](https://upura.hatenablog.com/entry/2019/08/24/214442), Aug 24th, 2019.
-    - [Sports Analyst Meetup #3](https://upura.hatenablog.com/entry/2019/06/30/215844), Jun 30th, 2019.
+    - [Sports Analyst Meetup #3](https://upura.hatenablog.com/entry/2019/06/30/215844), June 30th, 2019.
     - [Sports Analyst Meetup #2](https://upura.hatenablog.com/entry/2019/05/12/222331), May 12th, 2019.
     - [Sports Analyst Meetup #1](https://upura.hatenablog.com/entry/2019/02/25/121000), Feb 24th, 2019.
   - [電通過労自殺「日本を変えて」遺族が東大で呼びかけ](https://mainichi.jp/articles/20170522/k00/00m/040/066000c)
