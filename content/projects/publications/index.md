@@ -16,9 +16,11 @@ date: "2021-06-16T00:00:00Z"
 
 ## Misc
 
+- **石原祥太郎** (2021). [Pythonによるアクセスログ解析入門](https://pyconjp.blogspot.com/2021/08/pyconjp-2021-proposal-selection.html), [PyCon JP 2021](https://2021.pycon.jp/), Oct 15-16th, 2021.
 - 石原慧人, **石原祥太郎**, 白井穂乃 (2021). [BertSumを用いた日本語ニュース記事の抽象型要約手法の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
 - **石原祥太郎**, 澤紀彦 (2021). [MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. [Computation + Journalism Symposium 2021](https://cj2021.northeastern.edu/).
+- **石原祥太郎** (2020). [Pythonで機械学習コンペティション「Kaggle」をはじめよう](https://upura.hatenablog.com/entry/2020/10/25/131543), [Scipy Japan 2020](https://www.scipyjapan.scipy.org/), Oct 30th, 2020.
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. [NLP若手の会 (YANS) 第15回シンポジウム](https://yans.anlp.jp/entry/yans2020), 2020年9月23日.
 - 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, [第８回高齢社会デザイン研究発表会](http://www.ipsj.or.jp/kenkyukai/event/asd8.html), 2017年6月19日.
 - 和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, **石原祥太郎** (2016). [学生突撃レポート 港湾空港技術研究所](https://ci.nii.ac.jp/naid/40020991735/). 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45.

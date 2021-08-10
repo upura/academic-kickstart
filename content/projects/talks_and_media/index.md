@@ -9,6 +9,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- [Pythonによるアクセスログ解析入門](https://pyconjp.blogspot.com/2021/08/pyconjp-2021-proposal-selection.html), [PyCon JP 2021](https://2021.pycon.jp/), Oct 15-16th, 2021.
+- 審査員, [ARCS IDEATHON (Sports Analyst Meetup #11)](https://spoana.connpass.com/event/218035/), Aug 7th, 2021.
 - [高校生のためのオープンキャンパス 2021年度『東大卒業生に聞いてみようー18歳のハローワーク』](https://www.u-tokyo.ac.jp/ja/alumni/support-programs/high.html), July 11th, 2021.
 - [東海高校OBが語る！マスコミにおけるデータサイエンティストの仕事](https://www.satprogram.net/list.html), [第39回サタデープログラム](https://www.satprogram.net/), June 26th, 2021.
 - [74 第9回スポアナ感想戦 (Gota, K, upura)](https://sports-con.xyz/concast-74/), [CONCAST](https://sports-con.xyz/concast-74/), Dec 16th, 2020.
