@@ -22,6 +22,7 @@ date: "2021-06-16T00:00:00Z"
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. [Computation + Journalism Symposium 2021](https://cj2021.northeastern.edu/).
 - **石原祥太郎** (2020). [Pythonで機械学習コンペティション「Kaggle」をはじめよう](https://upura.hatenablog.com/entry/2020/10/25/131543), [Scipy Japan 2020](https://www.scipyjapan.scipy.org/), Oct 30th, 2020.
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. [NLP若手の会 (YANS) 第15回シンポジウム](https://yans.anlp.jp/entry/yans2020), 2020年9月23日.
+- **Shotaro Ishihara**, Asami Matsumoto (2020). [Stacked Generalization for More Accurate Prediction of Patient Survival](https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing), [WiDS Datathon 2020 Excellence in Research Award](https://www.kaggle.com/c/widsdatathon2020/overview/datathon-phase-2-excellence-in-research-award), Apr 30, 2020.
 - 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, [第８回高齢社会デザイン研究発表会](http://www.ipsj.or.jp/kenkyukai/event/asd8.html), 2017年6月19日.
 - 和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, **石原祥太郎** (2016). [学生突撃レポート 港湾空港技術研究所](https://ci.nii.ac.jp/naid/40020991735/). 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45.
 
