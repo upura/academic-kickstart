@@ -14,6 +14,7 @@ https://www.kaggle.com/sishihara
 
 - [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team), 2019.
   - [AI Task Force, PetFinder.my](https://www.petfinder.my/ai_taskforce.htm)
+- [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize) 25th, Silver (Team), 2021.
 - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification) 32nd, Silver (Team), 2019.
 - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) 58th, Silver (Solo), 2020.
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo), 2018.
@@ -31,8 +32,8 @@ https://signate.jp/profile/history
 
 ## Nishika
 
-- [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 2nd (Solo), 2020.
 - [判例の個人情報の自動マスキング](https://www.nishika.com/competitions/7/summary) 7th (Solo), 2021.
+- [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 2nd (Solo), 2020.
 
 ## AtCoder
 
@@ -41,6 +42,7 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [NLP若手の会 (YANS) 第16回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2021hackathon), 2nd (Team), 2021.
 - [Solafune: 夜間光データから土地価格を予測](https://solafune.com/#/competitions/f03f39cc-597b-4819-b1a5-41479d4b73d6) 6th (Solo), 2021.
 - [言語処理学会第27回年次大会（NLP2021）ワークショップ2 AI王 〜クイズAI日本一決定戦〜 ライブコンペティション](https://sites.google.com/view/nlp2021-aio/) 5th (Team), 2021.
 - [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/?page_id=27), 6th (Team), 2021.
