@@ -49,6 +49,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Media Coverage
 
+- [データ・クリエイティブ対談【第9弾】テクノロジー化、データ化の先にある「本質」を見極めたい（前編） ゲスト：石原祥太郎さん（データサイエンティスト）](https://seikatsusha-ddm.com/article/12007/),生活者データ・ドリブン・マーケティング通信, Nov 1st, 2021.
 - [報道機関のデータサイエンティストに求められること／日本経済新聞社 データサイエンティスト 石原祥太郎さん](https://www.massnavi.com/people/1077.html), massnavi, Feb 4th, 2021.
 - [企業の“Kaggler枠”って実際どうなの？ ― データサイエンティスト協会 7th シンポジウム](https://www.atmarkit.co.jp/ait/articles/2102/01/news024.html), ＠IT, Feb 1st, 2021.
 - [【100周年特別企画】「東大新聞が与えてくれたもの」石原祥太郎さん（日本経済新聞社）](https://www.todaishimbun.org/ishihara20201223/), 東京大学新聞オンライン, Dec 23rd, 2020.

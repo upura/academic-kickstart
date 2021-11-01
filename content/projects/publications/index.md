@@ -48,6 +48,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Awards
 
+- [2021年度人工知能学会全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/), 2021.
 - [30 Under 30 Awards, Grand Prize for Asia/Pacific](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards), [The International News Media Association (INMA)](https://www.inma.org/), Sep 17th, 2020.
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
 
