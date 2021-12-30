@@ -42,6 +42,7 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [Kaggle Days Meetup at New Delhi](https://kaggledays.com/championship/leaderboard/), 3rd (Team), 2021.
 - [NLP若手の会 (YANS) 第16回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2021hackathon), 2nd (Team), 2021.
 - [SIGIR eCom'21 Data Challenge Purchase Intent Prediction](https://sigir-ecom.github.io/data-task.html), 3nd (Team), 2021.
 - [Solafune: 夜間光データから土地価格を予測](https://solafune.com/#/competitions/f03f39cc-597b-4819-b1a5-41479d4b73d6) 6th (Solo), 2021.

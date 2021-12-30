@@ -12,7 +12,7 @@ date: "2021-03-07T00:00:00Z"
   - [NLP Recipes for Japanese](https://github.com/upura/nlp-recipes-ja)
   - [言語処理100本ノック 2020](https://github.com/upura/nlp100v2020)
 - [Weekly Kaggle News](https://www.getrevue.co/profile/upura): Weekly news letter written in Japanese.
-  - There are over 1500 subscribers, and featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html).
+  - There are over 1800 subscribers, and featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html).
 - [Hatena Blog](https://upura.hatenablog.com/)
 - [Qiita](https://qiita.com/upura)
   - [Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～](https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0)
@@ -21,6 +21,7 @@ date: "2021-03-07T00:00:00Z"
 - [University of Tokyo Press](http://www.todaishimbun.org/author/shhrshtr/)
 - Events
   - [Sports Analyst Meetup](https://spoana.connpass.com/)
+    - [Sports Analyst Meetup #12](https://spoana.connpass.com/event/230887/), Dec 19th, 2021.
     - [ARCS IDEATHON (Sports Analyst Meetup #11)](https://spoana.connpass.com/event/218035/), Aug 7th, 2021.
     - [Sports Analyst Meetup #10](https://spoana.connpass.com/event/213076/), June 26th, 2021.
     - [Sports Analyst Meetup #9](https://upura.hatenablog.com/entry/2020/12/14/090032), Dec 13rd, 2020.
