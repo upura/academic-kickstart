@@ -9,11 +9,11 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
-- **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa. 2021. Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. [The 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/). (to appear)
+- **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa. 2021. Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. [In Proceedings of The 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/). (to appear)
 - **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai. 2021. Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. [In Proceedings of ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)](https://sigir-ecom.github.io/accepted-papers.html). ACM, New York, NY, USA, 5 pages. (to appear)
-- **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf), [Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)](http://ceur-ws.org/Vol-2855/), March 12, 2021, Jerusalem, Israel, pp. 46-49.
+- **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf), [In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)](http://ceur-ws.org/Vol-2855/), March 12, 2021, Jerusalem, Israel, pp. 46-49.
 - **Shotaro Ishihara**, Norihiko Sawa (2020). [Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle"](https://cj2021.northeastern.edu/research-papers/). [Computation + Journalism Symposium 2020](https://cj2020.northeastern.edu/). Boston, MA, USA.
-- Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. *corresponding author
+- Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara*** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (*corresponding author)
 
 ## Misc
 
