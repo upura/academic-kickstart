@@ -9,14 +9,18 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
-- **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa. 2021. Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. [In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/). (to appear)
-- **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai. 2021. Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. [In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)](https://sigir-ecom.github.io/accepted-papers.html). ACM, New York, NY, USA, 5 pages. (to appear)
+- **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa (2021). [Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression](https://ieeexplore.ieee.org/document/9671300). [In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/), pp. 3522-24.
+- **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. [In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)](https://sigir-ecom.github.io/accepted-papers.html). ACM, New York, NY, USA, 5 pages. (to appear)
 - **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf), [In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)](http://ceur-ws.org/Vol-2855/), March 12, 2021, Jerusalem, Israel, pp. 46-49.
 - **Shotaro Ishihara**, Norihiko Sawa (2020). [Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle"](https://cj2021.northeastern.edu/research-papers/). [Computation + Journalism Symposium 2020](https://cj2020.northeastern.edu/). Boston, MA, USA.
 - Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara*** (2017). [Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics](http://ebooks.iospress.nl/volumearticle/46762). In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (*corresponding author)
 
 ## Misc
 
+- 高橋寛武, 石原祥太郎, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
+- 大村和正, 白井穂乃, 石原祥太郎, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
+- 増田太郎, 石原祥太郎, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. [第14回データ工学と情報マネジメントに関するフォーラム](https://event.dbsj.org/deim2022/).
+- 山田健太, 山本真吾, 石原祥太郎, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. [第14回データ工学と情報マネジメントに関するフォーラム](https://event.dbsj.org/deim2022/).
 - **石原祥太郎** (2021). [Pythonによるアクセスログ解析入門](https://pyconjp.blogspot.com/2021/08/pyconjp-2021-proposal-selection.html), [PyCon JP 2021](https://2021.pycon.jp/), Oct 15-16th, 2021.
 - 石原慧人, **石原祥太郎**, 白井穂乃 (2021). [BertSumを用いた日本語ニュース記事の抽象型要約手法の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
 - **石原祥太郎**, 澤紀彦 (2021). [MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja). 2021年度人工知能学会全国大会（第35回）論文集.
@@ -38,10 +42,6 @@ date: "2021-06-16T00:00:00Z"
 - **石原祥太郎** (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, [技術書典7](https://techbookfest.org/event/tbf07), 2019年9月22日.
 - **石原祥太郎** (2019). [データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜](https://note.com/nikkei_staff/n/neeae5e42c9f7), Nikkei Development Book VOL.2 第1章, [技術書典6](https://techbookfest.org/event/tbf06), 2019年4月14日.
 - **石原祥太郎** (2018). [機械学習を用いた日経電子版Proのユーザ分析](https://note.com/nikkei_staff/n/n4d5253dbd58d), Nikkei Development Book 第1章, [技術書典5](https://techbookfest.org/event/tbf05), 2018年10月8日.
-
-## Patent
-
-- 株式会社日本経済新聞社 (2020). 要約文作成装置、要約文作成方法、およびプログラム. 特願2020-158897.
 
 ## Thesis
 
