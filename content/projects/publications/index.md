@@ -9,6 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
+- **Shotaro Ishihara**, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). (to appear)
 - **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa (2021). [Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression](https://ieeexplore.ieee.org/document/9671300). [In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/), pp. 3522-24.
 - **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. [In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)](https://sigir-ecom.github.io/accepted-papers.html). ACM, New York, NY, USA, 5 pages. (to appear)
 - **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). [Weighted Averaging of Various LSTM Models for Next Destination Recommendation](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf), [In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)](http://ceur-ws.org/Vol-2855/), March 12, 2021, Jerusalem, Israel, pp. 46-49.
@@ -17,6 +18,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Misc
 
+- **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. [2022年度人工知能学会全国大会（第36回）論文集](https://www.ai-gakkai.or.jp/jsai2022/). (to appear)
 - 高橋寛武, 石原祥太郎, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
 - 大村和正, 白井穂乃, 石原祥太郎, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
 - 増田太郎, 石原祥太郎, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. [第14回データ工学と情報マネジメントに関するフォーラム](https://event.dbsj.org/deim2022/).

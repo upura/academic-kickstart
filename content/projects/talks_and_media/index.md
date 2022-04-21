@@ -9,10 +9,10 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
-- 機械学習コンペの近年の潮流 2022年4月版, [ML Study #3「機械学習コンペ」](https://forkwell.connpass.com/event/240639/), Apr 4th, 2022.
-- Editors-in-the-loop なニュース記事要約システムの提案, [Machine Learning Casual Talks #13 (Online)](https://mlct.connpass.com/event/239953/), Mar 30th, 2022.
+- [機械学習コンペの近年の潮流 2022年4月版](https://speakerdeck.com/upura/ml-competition-trend-2022-dot-04), [ML Study #3「機械学習コンペ」](https://forkwell.connpass.com/event/240639/), Apr 4th, 2022.
+- [Editors-in-the-loop なニュース記事要約システムの提案](https://speakerdeck.com/upura/editors-in-the-loop-news-article-summarization-framework), [Machine Learning Casual Talks #13 (Online)](https://mlct.connpass.com/event/239953/), Mar 30th, 2022.
 - [Sports Analyst Meetup の紹介](http://jsaa.org/saj2022/?sessionId=31), [スポーツアナリティクスジャパン2022](http://jsaa.org/saj2022/), Mar 26th, 2022.
-- 日本経済新聞社における自然言語処理の取り組み, [NLP若手の会懇親会 (YANS懇) 2022](https://yans.anlp.jp/entry/yanskon2022), Mar 11st, 2022.
+- [日本経済新聞社における自然言語処理の取り組み](https://speakerdeck.com/upura/yans2022-nikkei-nlp), [NLP若手の会懇親会 (YANS懇) 2022](https://yans.anlp.jp/entry/yanskon2022), Mar 11st, 2022.
 - [Pythonによるアクセスログ解析入門](https://upura.hatenablog.com/entry/2021/10/17/090000), [PyCon JP 2021](https://2021.pycon.jp/), Oct 16th, 2021.
 - [Kaggleの魅力と取り組み方](https://speakerdeck.com/upura/attractiveness-and-approach-of-kaggle), [Kaggle Masterが語る【9/29ワークショップ】初心者のためのKaggle入門](https://widshiroshima.connpass.com/event/223319/), Sep 29th, 2021.
 - 審査員, [ARCS IDEATHON (Sports Analyst Meetup #11)](https://spoana.connpass.com/event/218035/), Aug 7th, 2021.
