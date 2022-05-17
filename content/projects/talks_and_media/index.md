@@ -9,6 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- 企業で働くKagglerのキャリアトーク, [Social Tech Talk #03](https://increments.connpass.com/event/245693/), June 15th, 2022.
 - [機械学習コンペの近年の潮流 2022年4月版](https://speakerdeck.com/upura/ml-competition-trend-2022-dot-04), [ML Study #3「機械学習コンペ」](https://forkwell.connpass.com/event/240639/), Apr 4th, 2022.
 - [Editors-in-the-loop なニュース記事要約システムの提案](https://speakerdeck.com/upura/editors-in-the-loop-news-article-summarization-framework), [Machine Learning Casual Talks #13 (Online)](https://mlct.connpass.com/event/239953/), Mar 30th, 2022.
 - [Sports Analyst Meetup の紹介](http://jsaa.org/saj2022/?sessionId=31), [スポーツアナリティクスジャパン2022](http://jsaa.org/saj2022/), Mar 26th, 2022.
