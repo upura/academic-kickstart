@@ -18,6 +18,9 @@ date: "2021-06-16T00:00:00Z"
 
 ## Misc
 
+This section presents domestic conferences and refereed talks.
+Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
+
 - **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. [2022年度人工知能学会全国大会（第36回）論文集](https://www.ai-gakkai.or.jp/jsai2022/). (to appear)
 - 高橋寛武, 石原祥太郎, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
 - 大村和正, 白井穂乃, 石原祥太郎, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. [言語処理学会第28回年次大会発表論文集](https://www.anlp.jp/nlp2022/).
