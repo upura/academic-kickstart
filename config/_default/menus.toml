@@ -14,21 +14,26 @@
   weight = 20
 
 [[main]]
+  name = "Research"
+  url = "/projects/research_interest/"
+  weight = 30
+
+[[main]]
   name = "Talks"
   url = "/projects/talks_and_media/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "/projects/publications/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "OSS"
   url = "/projects/oss_activities/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70

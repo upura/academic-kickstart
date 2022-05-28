@@ -9,6 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
+- **Shotaro Ishihara** and Yasufumi Nakama (2022). Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. In Proceedings of Computation + Journalism Conference 2022. ACM, New York, NY, USA, 5 pages. (to appear)
 - **Shotaro Ishihara**, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). (to appear)
 - **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa (2021). [Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression](https://ieeexplore.ieee.org/document/9671300). [In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData](https://humanmachinedata.org/), pp. 3522-24.
 - **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. [In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)](https://sigir-ecom.github.io/accepted-papers.html). ACM, New York, NY, USA, 5 pages. (to appear)
