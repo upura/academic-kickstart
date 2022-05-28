@@ -29,6 +29,8 @@ Pre-trained language models are fine-tuned for individual tasks:
 
 ## Reference
 
+You can see [Publications](https://upura.github.io/projects/publications/) for the detail.
+
 - [1] Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova (2019). BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North AMerican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171–86.
 - [2] Brown, Tom, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al (2020). Language Models Are Few-Shot Learners.” Advances in Neural Information Processing Systems 33: 1877–1901.
 - [3] New Powers, New Responsibilities. A Global Survey of Journalism and Artificial Intelligence. (2019). Polis. November 18, 2019. https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/.
