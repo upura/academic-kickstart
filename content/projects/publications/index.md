@@ -9,11 +9,12 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
-- **Shotaro Ishihara** and Yasufumi Nakama (2022). Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. In Proceedings of Computation + Journalism Conference 2022. ACM, New York, NY, USA, 5 pages. (to appear) [[slide](https://speakerdeck.com/upura/generating-a-pairwise-dataset-for-click-through-rate-prediction-of-news-articles-considering-positions-and-contents) ]
+- **Shotaro Ishihara**, and Yasufumi Nakama (2022). Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. In Proceedings of Computation + Journalism Conference 2022. ACM, New York, NY, USA, 5 pages. (to appear) [[slide](https://speakerdeck.com/upura/generating-a-pairwise-dataset-for-click-through-rate-prediction-of-news-articles-considering-positions-and-contents) ]
 - **Shotaro Ishihara**, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). (to appear)
 - **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa (2021). Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData, pp. 3522-24. [[paper](https://ieeexplore.ieee.org/document/9671300) ]
 - **Shotaro Ishihara**, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21). ACM, New York, NY, USA, 5 pages. [[paper](https://sigir-ecom.github.io/accepted-papers.html) ], [[slide](https://speakerdeck.com/upura/adversarial-validation-to-select-validation-data-for-evaluating-performance-in-e-commerce-purchase-intent-prediction) ]
 - **Shotaro Ishihara**, Shuhei Goda, Yuya Matsumura (2021). Weighted Averaging of Various LSTM Models for Next Destination Recommendation, In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021), March 12, 2021, Jerusalem, Israel, pp. 46-49. [[paper](http://ceur-ws.org/Vol-2855/challenge_short_7.pdf) ]
+- **Shotaro Ishihara**, Norihiko Sawa (2020). Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle". Computation + Journalism Symposium 2020. Boston, MA, USA. [[paper](https://cj2021.northeastern.edu/research-papers/) ]
 - Kazuo Hiekata, Taiga Mitsuyuki, **Shotaro Ishihara*** (2017). Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics. In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (*corresponding author) [[paper](http://ebooks.iospress.nl/volumearticle/46762) ]
 
 ## Misc
@@ -33,7 +34,6 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - **石原祥太郎** (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [[slide](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python) ], [[github](https://github.com/upura/scipy-japan-2020-kaggle-tutorial) ]
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.
 - **Shotaro Ishihara**, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [[paper](https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing) ]
-- **Shotaro Ishihara**, Norihiko Sawa (2020). Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition "Kaggle". Computation + Journalism Symposium 2020. Boston, MA, USA. [[paper](https://cj2021.northeastern.edu/research-papers/) ]
 - 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日.
 - 和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, **石原祥太郎** (2016). 学生突撃レポート 港湾空港技術研究所. 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45. [[paper](https://ci.nii.ac.jp/naid/40020991735/) ]
 
