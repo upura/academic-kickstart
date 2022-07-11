@@ -9,6 +9,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- 実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離, [PyCon JP 2022](https://2022.pycon.jp/), Oct 14th-15th, 2022.
+- SageMakerを用いた日経電子版向け大規模言語モデルの構築, [AWS AI/ML Updateと事例紹介](https://pages.awscloud.com/JAPAN-event-OE-EIB22-WWSO-AIML-20220721-reg-event.html), July 21st, 2022.
 - 機械学習コンテストの潮流と上位解法, [第85回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no85_jsai_seminar/), July 11th, 2022.
 - 企業で働くKagglerのキャリアトーク, [Social Tech Talk #03](https://increments.connpass.com/event/245693/), June 15th, 2022.
 - [機械学習コンペの近年の潮流 2022年4月版](https://speakerdeck.com/upura/ml-competition-trend-2022-dot-04), [ML Study #3「機械学習コンペ」](https://forkwell.connpass.com/event/240639/), Apr 4th, 2022.
