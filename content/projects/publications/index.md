@@ -22,7 +22,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. (to appear)
+- **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ]
 - 高橋寛武, **石原祥太郎**, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf) ]
 - 大村和正, 白井穂乃, **石原祥太郎**, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf) ]
 - 増田太郎, **石原祥太郎**, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf) ]
@@ -61,4 +61,4 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 ## Courses
 
 - 東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [[cite](https://gci.t.u-tokyo.ac.jp/dsonline/) ]
-- GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [[cite](http://www.k.u-tokyo.ac.jp/info/en/entry/31_entry174/) ]
+- GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [[cite](https://www.k.u-tokyo.ac.jp/en/information/category/event/6407.html) ]
