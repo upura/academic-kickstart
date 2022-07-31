@@ -29,7 +29,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 山田健太, 山本真吾, **石原祥太郎**, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf) ]
 - **石原祥太郎** (2021). Pythonによるアクセスログ解析入門, PyCon JP 2021, Oct 15-16th, 2021. [[slide](https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python) ], [[video](https://youtu.be/_EqrNN5Ld-w) ]
 - 石原慧人, **石原祥太郎**, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja) ]
-- **石原祥太郎**, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja) ] ( 2021年度人工知能学会全国大会優秀賞 [[cite](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ])
+- **石原祥太郎**, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja) ] ( 2021年度人工知能学会全国大会優秀賞 [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ])
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.
 - **石原祥太郎** (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [[slide](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python) ], [[github](https://github.com/upura/scipy-japan-2020-kaggle-tutorial) ]
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.
@@ -39,14 +39,14 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Book
 
-- Abhishek Thakur (著), **石原祥太郎** (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [[cite](https://book.mynavi.jp/ec/products/detail/id=123641) ]
-- **石原祥太郎**, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [[cite](https://www.kspub.co.jp/book/detail/5190067.html) ] [[Chinese](http://books.gotop.com.tw/v_ACD021100) ], [[Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841) ]
+- Abhishek Thakur (著), **石原祥太郎** (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [[website](https://book.mynavi.jp/ec/products/detail/id=123641) ]
+- **石原祥太郎**, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [[website](https://www.kspub.co.jp/book/detail/5190067.html) ] [[Chinese](http://books.gotop.com.tw/v_ACD021100) ], [[Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841) ]
 
 ## Book Section
 
-- **石原祥太郎** (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日. [[cite](https://techbookfest.org/event/tbf07) ]
-- **石原祥太郎** (2019). データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日. [[cite](https://note.com/nikkei_staff/n/neeae5e42c9f7) ]
-- **石原祥太郎** (2018). 機械学習を用いた日経電子版Proのユーザ分析, Nikkei Development Book 第1章, 技術書典5, 2018年10月8日. [[cite](https://note.com/nikkei_staff/n/n4d5253dbd58d) ]
+- **石原祥太郎** (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日. [[website](https://techbookfest.org/event/tbf07) ]
+- **石原祥太郎** (2019). データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日. [[website](https://note.com/nikkei_staff/n/neeae5e42c9f7) ]
+- **石原祥太郎** (2018). 機械学習を用いた日経電子版Proのユーザ分析, Nikkei Development Book 第1章, 技術書典5, 2018年10月8日. [[website](https://note.com/nikkei_staff/n/n4d5253dbd58d) ]
 
 ## Thesis
 
@@ -54,11 +54,11 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Awards
 
-- 2021年度人工知能学会全国大会優秀賞, 2021. [[cite](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
-- 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[cite](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
+- 2021年度人工知能学会全国大会優秀賞, 2021. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
+- 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
 
 ## Courses
 
-- 東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [[cite](https://gci.t.u-tokyo.ac.jp/dsonline/) ]
-- GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [[cite](https://www.k.u-tokyo.ac.jp/en/information/category/event/6407.html) ]
+- 東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [[website](https://gci.t.u-tokyo.ac.jp/dsonline/) ]
+- GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [[website](https://www.k.u-tokyo.ac.jp/en/information/category/event/6407.html) ]
