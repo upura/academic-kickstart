@@ -28,6 +28,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 増田太郎, **石原祥太郎**, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf) ]
 - 山田健太, 山本真吾, **石原祥太郎**, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf) ]
 - **石原祥太郎** (2021). Pythonによるアクセスログ解析入門, PyCon JP 2021, Oct 15-16th, 2021. [[slide](https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python) ], [[video](https://youtu.be/_EqrNN5Ld-w) ]
+- 植田暢大、高本大輝、**石原祥太郎** (2021). 森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み. NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告 [[website](https://yans.anlp.jp/entry/yans2021report) ]
 - 石原慧人, **石原祥太郎**, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja) ]
 - **石原祥太郎**, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja) ] ( 2021年度人工知能学会全国大会優秀賞 [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ])
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.
