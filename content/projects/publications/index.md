@@ -22,7 +22,9 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ]
+- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.
+- 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.
+- **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ], [[slide](https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction)]
 - 高橋寛武, **石原祥太郎**, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf) ]
 - 大村和正, 白井穂乃, **石原祥太郎**, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf) ]
 - 増田太郎, **石原祥太郎**, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf) ]
