@@ -22,7 +22,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.
+- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]
 - 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.
 - **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ], [[slide](https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction)]
 - 高橋寛武, **石原祥太郎**, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf) ]
@@ -30,11 +30,11 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 増田太郎, **石原祥太郎**, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf) ]
 - 山田健太, 山本真吾, **石原祥太郎**, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. 第14回データ工学と情報マネジメントに関するフォーラム. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf) ]
 - **石原祥太郎** (2021). Pythonによるアクセスログ解析入門, PyCon JP 2021, Oct 15-16th, 2021. [[slide](https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python) ], [[video](https://youtu.be/_EqrNN5Ld-w) ]
-- 植田暢大、高本大輝、**石原祥太郎** (2021). 森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み. NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告 [[website](https://yans.anlp.jp/entry/yans2021report) ]
+- 植田暢大、高本大輝、**石原祥太郎** (2021). 森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み. NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告 [[website](https://yans.anlp.jp/entry/yans2021report) ] [[code](https://github.com/upura/yans2021-hackathon) ]
 - 石原慧人, **石原祥太郎**, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja) ]
 - **石原祥太郎**, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja) ] ( 2021年度人工知能学会全国大会優秀賞 [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ])
 - **Shotaro Ishihara**, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.
-- **石原祥太郎** (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [[slide](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python) ], [[github](https://github.com/upura/scipy-japan-2020-kaggle-tutorial) ]
+- **石原祥太郎** (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [[slide](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python) ], [[code](https://github.com/upura/scipy-japan-2020-kaggle-tutorial) ]
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.
 - **Shotaro Ishihara**, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [[paper](https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing) ]
 - 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日.
@@ -57,6 +57,8 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Awards
 
+- NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.
+- NLP若手の会 (YANS) 第17回シンポジウム奨励賞, 2022. 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成.
 - 2021年度人工知能学会全国大会優秀賞, 2021. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
 - 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
