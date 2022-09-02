@@ -57,7 +57,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Media Coverage
 
-- [機械学習コンペ QAセッション「Kaggleで優勝する方法は？」](https://pr.forkwell.com/events/ml-study-03/), Forkwell Press, Aug 15, 2022.
+- [エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/), Qiita Zine, Sep 2nd, 2022.
+- [機械学習コンペ QAセッション「Kaggleで優勝する方法は？」](https://pr.forkwell.com/events/ml-study-03/), Forkwell Press, Aug 15th, 2022.
 - [The Kaggle Book: Data analysis and machine learning for competitive data science](https://www.kaggle.com/discussions/general/320574), Apr 22nd, 2022.
 - [データ・クリエイティブ対談【第9弾】テクノロジー化、データ化の先にある「本質」を見極めたい（後編） ゲスト：石原祥太郎さん（データサイエンティスト）](https://seikatsusha-ddm.com/article/12008/), 生活者データ・ドリブン・マーケティング通信, Nov 4th, 2021.
 - [データ・クリエイティブ対談【第9弾】テクノロジー化、データ化の先にある「本質」を見極めたい（前編） ゲスト：石原祥太郎さん（データサイエンティスト）](https://seikatsusha-ddm.com/article/12007/), 生活者データ・ドリブン・マーケティング通信, Nov 1st, 2021.
