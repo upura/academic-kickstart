@@ -42,6 +42,7 @@ https://atcoder.jp/users/upura
 
 ## Others
 
+- [NLP若手の会 (YANS) 第17回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2022hackathon), 1st (Team), 2022.
 - [Kaggle Days Meetup at New Delhi](https://kaggledays.com/championship/leaderboard/), 3rd (Team), 2021.
 - [NLP若手の会 (YANS) 第16回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2021hackathon), 2nd (Team), 2021.
 - [SIGIR eCom'21 Data Challenge Purchase Intent Prediction](https://sigir-ecom.github.io/data-task.html), 3nd (Team), 2021.

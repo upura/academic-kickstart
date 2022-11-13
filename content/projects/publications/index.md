@@ -9,8 +9,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Conference Paper (Referred)
 
-- **Shotaro Ishihara***, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial & Government Track). (to appear)
-- **Shotaro Ishihara***, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. (to appear) (*equal contribution)
+- **Shotaro Ishihara***, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial & Government Track). (to appear) [[slide](https://speakerdeck.com/upura/analysis-and-estimation-of-news-article-reading-time-with-multimodal-machine-learning) ]
+- **Shotaro Ishihara***, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. (to appear) (*equal contribution) [[slide](https://speakerdeck.com/upura/semantic-shift-stability-efficient-way-to-detect-performance-degradation-of-word-embeddings-and-pre-trained-language-models) ]
 - **Shotaro Ishihara**, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). [[paper](https://aclanthology.org/2022.semeval-1.171/) ] [[slide](https://speakerdeck.com/upura/nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity) ] [[poster](https://speakerdeck.com/upura/poster-nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity) ]
 - **Shotaro Ishihara**, and Yasufumi Nakama (2022). Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. In Proceedings of Computation + Journalism Conference 2022. New York, NY, USA, 5 pages. [[paper](https://cj2022.brown.columbia.edu/proceedings/) ] [[slide](https://speakerdeck.com/upura/generating-a-pairwise-dataset-for-click-through-rate-prediction-of-news-articles-considering-positions-and-contents) ]
 - **Shotaro Ishihara**, Yuta Matsuda, and Norihiko Sawa (2021). Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData, pp. 3522-24. [[paper](https://ieeexplore.ieee.org/document/9671300) ]
@@ -24,8 +24,8 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]
-- 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.
+- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]（Applied Scientist賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
+- 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.（奨励賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
 - **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ] [[slide](https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction)]
 - 高橋寛武, **石原祥太郎**, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf) ]
 - 大村和正, 白井穂乃, **石原祥太郎**, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf) ]
@@ -60,7 +60,6 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 ## Awards
 
 - NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.
-- NLP若手の会 (YANS) 第17回シンポジウム奨励賞, 2022. 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成.
 - 2021年度人工知能学会全国大会優秀賞, 2021. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
 - 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
