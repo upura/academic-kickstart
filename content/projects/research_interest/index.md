@@ -34,9 +34,9 @@ Application of natural language processing techniques for individual tasks in th
 
 You can see [Publications](https://upura.github.io/projects/publications/) for the detail.
 
-- [1] Shotaro Ishihara et. al., Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. AACL-IJCNLP 2022.
-- [2] Shotaro Ishihara et. al., Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. HMData 2021.
-- [3] Shotaro Ishihara et. al., Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. CJ 2022.
-- [4] Shotaro Ishihara et. al., Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. SemEval 2022.
-- [5] Shotaro Ishihara et. al., Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. BigData 2022 (Industrial & Government Track).
-- [6] Shotaro Ishihara et. al., Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition “Kaggle”. CJ 2020.
+- [1] Shotaro Ishihara et al., Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. AACL-IJCNLP 2022.
+- [2] Shotaro Ishihara et al., Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. HMData 2021.
+- [3] Shotaro Ishihara et al., Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. CJ 2022.
+- [4] Shotaro Ishihara et al., Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. SemEval 2022.
+- [5] Shotaro Ishihara et al., Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. BigData 2022 (Industrial & Government Track).
+- [6] Shotaro Ishihara et al., Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition “Kaggle”. CJ 2020.
