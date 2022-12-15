@@ -45,6 +45,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Book
 
+- 小嵜耕平, 秋葉拓哉, 林孝紀, **石原祥太郎** (2022). Kaggleに挑む深層学習プログラミングの極意, 講談社, 2022年2月2日. [[website](https://www.amazon.co.jp/dp/4065305136/) ]
 - Abhishek Thakur (著), **石原祥太郎** (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [[website](https://book.mynavi.jp/ec/products/detail/id=123641) ]
 - **石原祥太郎**, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [[website](https://www.kspub.co.jp/book/detail/5190067.html) ] [[Chinese](http://books.gotop.com.tw/v_ACD021100) ] [[Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841) ]
 
