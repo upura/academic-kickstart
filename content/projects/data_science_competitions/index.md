@@ -32,6 +32,7 @@ https://signate.jp/profile/history
 
 ## Nishika
 
+- [Fake News detection](https://www.nishika.com/competitions/fakenews/summary) 6th (Solo), 2022.
 - [判例の個人情報の自動マスキング](https://www.nishika.com/competitions/7/summary) 7th (Solo), 2021.
 - [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 2nd (Solo), 2020.
 
