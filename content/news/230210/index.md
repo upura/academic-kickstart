@@ -1,8 +1,6 @@
 ---
 title: (2023.02.10) Presentation at CSSJ2023
 summary: https://css-japan.com/2022/12/13/cssj2023/
-tags:
-- newsfeed
 date: "2023-02-10T00:00:00Z"
 
 ---

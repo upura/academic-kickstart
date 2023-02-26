@@ -1,8 +1,6 @@
 ---
 title: (2023.01.26) Presentation at Start Python Club
 summary: https://startpython.connpass.com/event/270312/
-tags:
-- newsfeed
 date: "2023-01-26T00:00:00Z"
 
 ---
