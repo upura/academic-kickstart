@@ -48,7 +48,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Book
 
-- 小嵜耕平, 秋葉拓哉, 林孝紀, **石原祥太郎** (2023). Kaggleに挑む深層学習プログラミングの極意, 講談社, 2022年2月2日. [[website](https://www.amazon.co.jp/dp/4065305136/) ]
+- 小嵜耕平, 秋葉拓哉, 林孝紀, **石原祥太郎** (2023). Kaggleに挑む深層学習プログラミングの極意, 講談社, 2023年1月31日. [[website](https://www.amazon.co.jp/dp/4065305136/) ]
 - Abhishek Thakur (著), **石原祥太郎** (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [[website](https://book.mynavi.jp/ec/products/detail/id=123641) ]
 - **石原祥太郎**, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [[website](https://www.kspub.co.jp/book/detail/5190067.html) ] [[Chinese](http://books.gotop.com.tw/v_ACD021100) ] [[Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841) ]
 
@@ -65,7 +65,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 ## Awards
 
 - 第2回計算社会科学会大会優秀賞. [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ]
-- NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [[website](https://yans.anlp.jp/entry/yans2022report)) ]
+- NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [[website](https://yans.anlp.jp/entry/yans2022report) ]
 - 2021年度人工知能学会全国大会優秀賞. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
 - 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
