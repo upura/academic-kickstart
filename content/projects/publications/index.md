@@ -64,7 +64,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Awards
 
-- 第2回計算社会科学会大会優秀賞. [[website](https://css-japan.com/2022/12/13/cssj2023/#award)) ]
+- 第2回計算社会科学会大会優秀賞. [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ]
 - NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [[website](https://yans.anlp.jp/entry/yans2022report)) ]
 - 2021年度人工知能学会全国大会優秀賞. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
 - 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
