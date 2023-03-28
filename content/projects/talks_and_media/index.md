@@ -9,7 +9,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
-- 著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』, [みんなのPython勉強会#90](https://startpython.connpass.com/event/270312/), Feb 16th, 2023.
+- [AMA (Ask me anything) 『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/ask-me-anything), [W&B 東京ミートアップ #2](https://wandb.connpass.com/event/275849/), Mar 22nd, 2023.
+- [著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/kaggle-book-gokui), [みんなのPython勉強会#90](https://startpython.connpass.com/event/270312/), Feb 16th, 2023.
 - [Kaggle メダリストが話す、データと分析手法の見つけ方](https://upura.hatenablog.com/entry/2022/12/16/202025), [東京大学グローバル・インターンシップ・プログラム（UGIP）](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html), Dec 16th, 2022.
 - [実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離](https://upura.hatenablog.com/entry/2022/10/13/185709), [PyCon JP 2022](https://2022.pycon.jp/), Oct 14th-15th, 2022.
 - [SageMakerを用いた日経電子版向け大規模言語モデルの構築](https://aws.amazon.com/jp/blogs/news/aws-aiml-jirei-july/), [AWS AI/ML Updateと事例紹介](https://pages.awscloud.com/JAPAN-event-OE-EIB22-WWSO-AIML-20220721-reg-event.html), July 21st, 2022.
