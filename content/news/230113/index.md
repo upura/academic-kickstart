@@ -1,8 +1,6 @@
 ---
 title: (2023.01.13) Presentation at NLP2023
 summary: https://www.anlp.jp/nlp2023/
-tags:
-- newsfeed
 date: "2023-01-13T15:00:00Z"
 
 ---

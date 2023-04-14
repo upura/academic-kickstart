@@ -22,6 +22,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 - Next Item Recommendation ([Ishihara et al., WSDM 2021 Workshop](https://ceur-ws.org/Vol-2855/challenge_short_7.pdf))
 - Click-through Rate Prediction ([Ishihara et al., CJ 2022](https://cj2022.brown.columbia.edu/proceedings/))
 - User Attribute Prediction ([Ishihara et al., CJ 2020](https://cj2021.northeastern.edu/research-papers/))
+- Quantifying Diachronic Language Change ([Ishihara et al., IC2S2 2023](https://www.ic2s2.org/))
 
 ## Reference
 
