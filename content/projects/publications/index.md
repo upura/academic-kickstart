@@ -25,8 +25,8 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- **石原祥太郎** (2023). 事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析. 言語処理学会第29回年次大会発表論文集.
-- 大村和正 (京大), 白井穂乃, **石原祥太郎**, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出. 言語処理学会第29回年次大会発表論文集.
+- **石原祥太郎** (2023). 事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析. 言語処理学会第29回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q2-2.pdf) ]
+- 大村和正 (京大), 白井穂乃, **石原祥太郎**, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出. 言語処理学会第29回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D11-2.pdf) ]
 - **石原祥太郎**, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023). (大会優秀賞 [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ])
 - **石原祥太郎** (2022). 国際会議参加報告 AACL-IJCNLP 2022. 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム. [[slide](https://speakerdeck.com/upura/aacl-ijcnlp-2022-report) ]
 - 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]（Applied Scientist賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
