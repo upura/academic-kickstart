@@ -11,7 +11,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 ### Challenges in Practice
 
 - Monitoring time-series performance degradation ([Ishihara et al., AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/))
-- Training Data Extraction (Ishihara, ANLP 2023)
+- Training Data Extraction (Ishihara, TrustNLP 2023)
 - Adversarial Validation ([Ishihara et al., SIGIR 2021 Workshop](https://sigir-ecom.github.io/ecom2021/accepted-papers.html))
 
 ### Applied Machine Learning
