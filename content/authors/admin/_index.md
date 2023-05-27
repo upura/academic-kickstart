@@ -70,5 +70,6 @@ user_groups: []
 
 I'm a data scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
 While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
-I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition, and published [a technical book for beginners](https://www.kspub.co.jp/book/detail/5190067.html).
+My research interests include the [opportunities and challenges of pre-trained language models for news media](https://upura.github.io/projects/research_interest/).
+I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition, and published three books.
 The International News Media Association gave me "[30 Under 30 Awards and Grand Prize](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards)" in 2020.
