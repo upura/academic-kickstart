@@ -46,7 +46,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - **石原祥太郎** (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [[slide](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python) ] [[code](https://github.com/upura/scipy-japan-2020-kaggle-tutorial) ]
 - **石原祥太郎** (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.
 - **Shotaro Ishihara**, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [[paper](https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing) ]
-- 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日.
+- 稗方和夫, 満行泰河, **石原祥太郎** (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日. ( 2018年度山下記念研究賞 [[website](https://www.ipsj.or.jp/award/yamasita2018-detail.html) ])
 - 和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, **石原祥太郎** (2016). 学生突撃レポート 港湾空港技術研究所. 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45. [[paper](https://ci.nii.ac.jp/naid/40020991735/) ]
 
 ## Book
@@ -73,6 +73,11 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 2021年度人工知能学会全国大会優秀賞. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
 - 30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [[website](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards) ]
 - Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.
+
+## Awards (Co-author)
+
+- NLP若手の会 (YANS) 第17回シンポジウム 奨励賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]
+- 2018年度山下記念研究賞 [[website](https://www.ipsj.or.jp/award/yamasita2018-detail.html) ]
 
 ## Courses
 
