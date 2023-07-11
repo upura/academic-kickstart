@@ -36,18 +36,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: blog
-  icon_pack: fas
-  link: https://upura.hatenablog.com/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/upura0
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?user=EBcMzQEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/upura
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/sishihara
+- icon: blog
+  icon_pack: fas
+  link: https://upura.hatenablog.com/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/upura0
 - icon: youtube-square
   icon_pack: fab
   link: https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw
