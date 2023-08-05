@@ -9,6 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- 論文紹介 Quantifying attention via dwell time and engagement in a social media browsing environment, [ウェブ・ソーシャルメディア論文読み会 第八回](https://sites.google.com/view/web-socialmedia-study/home), Aug 24th, 2023.
 - [論文紹介 Discovering and Categorising Language Biases in Reddit](https://speakerdeck.com/upura/web-socialmedia-study-5th), [ウェブ・ソーシャルメディア論文読み会 第五回](https://sites.google.com/view/web-socialmedia-study/home), May 18th, 2023.
 - [AMA (Ask me anything) 『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/ask-me-anything), [W&B 東京ミートアップ #2](https://wandb.connpass.com/event/275849/), Mar 22nd, 2023.
 - [著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/kaggle-book-gokui), [みんなのPython勉強会#90](https://startpython.connpass.com/event/270312/), Feb 16th, 2023.
