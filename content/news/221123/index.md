@@ -1,8 +1,6 @@
 ---
 title: (2022.11.23) Accepted at AACL-IJCNLP 2022
 summary: 
-tags:
-- newsfeed
 date: "2022-11-23T00:00:00Z"
 
 ---

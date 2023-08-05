@@ -1,8 +1,6 @@
 ---
 title: (2022.12.20) Accepted at BigData 2022 (Industrial & Government Track)
 summary: 
-tags:
-- newsfeed
 date: "2022-12-20T00:00:00Z"
 
 ---
