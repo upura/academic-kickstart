@@ -16,6 +16,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 
 ### Applied Machine Learning
 
+- Crossword puzzle Generation ([CIKM 2023](https://arxiv.org/abs/2308.04688))
 - Editors-in-the-loop Summarization ([BigData 2021 Workshop](https://ieeexplore.ieee.org/document/9671300))
 - Reading Time Estimation ([BigData 2022 Industrial & Government Track](https://ieeexplore.ieee.org/document/10020618))
 - Multilingual News Similarity Scoring ([NAACL 2022 Workshop](https://aclanthology.org/2022.semeval-1.171/))
