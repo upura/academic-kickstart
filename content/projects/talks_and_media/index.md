@@ -62,6 +62,8 @@ date: "2021-06-16T00:00:00Z"
 
 ## Media Coverage
 
+- [Kaggleの面白さと有効性（データサイエンティスト鼎談）](https://dx2.inf.uec.ac.jp/program/kaggle.html), 電気通信大学 D×2プログラムWebサイト, Aug 18th, 2023.
+- [実践的データサイエンスとは（データサイエンティスト鼎談）](https://dx2.inf.uec.ac.jp/program/index.html#block2), 電気通信大学 D×2プログラムWebサイト, Aug 18th, 2023.
 - [【開催報告 & 資料公開】AWS AI/ML Updateと事例紹介 〜AI/ML で解決したいビジネスの課題、AI/ML サービス活用のコツについてご紹介〜](https://aws.amazon.com/jp/blogs/news/aws-aiml-jirei-july/), Amazon Web Services ブログ, Sep 20th, 2022.
 - [エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/), Qiita Zine, Sep 2nd, 2022.
 - [機械学習コンペ QAセッション「Kaggleで優勝する方法は？」](https://pr.forkwell.com/events/ml-study-03/), Forkwell Press, Aug 15th, 2022.
