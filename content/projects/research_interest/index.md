@@ -21,7 +21,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 - Reading Time Estimation ([BigData 2022 Industrial & Government Track](https://ieeexplore.ieee.org/document/10020618))
 - Multilingual News Similarity Scoring ([NAACL 2022 Workshop](https://aclanthology.org/2022.semeval-1.171/))
 - Next Item Recommendation ([WSDM 2021 Workshop](https://ceur-ws.org/Vol-2855/challenge_short_7.pdf))
-- Quantifying Diachronic Language Change ([Ishihara et al., IC2S2 2023](https://www.ic2s2.org/))
+- Quantifying Diachronic Language Change ([IC2S2 2023](https://www.ic2s2.org/))
 
 ## Reference
 
