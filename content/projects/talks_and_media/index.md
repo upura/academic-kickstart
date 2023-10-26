@@ -13,6 +13,7 @@ date: "2021-06-16T00:00:00Z"
 - 「文理」の壁を越えて：データサイエンスが変えるニュースメディア, 東海高校「研究&仕事紹介講座」, Nov 2nd, 2023.
 - 事前学習済み言語モデルとニュースメディア〜応用可能性と課題〜, [立教大学人工知能科学研究科: ＡＩビジネス特論Ｂ](https://sy.rikkyo.ac.jp/web/preview.php?nendo=2023&kodo_2=VR456), Nov 1st, 2023.
 - 事前学習済み言語モデルとニュースメディア〜応用可能性と課題〜, [立教大学人工知能科学研究科: ＡＩビジネス特論Ｂ](https://sy.rikkyo.ac.jp/web/preview.php?nendo=2023&kodo_2=VR456), Oct 25th, 2023.
+- [日本経済新聞社におけるWandBの活用例](https://speakerdeck.com/masakiaota/ri-ben-jing-ji-xin-wen-she-niokeruwandbnohuo-yong-li), [Fully Connected 2023 Tokyoカンファレンス](https://fullyconnected.jp/), Oct 11th, 2023.
 - [関東 Kaggler 会スポンサーセッション](https://speakerdeck.com/upura/230923-kanto-kaggler-sponsor), [関東 Kaggler 会](https://connpass.com/event/290248/), Sep 23th, 2023.
 - 生成 AI のこれまでとこれから, [Innovators Live Japan, Google Cloud](https://cloudonair.withgoogle.com/events/innovators-live-jp), Sep 5th, 2023.
 - [論文紹介 Quantifying attention via dwell time and engagement in a social media browsing environment](https://speakerdeck.com/upura/web-socialmedia-study-8th), [ウェブ・ソーシャルメディア論文読み会 第八回](https://sites.google.com/view/web-socialmedia-study/home), Aug 24th, 2023.
