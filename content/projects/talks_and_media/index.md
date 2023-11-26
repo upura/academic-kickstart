@@ -10,7 +10,7 @@ date: "2021-06-16T00:00:00Z"
 ## Talks
 
 - テキスト生成 AI の基礎と金融特化モデルの開発, 金融工学研究所年末セミナー, Dec 7th, 2023.
-- 「極意本」サンプルコードをクラウド上で動かそう, [Kaggle Tokyo Meetup 2023](https://connpass.com/event/292810/), Nov 26, 2023.
+- [「極意本」サンプルコードをクラウド上で動かそう](https://speakerdeck.com/upura/gokui-google-cloud), [Kaggle Tokyo Meetup 2023](https://connpass.com/event/292810/), Nov 26, 2023.
 - [論文紹介 Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM 2023)](https://speakerdeck.com/upura/introduction-crossword-cikm2023), [IR Reading 2023秋](https://sigir.jp/post/2023-11-18-irreading_2023fall/), Nov 18, 2023.
 - 「文理」の壁を越えて：データサイエンスが変えるニュースメディア, 東海高校「研究&仕事紹介講座」, Nov 2nd, 2023.
 - 事前学習済み言語モデルとニュースメディア〜応用可能性と課題〜, [立教大学人工知能科学研究科: ＡＩビジネス特論Ｂ](https://sy.rikkyo.ac.jp/web/preview.php?nendo=2023&kodo_2=VR456), Nov 1st, 2023.
@@ -100,6 +100,26 @@ date: "2021-06-16T00:00:00Z"
 - 東大「胴上げの春」復活　４年ぶり合格掲示へ　ウェブ主流でも「記念」, 東京読売新聞, Nov 21st, 2016.
 - 「通貨の番人」日銀のトリビア, 日本経済新聞電子版, May 16th, 2015.
 - 東大（４）芽吹く「タフな知性」――打たれ弱い気質変化、就職先、「収入より活躍」（大学解剖）, 日経産業新聞, Apr 3rd, 2015.
+
+## Event Organization
+
+- [関東 Kaggler 会](https://connpass.com/event/290248/), Sep 23rd, 2023.
+- [Sports Analyst Meetup](https://spoana.connpass.com/)
+    - [Sports Analyst Meetup #14 & JSAA Lab LT会 vol.3](https://spoana.connpass.com/event/296512/), Oct 28th, 2023.
+    - [Sports Analyst Meetup #13](https://spoana.connpass.com/event/265916/), Nov 26th, 2022.
+    - [Sports Analyst Meetup #12](https://spoana.connpass.com/event/230887/), Dec 19th, 2021.
+    - [ARCS IDEATHON (Sports Analyst Meetup #11)](https://spoana.connpass.com/event/218035/), Aug 7th, 2021.
+    - [Sports Analyst Meetup #10](https://spoana.connpass.com/event/213076/), June 26th, 2021.
+    - [Sports Analyst Meetup #9](https://upura.hatenablog.com/entry/2020/12/14/090032), Dec 13rd, 2020.
+    - [Sports Analyst Meetup #8](https://upura.hatenablog.com/entry/2020/07/19/090000), July 18th, 2020.
+    - [Sports Analyst Meetup #7](https://upura.hatenablog.com/entry/2020/04/17/190500), Apr 16th, 2020.
+    - [Sports Analyst Meetup #6](https://upura.hatenablog.com/entry/2020/02/17/120725), Frb 16th, 2020.
+    - [Sports Analyst Meetup #5](https://upura.hatenablog.com/entry/2019/11/02/220842), Nov 2nd, 2019.
+    - [Sports Analyst Meetup #4](https://upura.hatenablog.com/entry/2019/08/24/214442), Aug 24th, 2019.
+    - [Sports Analyst Meetup #3](https://upura.hatenablog.com/entry/2019/06/30/215844), June 30th, 2019.
+    - [Sports Analyst Meetup #2](https://upura.hatenablog.com/entry/2019/05/12/222331), May 12th, 2019.
+    - [Sports Analyst Meetup #1](https://upura.hatenablog.com/entry/2019/02/25/121000), Feb 24th, 2019.
+- [電通過労自殺「日本を変えて」遺族が東大で呼びかけ](https://mainichi.jp/articles/20170522/k00/00m/040/066000c)
 
 ## Sports
 
