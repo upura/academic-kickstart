@@ -9,7 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
-- テキスト生成 AI の基礎と金融特化モデルの開発, 金融工学研究所年末セミナー, Dec 7th, 2023.
+- テキスト生成 AI の基礎と金融特化モデルの開発, 日経金融工学研究所年末セミナー, Dec 7th, 2023.
 - [「極意本」サンプルコードをクラウド上で動かそう](https://speakerdeck.com/upura/gokui-google-cloud), [Kaggle Tokyo Meetup 2023](https://connpass.com/event/292810/), Nov 26, 2023.
 - [論文紹介 Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM 2023)](https://speakerdeck.com/upura/introduction-crossword-cikm2023), [IR Reading 2023秋](https://sigir.jp/post/2023-11-18-irreading_2023fall/), Nov 18, 2023.
 - 「文理」の壁を越えて：データサイエンスが変えるニュースメディア, 東海高校「研究&仕事紹介講座」, Nov 2nd, 2023.
