@@ -1,8 +1,6 @@
 ---
 title: (2023.04.14) Accepted at IC2S2 2023
 summary: https://www.ic2s2.org/
-tags:
-- newsfeed
 date: "2023-04-14T00:00:00Z"
 
 ---

@@ -1,8 +1,6 @@
 ---
 title: (2023.05.23) Accepted at TrustNLP 2023
 summary: https://trustnlpworkshop.github.io/
-tags:
-- newsfeed
 date: "2023-05-22T00:00:00Z"
 
 ---
