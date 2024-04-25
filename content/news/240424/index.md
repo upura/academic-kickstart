@@ -1,5 +1,5 @@
 ---
-title: (2024.04.24) Our research are featured in a press release
+title: (2024.04.24) Our research was featured in a press release
 summary: https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf
 tags:
 - newsfeed
