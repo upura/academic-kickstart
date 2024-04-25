@@ -3,7 +3,6 @@ title: (2023.01.01) Publish a Japanese Kaggle Book
 summary: https://www.kspub.co.jp/book/detail/5305133.html
 tags:
 - Kaggle
-- newsfeed
 date: "2023-01-01T00:00:00Z"
 
 ---
