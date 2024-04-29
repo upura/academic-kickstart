@@ -6,22 +6,22 @@ date: "2021-05-01T00:00:00Z"
 
 ---
 
-My research interest is to explore the opportunities and challenges of pre-trained language models in the news media.
+My research interest is to explore the opportunities and challenges of pre-trained language models (PLMs) in the news media.
 
 ### Challenges in Practice
 
-- Monitoring time-series performance degradation ([AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/))
-- Training Data Extraction ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/))
-- Adversarial Validation ([SIGIR 2021 Workshop](https://sigir-ecom.github.io/ecom2021/accepted-papers.html))
+- Monitoring time-series performance degradation ([AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/), [IC2S2 2023](https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf))
+- Training Data Extraction ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/), [NAACL 2024 Workshop](https://arxiv.org/abs/2404.17143))
 
-### Applied Machine Learning
+### Building and Applying PLMs
 
-- Crossword puzzle Generation ([CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615151))
-- Editors-in-the-loop Summarization ([BigData 2021 Workshop](https://ieeexplore.ieee.org/document/9671300))
-- Reading Time Estimation ([BigData 2022 Industrial & Government Track](https://ieeexplore.ieee.org/document/10020618))
-- Multilingual News Similarity Scoring ([NAACL 2022 Workshop](https://aclanthology.org/2022.semeval-1.171/))
-- Next Item Recommendation ([WSDM 2021 Workshop](https://ceur-ws.org/Vol-2855/challenge_short_7.pdf))
-- Quantifying Diachronic Language Change ([IC2S2 2023](https://www.ic2s2.org/))
+- Building domain-specific PLMs [Press release](https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf)
+- PLMs for news industry:
+    - Crossword puzzle generation ([CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615151))
+    - Editors-in-the-loop summarization ([BigData 2021 Workshop](https://ieeexplore.ieee.org/document/9671300))
+    - Reading time estimation ([BigData 2022 Industrial & Government Track](https://ieeexplore.ieee.org/document/10020618))
+    - Multilingual news similarity scoring ([NAACL 2022 Workshop](https://aclanthology.org/2022.semeval-1.171/))
+    - Next Item Recommendation ([WSDM 2021 Workshop](https://ceur-ws.org/Vol-2855/challenge_short_7.pdf))
 
 ## Reference
 
