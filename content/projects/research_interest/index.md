@@ -15,7 +15,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 
 ### Building and Applying PLMs
 
-- Building domain-specific PLMs [Press release](https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf)
+- Building domain-specific PLMs ([Press release](https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf))
 - PLMs for news industry:
     - Crossword puzzle generation ([CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615151))
     - Editors-in-the-loop summarization ([BigData 2021 Workshop](https://ieeexplore.ieee.org/document/9671300))
