@@ -38,7 +38,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 大村和正 (京大), 白井穂乃, **石原祥太郎**, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出. 言語処理学会第29回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D11-2.pdf) ]
 - **石原祥太郎**, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023). (大会優秀賞 [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ])
 - **石原祥太郎** (2022). 国際会議参加報告 AACL-IJCNLP 2022. 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム. [[slide](https://speakerdeck.com/upura/aacl-ijcnlp-2022-report) ]
-- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]（Applied Scientist賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
+- 梶川怜恩, 鈴木刀磨, 二宮大空, **石原祥太郎** (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]（最終評価スコア1位, Applied Scientist賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
 - 馬嶋海斗, **石原祥太郎** (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.（奨励賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
 - **石原祥太郎**, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ] [[slide](https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction) ]
 - 高橋寛武, **石原祥太郎**, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf) ]
