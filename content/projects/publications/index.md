@@ -7,6 +7,10 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
+## Journal (Referred)
+
+- 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, **石原祥太郎**, 山田剛, 進藤裕之 (2024). 日経企業IDリンキングのための類似度ベースELシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号.
+
 ## International Conference (Referred)
 
 - **Shotaro Ishihara** (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [[arXiv](https://arxiv.org/abs/2404.17143) ]
