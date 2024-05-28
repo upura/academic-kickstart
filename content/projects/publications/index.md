@@ -91,6 +91,10 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - NLP若手の会 (YANS) 第17回シンポジウム 奨励賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]
 - 2018年度山下記念研究賞 [[website](https://www.ipsj.or.jp/award/yamasita2018-detail.html) ]
 
+## Committee
+
+- 一般社団法人人工知能学会企画委員会, April 2024-. [[website](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/) ]
+
 ## Courses
 
 - 東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [[website](https://gci.t.u-tokyo.ac.jp/dsonline/) ]
