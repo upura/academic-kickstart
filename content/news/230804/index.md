@@ -1,8 +1,6 @@
 ---
 title: (2023.08.04) Accepted at CIKM 2023
 summary: https://uobevents.eventsair.com/cikm2023/
-tags:
-- newsfeed
 date: "2023-08-05T00:00:00Z"
 
 ---

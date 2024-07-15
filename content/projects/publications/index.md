@@ -13,6 +13,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## International Conference (Referred)
 
+- **Shotaro Ishihara** and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. In Proceedings of the 17th International Natural Language Generation Conference.
 - **Shotaro Ishihara** (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [[arXiv](https://arxiv.org/abs/2404.17143) ]
 - Kaito Majima†, and **Shotaro Ishihara**† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) [[arXiv](https://arxiv.org/abs/2308.04688) ] [[paper](https://dl.acm.org/doi/10.1145/3583780.3615151) ]
 - **Shotaro Ishihara**, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science (IC2S2 2023). [[abstract](https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf) ] [[poster](https://speakerdeck.com/upura/quantifying-diachronic-language-change-via-word-embeddings-analysis-of-social-events-using-11-years-news-articles-in-japanese-and-english) ]
@@ -32,6 +33,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
+- **石原祥太郎** (2024). 「巨人の肩の上」で自作ライブラリを作る技術, PyCon JP 2024, Sep 27-28th, 2024.
 - 阿波智彦, **石原祥太郎** (2024) 日経「星新一賞」と生成AI. 情報処理学会・学会誌「情報処理」. [[website](https://note.com/shikajiro/n/n62efbc939711) ]
 - 白井穂乃, **石原祥太郎** (2024). 見出し意味具体化に向けた日本語ベンチマークの構築. 言語処理学会第30回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-11.pdf) ]
 - 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, **石原祥太郎**, 山田剛, 進藤裕之 (2024). 日経企業IDリンキングのための類似度ベースELシステムの構築と分析. 言語処理学会第30回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-23.pdf) ]
