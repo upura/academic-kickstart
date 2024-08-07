@@ -71,6 +71,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Book Section
 
+- 杉山阿聖, 太田満久, 久井裕貴 (編著) (2024). 大規模言語モデルの研究開発から実運用に向けて, 事例でわかるMLOps 機械学習の成果をスケールさせる処方箋 11章, 2024年9月30日. [[website](https://www.amazon.co.jp/dp/4065369568) ]
 - **石原祥太郎** (2023). 単語の意味変化の定量化と大規模言語モデルへの応用, Nikkei Development Book VOL.4 第1章, 技術書典14, 2023年5月21日. [[website](https://techbookfest.org/product/4LLNW3XwneRdm0CGqtPdJZ) ]
 - **石原祥太郎** (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日. [[website](https://techbookfest.org/event/tbf07) ]
 - **石原祥太郎** (2019). データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日. [[website](https://note.com/nikkei_staff/n/neeae5e42c9f7) ]
