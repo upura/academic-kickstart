@@ -9,8 +9,9 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
-- 「巨人の肩の上」で自作ライブラリを作る技術, PyCon JP 2024, Sep 28th, 2024.
-- 日本経済新聞社 x 自然言語処理, 第19回YANSシンポジウムスポンサーセッション, Sep 5th, 2024.
+- ニュースメディアにおける事前学習済みモデルの可能性と課題, [第27回情報論的学習理論ワークショップ (IBIS2024)](https://ibisml.org/ibis2024/) 企画セッション3：ビジネスと機械学習, Nov 7th, 2024.
+- 「巨人の肩の上」で自作ライブラリを作る技術, [PyCon JP 2024](https://2024.pycon.jp), Sep 28th, 2024.
+- 日本経済新聞社 x 自然言語処理, [第19回YANSシンポジウム](https://yans.anlp.jp/entry/yans2024) スポンサーセッション, Sep 5th, 2024.
 - テキスト生成 AI の基礎と金融特化モデルの開発, 日経金融工学研究所年末セミナー, Dec 7th, 2023.
 - [「極意本」サンプルコードをクラウド上で動かそう](https://speakerdeck.com/upura/gokui-google-cloud), [Kaggle Tokyo Meetup 2023](https://connpass.com/event/292810/), Nov 26, 2023.
 - [論文紹介 Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM 2023)](https://speakerdeck.com/upura/introduction-crossword-cikm2023), [IR Reading 2023秋](https://sigir.jp/post/2023-11-18-irreading_2023fall/), Nov 18, 2023.
@@ -25,6 +26,7 @@ date: "2021-06-16T00:00:00Z"
 - [AMA (Ask me anything) 『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/ask-me-anything), [W&B 東京ミートアップ #2](https://wandb.connpass.com/event/275849/), Mar 22nd, 2023.
 - [著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』](https://speakerdeck.com/upura/kaggle-book-gokui), [みんなのPython勉強会#90](https://startpython.connpass.com/event/270312/), Feb 16th, 2023.
 - [Kaggle メダリストが話す、データと分析手法の見つけ方](https://upura.hatenablog.com/entry/2022/12/16/202025), [東京大学グローバル・インターンシップ・プログラム（UGIP）](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html), Dec 16th, 2022.
+- [国際会議参加報告 AACL-IJCNLP 2022](https://speakerdeck.com/upura/aacl-ijcnlp-2022-report), 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム, Nov 30th, 2022.
 - [実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離](https://upura.hatenablog.com/entry/2022/10/13/185709), [PyCon JP 2022](https://2022.pycon.jp/), Oct 14th-15th, 2022.
 - [SageMakerを用いた日経電子版向け大規模言語モデルの構築](https://aws.amazon.com/jp/blogs/news/aws-aiml-jirei-july/), [AWS AI/ML Updateと事例紹介](https://pages.awscloud.com/JAPAN-event-OE-EIB22-WWSO-AIML-20220721-reg-event.html), July 21st, 2022.
 - 機械学習コンテストの潮流と上位解法, [第85回人工知能セミナー](https://www.ai-gakkai.or.jp/event/ai-seminar/no85_jsai_seminar/), July 11th, 2022.
