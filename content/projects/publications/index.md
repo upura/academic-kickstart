@@ -34,7 +34,7 @@ This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
 - **石原祥太郎** (2024). 「巨人の肩の上」で自作ライブラリを作る技術, PyCon JP 2024, Sep 27-28th, 2024.
-- 阿波智彦, **石原祥太郎** (2024) 日経「星新一賞」と生成AI. 情報処理学会・学会誌「情報処理」2024年9月号. [[website](https://note.com/shikajiro/n/n62efbc939711) ]
+- 阿波智彦, **石原祥太郎** (2024) 日経「星新一賞」と生成AI. 情報処理学会・学会誌「情報処理」2024年9月号. [[website](https://note.com/ipsj/n/n68656a5f3820) ]
 - 白井穂乃, **石原祥太郎** (2024). 見出し意味具体化に向けた日本語ベンチマークの構築. 言語処理学会第30回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-11.pdf) ]
 - 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, **石原祥太郎**, 山田剛, 進藤裕之 (2024). 日経企業IDリンキングのための類似度ベースELシステムの構築と分析. 言語処理学会第30回年次大会発表論文集. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-23.pdf) ]
 - **石原祥太郎**, 高橋寛武 (2023). ニュース記事の逆ピラミッド構造は読みやすさ評価に使えるか. NLP若手の会 (YANS) 第18回シンポジウム.
