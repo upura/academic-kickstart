@@ -10,15 +10,16 @@ My research interest is to explore the opportunities and challenges of pre-train
 
 ### Challenges in Practice
 
-- Monitoring time-series performance degradation ([AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/), [IC2S2 2023](https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf))
-- Training Data Extraction ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/), [NAACL 2024 Workshop](https://arxiv.org/abs/2404.17143))
+- Monitoring time-series performance degradation ([AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/) & [IC2S2 2023](https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf) => Journal of Natural Language Processing)
+- Training data extraction
+    - Survey paper ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/))
+    - Experiments on Japanese newspaper ([INLG 2024](https://arxiv.org/abs/2404.17143v2))
 
 ### Building and Applying PLMs
 
 - Building domain-specific PLMs ([Press release](https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf))
 - PLMs for news industry:
     - Crossword puzzle generation ([CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615151))
-    - Editors-in-the-loop summarization ([BigData 2021 Workshop](https://ieeexplore.ieee.org/document/9671300))
     - Reading time estimation ([BigData 2022 Industrial & Government Track](https://ieeexplore.ieee.org/document/10020618))
     - Multilingual news similarity scoring ([NAACL 2022 Workshop](https://aclanthology.org/2022.semeval-1.171/))
     - Next Item Recommendation ([WSDM 2021 Workshop](https://ceur-ws.org/Vol-2855/challenge_short_7.pdf))
