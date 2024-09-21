@@ -14,6 +14,7 @@ My research interest is to explore the opportunities and challenges of pre-train
 - Training data extraction
     - Survey paper ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/))
     - Experiments on Japanese newspaper ([INLG 2024](https://arxiv.org/abs/2404.17143v2))
+- Hallucination analysis on domain-specific PLMs (Journal of Natural Language Processing)
 
 ### Building and Applying PLMs
 
