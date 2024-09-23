@@ -41,7 +41,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, <u>石原祥太郎</u>, 山田剛, 進藤裕之 (2024). **日経企業IDリンキングのための類似度ベースELシステムの構築と分析**. *言語処理学会第30回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-23.pdf) ]
 - <u>石原祥太郎</u>, 高橋寛武 (2023). **ニュース記事の逆ピラミッド構造は読みやすさ評価に使えるか**. *NLP若手の会 (YANS) 第18回シンポジウム*.
 - 村田栄樹, <u>石原祥太郎</u> (2023). **ドメイン別に訓練した要約モデルにおけるHallucinationの内在・外在要因分析**. *NLP若手の会 (YANS) 第18回シンポジウム*.
-- 増田太郎, 櫻井亮佑, 桐井智弘, 渡邊英介, <u>石原祥太郎</u> (2023). **企業・業界動向抽出のための経済情報ラベルの定義とタグ付きコーパスの構築**. *NLP若手の会 (YANS) 第18回シンポジウム*.
+- 増田太郎, 櫻井亮佑, 桐井智弘, 渡邊英介, <u>石原祥太郎</u> (2023). **企業・業界動向抽出のための経済情報ラベルの定義とタグ付きコーパスの構築**. *NLP若手の会 (YANS) 第18回シンポジウム*. [[poster](https://speakerdeck.com/taro_masuda/yans2023-poster-s3-p21) ]
 - <u>石原祥太郎</u>, 中間康文 (2023). **マルチモーダル機械学習によるニュース記事の閲覧時間予測**. *2023年度人工知能学会全国大会（第37回）論文集*. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin458/_article/-char/ja/) ]
 - <u>石原祥太郎</u> (2023). **事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析**. *言語処理学会第29回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q2-2.pdf) ]
 - 大村和正 (京大), 白井穂乃, <u>石原祥太郎</u>, 澤紀彦 (2023). **極性と重要度を考慮した決算短信からの業績要因文の抽出**. *言語処理学会第29回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D11-2.pdf) ]
