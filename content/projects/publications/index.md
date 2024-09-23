@@ -47,7 +47,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 大村和正 (京大), 白井穂乃, <u>石原祥太郎</u>, 澤紀彦 (2023). **極性と重要度を考慮した決算短信からの業績要因文の抽出**. *言語処理学会第29回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D11-2.pdf) ]
 - <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2023). **単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析**. *第2回計算社会科学会大会(CSSJ2023)*. (大会優秀賞 [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ])
 - <u>石原祥太郎</u> (2022). **国際会議参加報告 AACL-IJCNLP 2022**. *第24回音声言語シンポジウム・第9回自然言語処理シンポジウム*. [[slide](https://speakerdeck.com/upura/aacl-ijcnlp-2022-report) ]
-- <u>石原祥太郎</u> (2022). **実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離**, *PyCon JP 2022*. [[website](https://2022.pycon.jp/en/timetable/?id=EEA8FG) ] (acceptance rate: 0.38=45/120)
+- <u>石原祥太郎</u> (2022). **実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離**, *PyCon JP 2022*. [[website](https://2022.pycon.jp/en/timetable/?id=EEA8FG) ] (acceptance rate: 0.38=45/120) (印象に残ったトーク: 5/45)
 - 梶川怜恩, 鈴木刀磨, 二宮大空, <u>石原祥太郎</u> (2022). **LightGBMのランク学習による商品レビュー評価**. *NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告*. [[code](https://github.com/upura/yans2022-hackathon-team-natural) ]（最終評価スコア1位, Applied Scientist賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
 - 馬嶋海斗, <u>石原祥太郎</u> (2022). **ニュース用語を含むヒント付きクロスワードパズルの自動生成**. *NLP若手の会 (YANS) 第17回シンポジウム*.（奨励賞 [[website](https://yans.anlp.jp/entry/yans2022report) ]）
 - <u>石原祥太郎</u>, 中間康文 (2022). **新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討**. *2022年度人工知能学会全国大会（第36回）論文集*. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/) ] [[slide](https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction) ]
@@ -55,7 +55,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 大村和正, 白井穂乃, <u>石原祥太郎</u>, 澤紀彦 (2022). **決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成**. *言語処理学会第28回年次大会発表論文集.* [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf) ]
 - 増田太郎, <u>石原祥太郎</u>, 吉田勇太 (2022). **企業の業界分類予測における共変量シフト問題の抑制**. *第14回データ工学と情報マネジメントに関するフォーラム*. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf) ] [[slide](https://speakerdeck.com/taro_masuda/qi-ye-falseye-jie-fen-lei-yu-ce-niokerugong-bian-liang-sihutowen-ti-falseyi-zhi-81490d5a-1447-43fa-855a-cf6ad23f4db8) ]
 - 山田健太, 山本真吾, <u>石原祥太郎</u>, 澤紀彦 (2022). **F√V:オンラインニュースメディアにおける解約予測指標の開発と活用**. *第14回データ工学と情報マネジメントに関するフォーラム*. [[paper](https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf) ]
-- <u>石原祥太郎</u> (2021). **Pythonによるアクセスログ解析入門**, *PyCon JP 2021*. [[website](https://2021.pycon.jp/time-table/?id=269506) ] (acceptance rate: 0.38=45/120)
+- <u>石原祥太郎</u> (2021). **Pythonによるアクセスログ解析入門**, *PyCon JP 2021*. [[website](https://2021.pycon.jp/time-table/?id=269506) ] (acceptance rate: 0.38=45/120) (印象に残ったトーク: 3/45)
 - 植田暢大、高本大輝、<u>石原祥太郎</u> (2021). **森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み**. *NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告*. [[website](https://yans.anlp.jp/entry/yans2021report) ] [[code](https://github.com/upura/yans2021-hackathon) ]
 - 石原慧人, <u>石原祥太郎</u>, 白井穂乃 (2021). **BertSumを用いた日本語ニュース記事の抽象型要約手法の検討**. *2021年度人工知能学会全国大会（第35回）論文集*. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja) ]
 - <u>石原祥太郎</u>, 澤紀彦 (2021). **MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約**. *2021年度人工知能学会全国大会（第35回）論文集*. [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja) ] ( 2021年度人工知能学会全国大会優秀賞 [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ])
