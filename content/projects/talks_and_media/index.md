@@ -11,7 +11,7 @@ date: "2021-06-16T00:00:00Z"
 
 - 未定, [開志専門職大学「トップランナー研究Ⅰ」](https://portal.kaishi-pu.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=2024B1B28X&P2=2024&P3=20240401), Dec 20th, 2024.
 - 未定, [東京大学工学部「ビジネス入門」](https://catalog.he.u-tokyo.ac.jp/detail?code=FEN-SI2z02L1&year=2024), Dec 2nd, 2024.
-- マルチモーダル AI 実装の課題と解決策, [Developers X Summit 2024](https://event.shoeisha.jp/devsumi/20241114), Nov 14th, 2024.
+- [マルチモーダル AI 実装の課題と解決策](https://speakerdeck.com/upura/developer-x-summit), [Developers X Summit 2024](https://event.shoeisha.jp/devsumi/20241114), Nov 14th, 2024.
 - [ニュースメディアにおける事前学習済みモデルの可能性と課題](https://speakerdeck.com/upura/ibis2024), [第27回情報論的学習理論ワークショップ (IBIS2024)](https://ibisml.org/ibis2024/) 企画セッション3：ビジネスと機械学習, Nov 7th, 2024.
 - 「文理」の壁を越えて：データサイエンスが変えるニュースメディア, 東海高校「研究&仕事紹介講座」, Oct 31st, 2024.
 - [第 2 部 11 章「大規模言語モデルの研究開発から実運用に向けて」に向けて](https://speakerdeck.com/upura/mlops-book-chapter-11), [第 45 回 『事例でわかる MLOps 機械学習の成果をスケールさせる処方箋』出版記念 MLOps 勉強会](https://mlops.connpass.com/event/328296/), Oct 2nd, 2024.
