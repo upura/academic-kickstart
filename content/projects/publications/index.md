@@ -35,7 +35,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- 田邉耕太, <u>石原祥太郎</u>, 山田健太, 青田雅輝, 又吉康綱 (2024). **ニュースを身近に：日常風景からのニュース推薦**. *第 210 回情報処理学会ヒューマンコンピュータインタラクション研究会*.
+- 田邉耕太, <u>石原祥太郎</u>, 山田健太, 青田雅輝, 又吉康綱 (2024). **ニュースを身近に：日常風景からのニュース推薦**. *第 210 回情報処理学会ヒューマンコンピュータインタラクション研究会*. [[paper](http://id.nii.ac.jp/1001/00240468/) ]
 - <u>石原祥太郎</u> (2024). **「巨人の肩の上」で自作ライブラリを作る技術**, *PyCon JP 2024*. [[slide](https://speakerdeck.com/upura/pyconjp2024) ] (acceptance rate: 0.23=45/193)
 - 阿波智彦, <u>石原祥太郎</u> (2024) **日経「星新一賞」と生成AI**. *情報処理学会・学会誌「情報処理」2024年9月号*. [[website](https://note.com/ipsj/n/n68656a5f3820) ]
 - 白井穂乃, <u>石原祥太郎</u> (2024). **見出し意味具体化に向けた日本語ベンチマークの構築**. *言語処理学会第30回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-11.pdf) ]
