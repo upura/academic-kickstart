@@ -1,8 +1,6 @@
 ---
 title: (2024.05.22) Accepted at Journal of Natural Language Processing
 summary: https://anlp.jp/guide/index.html
-tags:
-- newsfeed
 date: "2024-05-22T00:00:00Z"
 
 ---

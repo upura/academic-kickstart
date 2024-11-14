@@ -1,5 +1,5 @@
 ---
-title: (2024.11.14) Presentation at HCI210&UBI84
+title: (2024.11.14) Presentation at HCI 210 & UBI 84
 summary: https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html
 tags:
 - newsfeed

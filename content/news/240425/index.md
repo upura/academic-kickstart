@@ -1,8 +1,6 @@
 ---
 title: (2024.04.25) Accepted at TrustNLP 2024
 summary: https://trustnlpworkshop.github.io/
-tags:
-- newsfeed
 date: "2024-04-25T00:00:00Z"
 
 ---
