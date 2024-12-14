@@ -9,9 +9,9 @@ date: "2021-06-16T00:00:00Z"
 
 ## Journal (Referred)
 
-- <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号.
-- <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2024). **Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査**. *自然言語処理*, 31巻, 4号. [[code](https://github.com/Nikkei/semantic-shift-stability) ]
-- 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, <u>石原祥太郎</u>, 山田剛, 進藤裕之 (2024). **企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析**. *自然言語処理*, 31巻, 3号. [[paper](https://www.jstage.jst.go.jp/article/jnlp/31/3/31_1330/_article/-char/ja) ]
+- <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号. [[paper](https://doi.org/10.5715/jnlp.31.1717) ] [[code](https://github.com/Nikkei/semantic-shift-stability) ]
+- <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2024). **Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査**. *自然言語処理*, 31巻, 4号. [[paper](https://doi.org/10.5715/jnlp.31.1563) ] [[code](https://github.com/Nikkei/semantic-shift-stability) ]
+- 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, <u>石原祥太郎</u>, 山田剛, 進藤裕之 (2024). **企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析**. *自然言語処理*, 31巻, 3号. [[paper](https://doi.org/10.5715/jnlp.31.1330) ]
 
 ## International Conference (Referred)
 
