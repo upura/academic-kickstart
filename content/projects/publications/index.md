@@ -35,6 +35,8 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
+- <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2025). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *言語処理学会第31回年次大会発表論文集*.
+- <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2025). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *言語処理学会第31回年次大会発表論文集*.
 - 田邉耕太, <u>石原祥太郎</u>, 山田健太, 青田雅輝, 又吉康綱 (2024). **ニュースを身近に：日常風景からのニュース推薦**. *第 210 回ヒューマンコンピュータインタラクション・第 84 回ユビキタスコンピューティング合同研究発表会*. [[paper](http://id.nii.ac.jp/1001/00240468/) ]
 - <u>石原祥太郎</u> (2024). **「巨人の肩の上」で自作ライブラリを作る技術**, *PyCon JP 2024*. [[slide](https://speakerdeck.com/upura/pyconjp2024) ] (acceptance rate: 0.23=45/193)
 - 阿波智彦, <u>石原祥太郎</u> (2024) **日経「星新一賞」と生成AI**. *情報処理学会・学会誌「情報処理」2024年9月号*. [[website](https://note.com/ipsj/n/n68656a5f3820) ]
