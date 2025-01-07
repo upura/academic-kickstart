@@ -104,3 +104,4 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 ## Committee
 
 - 一般社団法人人工知能学会企画委員会, April 2024-. [[website](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/) ]
+- 国際人工知能オリンピック（IOAI）日本委員会委員, Dec 2024-. [[website](https://ioai-japan.org/about-ioai-japan/) ]
