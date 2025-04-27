@@ -10,7 +10,7 @@ date: "2021-03-07T00:00:00Z"
 - [GitHub](https://github.com/upura)
   - [Ayniy, All You Need is YAML](https://github.com/upura/ayniy)
   - [NLP Recipes for Japanese](https://github.com/upura/nlp-recipes-ja)
-  - [言語処理100本ノック 2020](https://github.com/upura/nlp100v2020)
+  - [言語処理100本ノック 2020, 2025](https://github.com/upura/nlp100v2025)
 - [Weekly Kaggle News](https://weeklykagglenews.substack.com/): Weekly news letter written in Japanese.
   - There are over 2600 subscribers.
   - Featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html).
