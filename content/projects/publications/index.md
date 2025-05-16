@@ -97,6 +97,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Awards
 
+- Google Developer Experts (Kaggle), May 2025.
 - Google Developer Experts (Artificial Intelligence), April 2025.
 - Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023. [[website](https://cloud.google.com/innovators/champions) ]
 - 第2回計算社会科学会大会優秀賞. [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ]
