@@ -36,7 +36,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- 山口悠地, <u>石原祥太郎</u> (2025). **AI エージェントを活用した研究再現性の自動定量評価**. *サイエンスオブサイエンス研究会 2025*.
+- 山口悠地, <u>石原祥太郎</u> (2025). **AI エージェントを活用した研究再現性の自動定量評価**. *サイエンスオブサイエンス研究会 2025*. [[slide](https://speakerdeck.com/upura/scisci2025) ]
 - 鈴木香帆, 鳥海不二夫, <u>石原祥太郎</u>, 並木亮 (2025). **ニュース記事の配信形態が読者の閲覧行動に与える影響の分析**. *2025年度人工知能学会全国大会（第39回）論文集*.
 - <u>石原祥太郎</u> (2025). **生成的推薦の人気バイアスの分析：暗記の観点から**. *2025年度人工知能学会全国大会（第39回）論文集*. [[slide](https://speakerdeck.com/upura/jsai2025) ]
 - 馬嶋海斗, <u>石原祥太郎</u> (2025). **ニュース中心のクロスワードパズルの自動生成：制約充足最適化問題による定式化**. *知識と技能のモデル化と活用研究会第2回研究会*. [[slide](https://www.sigmaks.org/meetings#h.61dhpnvd0lye) ]
