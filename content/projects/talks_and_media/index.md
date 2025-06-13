@@ -10,6 +10,7 @@ date: "2021-06-16T00:00:00Z"
 ## Talks
 
 - JOAI2025 講評, [第1回日本人工知能オリンピック 講評 & 日本代表解法紹介](https://connpass.com/event/358952/), June 15th, 2025.
+- [人工知能学会コンペティション開催支援制度について](https://speakerdeck.com/upura/jsai2025-competition), [JSAI2025 企画セッション「人工知能とコンペティション」](https://www.ai-gakkai.or.jp/competition-convening-support-jsai2025/), May 30th, 2025.
 - [Web からのデータ収集と探究事例の紹介](https://speakerdeck.com/upura/no94-jsai-seminar), [第94回人工知能セミナー(2025.1.30)「情報II問題解決で活用できるデータ収集とプログラミング」](https://www.ai-gakkai.or.jp/event/ai-seminar/no94_jsai_seminar/), Jan 30th, 2025.
 - [記者・編集者との協働：情報技術が変えるニュースメディア](https://speakerdeck.com/upura/kaishi-pu-2024), [開志専門職大学「トップランナー研究Ⅰ」](https://portal.kaishi-pu.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=2024B1B28X&P2=2024&P3=20240401), Dec 20th, 2024.
 - [ニュースメディアにおける生成 AI の活用と開発](https://speakerdeck.com/upura/utokyo-lecture-business-introduction), [東京大学工学部「ビジネス入門」](https://catalog.he.u-tokyo.ac.jp/detail?code=FEN-SI2z02L1&year=2024), Dec 2nd, 2024.
