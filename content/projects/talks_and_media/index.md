@@ -9,6 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- 情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から, [第9回応用数理・AIセミナー](https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Oct 1st, 2025.
 - [JOAI2025 講評](https://speakerdeck.com/upura/joai2025-review), [第1回日本人工知能オリンピック 講評 & 日本代表解法紹介](https://connpass.com/event/358952/), June 15th, 2025.
 - [人工知能学会コンペティション開催支援制度について](https://speakerdeck.com/upura/jsai2025-competition), [JSAI2025 企画セッション「人工知能とコンペティション」](https://www.ai-gakkai.or.jp/competition-convening-support-jsai2025/), May 30th, 2025.
 - [Web からのデータ収集と探究事例の紹介](https://speakerdeck.com/upura/no94-jsai-seminar), [第94回人工知能セミナー(2025.1.30)「情報II問題解決で活用できるデータ収集とプログラミング」](https://www.ai-gakkai.or.jp/event/ai-seminar/no94_jsai_seminar/), Jan 30th, 2025.
