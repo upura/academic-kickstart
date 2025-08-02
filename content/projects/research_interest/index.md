@@ -16,7 +16,7 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 - Monitoring time-series performance degradation ([AACL-IJCNLP 2022](https://aclanthology.org/2022.aacl-main.17/) & [IC2S2 2023](https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf) => [Journal of Natural Language Processing](https://doi.org/10.5715/jnlp.31.1563))
 - Training data extraction
     - Survey paper ([ACL 2023 Workshop](https://aclanthology.org/2023.trustnlp-1.23/))
-    - Experiments on Japanese newspaper ([INLG 2024](https://aclanthology.org/2024.inlg-main.14/))
+    - Experiments on Japanese newspaper ([INLG 2024](https://aclanthology.org/2024.inlg-main.14/), [ACL 2025 Workshop](https://aclanthology.org/2025.l2m2-1.8/))
 - Hallucination analysis on domain-specific PLMs ([Journal of Natural Language Processing](https://doi.org/10.5715/jnlp.31.1717))
 
 ### Building and Applying Pre-trained Models
