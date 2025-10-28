@@ -7,6 +7,10 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
+## Pre-print
+
+- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2025). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. [[arXiv](https://arxiv.org/abs/2308.04688) ]
+
 ## Journal (Referred)
 
 - <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号. [[paper](https://doi.org/10.5715/jnlp.31.1717) ] [[code](https://github.com/Nikkei/semantic-shift-stability) ]
