@@ -9,9 +9,9 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
-- 情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から, [第9回応用数理・AIセミナー](https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Oct 1st, 2025.
-- なぜ新聞社で NLP の研究開発に挑むのか, [第20回言語処理若手シンポジウム(YANS2025)招待ポスター](https://yans.anlp.jp/entry/yans2025invitesession), Sep 19th, 2025.
-- 日本語新聞記事を用いた大規模言語モデルの暗記定量化, [第22回LLM勉強会](https://llm-jp.nii.ac.jp/), Aug 26th, 2025.
+- [情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から](https://speakerdeck.com/upura/appmech-jsce-2025), [第9回応用数理・AIセミナー](https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/), Oct 1st, 2025.
+- [なぜ新聞社で NLP の研究開発に挑むのか](https://yans.anlp.jp/entry/yans2025report), [第20回言語処理若手シンポジウム(YANS2025)招待ポスター](https://yans.anlp.jp/entry/yans2025invitesession), Sep 19th, 2025.
+- [日本語新聞記事を用いた大規模言語モデルの暗記定量化](https://speakerdeck.com/upura/llmc2025), [第22回LLM勉強会](https://llm-jp.nii.ac.jp/), Aug 26th, 2025.
 - AIでニュースはどう進化する？, [開志専門職大学オープンキャンパス](https://kaishi-pu.ac.jp/topics/oc-info-0809), Aug 9th, 2025.
 - [JOAI2025 講評](https://speakerdeck.com/upura/joai2025-review), [第1回日本人工知能オリンピック 講評 & 日本代表解法紹介](https://connpass.com/event/358952/), June 15th, 2025.
 - [人工知能学会コンペティション開催支援制度について](https://speakerdeck.com/upura/jsai2025-competition), [JSAI2025 企画セッション「人工知能とコンペティション」](https://www.ai-gakkai.or.jp/competition-convening-support-jsai2025/), May 30th, 2025.
