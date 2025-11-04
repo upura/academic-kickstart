@@ -42,7 +42,8 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
-- <u>石原祥太郎</u> (2025). **企画委員会だより〔第 4 回〕人工知能分野をコンペティションで盛り上げたい**, *人工知能*, 2025, 40 巻, 4 号, p. 604.  [[paper](https://doi.org/10.11517/jjsai.40.4_604) ]
+- <u>石原祥太郎</u>, 原田慧 (2025). **KS-23「人工知能とコンペティション」**. 特集「2025年度人工知能学会全国大会（第39回）」[KS-1～KS-25], *人工知能*, 2025, 40 巻, 6 号. [[website](https://doi.org/10.11517/jjsai.40.6_844) ]
+- <u>石原祥太郎</u> (2025). **企画委員会だより〔第 4 回〕人工知能分野をコンペティションで盛り上げたい**, *人工知能*, 2025, 40 巻, 4 号.  [[website](https://doi.org/10.11517/jjsai.40.4_604) ]
 - 山口悠地, <u>石原祥太郎</u> (2025). **AI エージェントを活用した研究再現性の自動定量評価**. *サイエンスオブサイエンス研究会 2025*. [[slide](https://speakerdeck.com/upura/scisci2025) ]
 - 鈴木香帆, 鳥海不二夫, <u>石原祥太郎</u>, 並木亮 (2025). **ニュース記事の配信形態が読者の閲覧行動に与える影響の分析**. *2025年度人工知能学会全国大会（第39回）論文集*. [[paper](https://doi.org/10.11517/pjsai.JSAI2025.0_2P4OS2a05) ]
 - <u>石原祥太郎</u> (2025). **生成的推薦の人気バイアスの分析：暗記の観点から**. *2025年度人工知能学会全国大会（第39回）論文集*. [[paper](https://doi.org/10.11517/pjsai.JSAI2025.0_3F4OS42a05) ] [[slide](https://speakerdeck.com/upura/jsai2025) ]
