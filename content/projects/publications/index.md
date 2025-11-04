@@ -9,7 +9,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Pre-print
 
-- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2025). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. [[arXiv](https://arxiv.org/abs/2308.04688) ]
+- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2025). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. [[arXiv](https://arxiv.org/abs/2510.23074) ]
 
 ## Journal (Referred)
 
