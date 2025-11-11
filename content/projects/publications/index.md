@@ -88,6 +88,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Book
 
+- 高野海斗, 齋藤慎一朗, <u>石原祥太郎</u> (2026). **Kaggleではじめる大規模言語モデル入門　自然言語処理〈実践〉プログラミング**. *講談社*. [[website](https://www.kodansha.co.jp/book/products/0000420398) ]
 - 小嵜耕平, 秋葉拓哉, 林孝紀, <u>石原祥太郎</u> (2023). **Kaggleに挑む深層学習プログラミングの極意**. *講談社*. [[website](https://www.kspub.co.jp/book/detail/5305133.html) ]
 - Abhishek Thakur (著), <u>石原祥太郎</u> (翻訳) (2021). **Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ**. *マイナビ出版*. [[website](https://book.mynavi.jp/ec/products/detail/id=123641) ]
 - <u>石原祥太郎</u>, 村田秀樹 (2020). **PythonではじめるKaggleスタートブック**. *講談社*. [[website](https://www.kspub.co.jp/book/detail/5190067.html) ] [[Chinese](http://books.gotop.com.tw/v_ACD021100) ] [[Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841) ]
