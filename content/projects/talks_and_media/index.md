@@ -87,6 +87,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Media Coverage
 
+- [The Kaggle Book - Second Edition](https://www.oreilly.com/library/view/the-kaggle-book/9781835083208/), Dec 25th, 2025.
 - [Putting the (Gen AI) Puzzle Together](https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a), FT Product & Technology, Sep 2nd, 2024.
 - [Kaggleの面白さと有効性（データサイエンティスト鼎談）](https://dx2.inf.uec.ac.jp/program/kaggle.html), 電気通信大学 D×2プログラムWebサイト, Aug 18th, 2023.
 - [実践的データサイエンスとは（データサイエンティスト鼎談）](https://dx2.inf.uec.ac.jp/program/index.html#block2), 電気通信大学 D×2プログラムWebサイト, Aug 18th, 2023.
