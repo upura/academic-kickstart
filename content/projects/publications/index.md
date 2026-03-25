@@ -111,9 +111,6 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Awards
 
-- Google Developer Experts (Kaggle), May 2025.
-- Google Developer Experts (Artificial Intelligence), April 2025.
-- Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023. [[website](https://cloud.google.com/innovators/champions) ]
 - 第2回計算社会科学会大会優秀賞. [[website](https://css-japan.com/2022/12/13/cssj2023/#award) ]
 - NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [[website](https://yans.anlp.jp/entry/yans2022report) ]
 - 2021年度人工知能学会全国大会優秀賞. [[website](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/) ]
@@ -130,3 +127,6 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 - 一般社団法人人工知能学会企画委員会, April 2024 -. [[website](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/) ]
 - 国際人工知能オリンピック（IOAI）日本委員会委員, Dec 2024 -. [[website](https://ioai-japan.org/about-ioai-japan/) ]
 -  地球惑星科学における AI 研究会専門委員, April 2024 - March 2026 [[website](https://sites.google.com/jpgu.org/geosciai2025) ]
+- Google Developer Experts (Artificial Intelligence), April 2025.
+- Google Developer Experts (Kaggle), May 2025 - March 2026.
+- Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023 - March 2025. [[website](https://cloud.google.com/innovators/champions) ]
