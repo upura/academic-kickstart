@@ -19,6 +19,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## International Conference (Referred)
 
+- Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, <u>Shotaro Ishihara</u>, Ryo Namiki (2026). **Effects of News Delivery Formats on the Article Diversity**. *12th International Conference on Computational Social Science (IC2S2 2026).*
 - Kota Tanabe, <u>Shotaro Ishihara</u>, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). **Making News Familiar: News Recommendation from Daily Scenery**. *Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)*. [[paper](https://doi.org/10.1016/j.procs.2025.09.172) ]
 - Hiromu Takahashi† and <u>Shotaro Ishihara</u>† (2025). **Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora**. *Proceedings of the First Workshop on Large Language Model Memorization (L2M2)*. (†equal contribution) [[paper](https://aclanthology.org/2025.l2m2-1.8/) ] [[slide](https://speakerdeck.com/upura/quantifying-memorization-in-continual-pre-training-with-japanese-general-or-industry-specific-corpora) ] (acceptance rate: 0.52=17/33)
 - Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and <u>Shotaro Ishihara</u> (2025). **Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators**. *Proceedings of the 30th International Conference on Natural Language & Information Systems (NLDB 2025) (Industry Track)*. [[paper](https://doi.org/10.1007/978-3-031-97144-0_16) ]
@@ -42,6 +43,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
+- <u>石原祥太郎</u> (2026). **大規模言語モデルは誰を覚えているか**. *2026年度人工知能学会全国大会（第40回）論文集*.
 - 前川大輔, 大村和正, 樽本空宙, <u>石原祥太郎</u>, 梶原智之 (2026). **日本語テキスト難易度の主観的かつ多層的なアノテーション**. *言語処理学会第32回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q3-13.pdf) ]
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **トークン分割に起因する分散に基づくトークンベースのメンバーシップ推論の解釈**. *言語処理学会第32回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-8.pdf) ]
 - 安田大朗, <u>石原祥太郎</u> (2026). **日本語テキストにおける省略された時間表現の復元**. *言語処理学会第32回年次大会発表論文集*. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C7-9.pdf) ]
