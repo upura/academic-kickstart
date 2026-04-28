@@ -1,0 +1,10 @@
+{{- $name := .Get 0 -}}
+{{- $url := .Get 1 -}}
+{{- $type := .Get 2 | default "paper" -}}
+{{- $icons := dict "paper" "fas fa-scroll" "press" "fas fa-newspaper" "journal" "fas fa-book-open" "workshop" "fas fa-users" "demo" "fas fa-laptop-code" -}}
+{{- $cls := index $icons $type | default "fas fa-scroll" -}}
+{{- if $url -}}
+<a href="{{ $url }}" target="_blank" rel="noopener" class="badge badge-pill badge-light venue-badge mr-1"><i class="{{ $cls }} mr-1"></i>{{ $name }}</a>
+{{- else -}}
+<span class="badge badge-pill badge-light venue-badge mr-1"><i class="{{ $cls }} mr-1"></i>{{ $name }}</span>
+{{- end -}}
