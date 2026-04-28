@@ -1,11 +1,11 @@
 ---
-title: (2026.04.16) Accepted at IC2S2 2026
+title: (2026.04.27) Accepted at ACL 2026 Demo
 tags:
 - newsfeed
-date: "2026-04-16T00:00:00Z"
+date: "2026-04-27T00:00:00Z"
 
 ---
 
-Happy to share that our submission has been accepted at the 12th International Conference on Computational Social Science (IC2S2 2026).
+Happy to share that our paper has been accepted at the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations).
 
-- Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, <u>Shotaro Ishihara</u>, Ryo Namiki (2026). **Effects of News Delivery Formats on the Article Diversity**. *12th International Conference on Computational Social Science (IC2S2 2026).*
+- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2026). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)*. [[arXiv](https://arxiv.org/abs/2510.23074) ]
