@@ -1,8 +1,6 @@
 ---
 title: (2024.09.11) Two papers has been accepted at Journal of Natural Language Processing
 summary: https://anlp.jp/guide/saitaku.html
-tags:
-- newsfeed
 date: "2024-09-11T00:00:00Z"
 
 ---

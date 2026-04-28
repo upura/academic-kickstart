@@ -7,18 +7,16 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
-## Pre-print
-
-- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2025). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. [[arXiv](https://arxiv.org/abs/2510.23074) ]
-
 ## Journal (Referred)
 
+- <u>石原祥太郎</u>, 高橋寛武 (2026). **大規模言語モデルの訓練データ暗記の研究動向**. *人工知能学会論文誌*, 41巻, 4号.
 - <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号. [[paper](https://doi.org/10.5715/jnlp.31.1717) ] [[code](https://github.com/Nikkei/semantic-shift-stability) ]
 - <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2024). **Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査**. *自然言語処理*, 31巻, 4号. [[paper](https://doi.org/10.5715/jnlp.31.1563) ] [[code](https://github.com/Nikkei/semantic-shift-stability) ]
 - 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, <u>石原祥太郎</u>, 山田剛, 進藤裕之 (2024). **企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析**. *自然言語処理*, 31巻, 3号. [[paper](https://doi.org/10.5715/jnlp.31.1330) ]
 
 ## International Conference (Referred)
 
+- Hiromu Takahashi, and <u>Shotaro Ishihara</u> (2026). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)*. [[arXiv](https://arxiv.org/abs/2510.23074) ]
 - Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, <u>Shotaro Ishihara</u>, Ryo Namiki (2026). **Effects of News Delivery Formats on the Article Diversity**. *12th International Conference on Computational Social Science (IC2S2 2026).*
 - Kota Tanabe, <u>Shotaro Ishihara</u>, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). **Making News Familiar: News Recommendation from Daily Scenery**. *Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)*. [[paper](https://doi.org/10.1016/j.procs.2025.09.172) ]
 - Hiromu Takahashi† and <u>Shotaro Ishihara</u>† (2025). **Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora**. *Proceedings of the First Workshop on Large Language Model Memorization (L2M2)*. (†equal contribution) [[paper](https://aclanthology.org/2025.l2m2-1.8/) ] [[slide](https://speakerdeck.com/upura/quantifying-memorization-in-continual-pre-training-with-japanese-general-or-industry-specific-corpora) ] (acceptance rate: 0.52=17/33)
