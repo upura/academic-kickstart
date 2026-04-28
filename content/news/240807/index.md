@@ -1,8 +1,6 @@
 ---
 title: (2024.08.07) Publishing Japanese MLOps Book
 summary: https://www.amazon.co.jp/dp/4065369568
-tags:
-- newsfeed
 date: "2024-08-07T00:00:00Z"
 
 ---
