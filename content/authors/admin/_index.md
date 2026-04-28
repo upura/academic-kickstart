@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist at a Japanese Media Company
+bio: Research Scientist at a Japanese Media Company
 
 interests:
 - Applied Machine Learning
@@ -71,7 +71,7 @@ email: ""
 user_groups: []
 ---
 
-I'm a data scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
+I'm a research scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
 While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
 My research interests include the [opportunities and challenges of pre-trained language models for news media](https://upura.github.io/projects/research_interest/).
 I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition, and published three books.
