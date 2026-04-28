@@ -1,6 +1,8 @@
 ---
 title: (2024.07.15) Accepted at INLG 2024
 summary: https://inlg2024.github.io/
+tags:
+- newsfeed
 date: "2024-07-15T00:00:00Z"
 
 ---

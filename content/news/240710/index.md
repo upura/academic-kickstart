@@ -1,6 +1,8 @@
 ---
 title: (2024.07.10) Accepted at PyCon JP 2024
 summary: https://2024.pycon.jp/
+tags:
+- newsfeed
 date: "2024-07-10T00:00:00Z"
 
 ---

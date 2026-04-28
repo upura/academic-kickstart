@@ -11,7 +11,14 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "news"
-  
+
+  # Limit number of items shown (newest first). Remove to show all.
+  count = 4
+
+  # Show a "View all" button below the items linking to the news archive.
+  archive_link = "/news/"
+  archive_label = "View all news"
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".

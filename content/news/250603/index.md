@@ -1,6 +1,8 @@
 ---
 title: (2025.06.03) Accepted at KES 2025
 summary: http://kes2025.kesinternational.org/index.php
+tags:
+- newsfeed
 date: "2025-06-03T00:00:00Z"
 
 ---

@@ -1,0 +1,54 @@
+.venue-badge {
+  font-size: 0.85em;
+  font-weight: 500;
+  padding: 0.35em 0.75em;
+  background-color: #eef2f7;
+  color: #2d3748;
+  border: 1px solid #d8dee9;
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background-color: #dde4ef;
+    color: #1a202c;
+    text-decoration: none;
+  }
+
+  i {
+    opacity: 0.75;
+  }
+}
+
+.dark .venue-badge {
+  background-color: #2a3340;
+  color: #e2e8f0;
+  border-color: #3a4554;
+
+  &:hover {
+    background-color: #36404f;
+    color: #ffffff;
+  }
+}
+
+.pub-link {
+  display: inline-block;
+  color: #4a5568;
+  transition: color 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    color: #2b6cb0;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  i {
+    font-size: 1.05em;
+  }
+}
+
+.dark .pub-link {
+  color: #cbd5e0;
+
+  &:hover {
+    color: #90cdf4;
+  }
+}

@@ -1,6 +1,8 @@
 ---
 title: (2025.06.11) Accepted at ACL 2025 workshop
 summary: https://sites.google.com/view/memorization-workshop/home
+tags:
+- newsfeed
 date: "2025-06-11T00:00:00Z"
 
 ---

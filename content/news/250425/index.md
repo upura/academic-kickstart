@@ -1,6 +1,8 @@
 ---
 title: (2025.04.25) Accepted at NLDB 2025
 summary: https://www.jaist.ac.jp/event/nldb2025/
+tags:
+- newsfeed
 date: "2025-04-25T00:00:00Z"
 
 ---
