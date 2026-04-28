@@ -1,0 +1,14 @@
+{{- $medal := lower (.Get "medal" | default "") -}}
+{{- $rank := .Get "rank" | default "" -}}
+{{- $team := .Get "team" | default "" -}}
+{{- $year := .Get "year" | default "" -}}
+{{- $cls := "compe-badge" -}}
+{{- with $medal -}}{{- $cls = printf "%s compe-%s" $cls . -}}{{- end -}}
+<span class="{{ $cls }} mr-1">
+  {{- if $medal -}}<i class="fas fa-medal mr-1"></i>{{- end -}}
+  {{- with $rank }}<strong>{{ . }}</strong>{{ end -}}
+  {{- if and $rank (or $team $year) }} · {{ end -}}
+  {{- with $team }}{{ . }}{{ end -}}
+  {{- if and $team $year }} · {{ end -}}
+  {{- with $year }}{{ . }}{{ end -}}
+</span>

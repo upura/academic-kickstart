@@ -52,3 +52,65 @@
     color: #90cdf4;
   }
 }
+
+.compe-badge {
+  display: inline-block;
+  font-size: 0.85em;
+  font-weight: 500;
+  padding: 0.3em 0.7em;
+  border-radius: 999px;
+  background-color: #eef2f7;
+  color: #2d3748;
+  border: 1px solid #d8dee9;
+  white-space: nowrap;
+
+  i {
+    opacity: 0.85;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+}
+
+.compe-gold {
+  background-color: #fff4d1;
+  color: #7a5a00;
+  border-color: #f0d770;
+}
+
+.compe-silver {
+  background-color: #ecedef;
+  color: #4a4d52;
+  border-color: #c4c8cc;
+}
+
+.compe-bronze {
+  background-color: #f6e1cb;
+  color: #6e3d12;
+  border-color: #d8a878;
+}
+
+.dark .compe-badge {
+  background-color: #2a3340;
+  color: #e2e8f0;
+  border-color: #3a4554;
+}
+
+.dark .compe-gold {
+  background-color: #4a3d10;
+  color: #f0d770;
+  border-color: #6e5a1e;
+}
+
+.dark .compe-silver {
+  background-color: #2e3236;
+  color: #c4c8cc;
+  border-color: #4a4d52;
+}
+
+.dark .compe-bronze {
+  background-color: #3e2812;
+  color: #d8a878;
+  border-color: #6e3d12;
+}
