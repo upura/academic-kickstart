@@ -21,9 +21,9 @@ organizations:
 bio: Research Scientist at a Japanese Media Company
 
 interests:
-- Applied Machine Learning
-- Natural Language Processing
-- Journalism / News Media
+- LLM Memorization
+- AI-Accelerated News Media
+- Data Science Competitions
 
 education:
   courses:
