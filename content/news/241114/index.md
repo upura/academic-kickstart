@@ -8,5 +8,5 @@ date: "2024-11-14T00:00:00Z"
 
 We will present a research work at HCI210 & UBI84.
 
-- [[website](https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html) ]
-- [[paper](http://id.nii.ac.jp/1001/00240468/) ]
+- {{< pub-link "website" "https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html" >}}
+- {{< pub-link "paper" "http://id.nii.ac.jp/1001/00240468/" >}}

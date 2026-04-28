@@ -1,0 +1,12 @@
+{{- $typeArg := .Get 0 -}}
+{{- $url := .Get 1 -}}
+{{- $icons := dict "paper" "fas fa-scroll" "pdf" "fas fa-file-pdf" "arxiv" "ai ai-arxiv" "code" "fab fa-github" "slide" "far fa-images" "slides" "far fa-images" "poster" "fas fa-image" "abstract" "fas fa-quote-left" "website" "fas fa-globe" -}}
+{{- range $i, $t := (split $typeArg ",") -}}
+  {{- $label := trim $t " " -}}
+  {{- $key := lower $label -}}
+  {{- $cls := index $icons $key -}}
+  {{- if $i }} {{ end -}}
+  <a href="{{ $url }}" target="_blank" rel="noopener" title="{{ $label }}" class="pub-link mr-1">
+    {{- with $cls }}<i class="{{ . }}"></i>{{ else }}{{ $label }}{{ end -}}
+  </a>
+{{- end -}}
