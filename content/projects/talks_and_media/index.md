@@ -87,6 +87,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Media Coverage
 
+- **【JAPAN AI CUP】予測部門チュートリアル**, 人工知能学会（JSAI）公式チャンネル, Jan 26th, 2026. {{< pub-link "youtube" "https://youtu.be/cckdj4ChgaQ?si=qVKD4C_ULDgD6OiK/" >}}
 - **The Kaggle Book - Second Edition**, Dec 25th, 2025. {{< pub-link "website" "https://www.oreilly.com/library/view/the-kaggle-book/9781835083208/" >}}
 - **Putting the (Gen AI) Puzzle Together**, FT Product & Technology, Sep 2nd, 2024. {{< pub-link "website" "https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a" >}}
 - **Kaggleの面白さと有効性（データサイエンティスト鼎談）**, 電気通信大学 D×2プログラムWebサイト, Aug 18th, 2023. {{< pub-link "website" "https://dx2.inf.uec.ac.jp/program/kaggle.html" >}}
