@@ -21,8 +21,8 @@ organizations:
 bio: Research Scientist at a Japanese Media Company
 
 interests:
-- LLM Memorization
 - AI-Accelerated News Media
+- LLM Memorization
 - Data Science Competitions
 
 education:

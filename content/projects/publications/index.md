@@ -124,7 +124,7 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 ## Committee
 
 - 一般社団法人人工知能学会
-    - 企画委員会, April 2024 -. {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/" >}}
+    - 企画委員会（コンペティション担当）, April 2024 -. {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/" >}}
 - 地球惑星科学における AI 研究会専門委員, April 2024 -. {{< pub-link "website" "https://sites.google.com/jpgu.org/geosciai2026/" >}}
 - 国際人工知能オリンピック（IOAI）日本委員会スタッフ, Dec 2024 -. {{< pub-link "website" "https://ioai-japan.org/about-ioai-japan/" >}}
 - Google Developer Experts {{< pub-link "website" "https://developers.google.com/community/experts" >}}
