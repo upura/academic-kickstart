@@ -1,6 +1,6 @@
 {{- $typeArg := .Get 0 -}}
 {{- $url := .Get 1 -}}
-{{- $icons := dict "paper" "fas fa-scroll" "pdf" "fas fa-file-pdf" "arxiv" "ai ai-arxiv" "code" "fab fa-github" "slide" "far fa-images" "slides" "far fa-images" "poster" "fas fa-image" "abstract" "fas fa-quote-left" "website" "fas fa-globe" -}}
+{{- $icons := dict "paper" "fas fa-scroll" "pdf" "fas fa-file-pdf" "arxiv" "ai ai-arxiv" "code" "fab fa-github" "slide" "far fa-images" "slides" "far fa-images" "poster" "fas fa-image" "abstract" "fas fa-quote-left" "website" "fas fa-globe" "youtube" "fab fa-youtube" -}}
 {{- range $i, $t := (split $typeArg ",") -}}
   {{- $label := trim $t " " -}}
   {{- $key := lower $label -}}
