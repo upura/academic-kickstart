@@ -2,7 +2,6 @@
 title: Publications
 summary:
 tags:
-- 
 date: "2021-06-16T00:00:00Z"
 
 ---
