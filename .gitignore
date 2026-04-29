@@ -4,6 +4,7 @@
 # Hugo
 resources/
 public/
+.hugo_build.lock
 
 # Mac
 .DS_Store
