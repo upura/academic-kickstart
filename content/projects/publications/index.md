@@ -123,9 +123,11 @@ Other talks and media coverage can be found [here](https://upura.github.io/proje
 
 ## Committee
 
-- 一般社団法人人工知能学会企画委員会, April 2024 -. {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/" >}}
-- 国際人工知能オリンピック（IOAI）日本委員会委員, Dec 2024 -. {{< pub-link "website" "https://ioai-japan.org/about-ioai-japan/" >}}
--  地球惑星科学における AI 研究会専門委員, April 2024 - March 2026 {{< pub-link "website" "https://sites.google.com/jpgu.org/geosciai2025" >}}
-- Google Developer Experts (Artificial Intelligence), April 2025.
-- Google Developer Experts (Kaggle), May 2025 - March 2026.
+- 一般社団法人人工知能学会
+    - 企画委員会, April 2024 -. {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/" >}}
+- 地球惑星科学における AI 研究会専門委員, April 2024 -. {{< pub-link "website" "https://sites.google.com/jpgu.org/geosciai2026/" >}}
+- 国際人工知能オリンピック（IOAI）日本委員会スタッフ, Dec 2024 -. {{< pub-link "website" "https://ioai-japan.org/about-ioai-japan/" >}}
+- Google Developer Experts {{< pub-link "website" "https://developers.google.com/community/experts" >}}
+    - Artificial Intelligence, April 2025 -.
+    - Kaggle, May 2025 - March 2026.
 - Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023 - March 2025. {{< pub-link "website" "https://cloud.google.com/innovators/champions" >}}
