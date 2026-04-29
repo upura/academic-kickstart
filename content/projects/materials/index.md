@@ -22,3 +22,4 @@ date: "2021-03-07T00:00:00Z"
 - [YouTube](https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw)
 - [Speaker Deck](https://speakerdeck.com/upura)
 - [University of Tokyo Press](http://www.todaishimbun.org/author/shhrshtr/)
+- [Hack the NIKKEI](https://hack.nikkei.com/blog/)
