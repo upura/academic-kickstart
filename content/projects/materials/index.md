@@ -1,5 +1,5 @@
 ---
-title: OSS Activities
+title: Materials
 summary:
 tags:
 date: "2021-03-07T00:00:00Z"
@@ -7,6 +7,7 @@ date: "2021-03-07T00:00:00Z"
 ---
 
 - [GitHub](https://github.com/upura)
+  - [Fast-MIA](https://github.com/Nikkei/fast-mia)
   - [Ayniy, All You Need is YAML](https://github.com/upura/ayniy)
   - [NLP Recipes for Japanese](https://github.com/upura/nlp-recipes-ja)
   - [言語処理100本ノック 2020, 2025](https://github.com/upura/nlp100v2025)

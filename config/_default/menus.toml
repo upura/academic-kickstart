@@ -29,8 +29,8 @@
   weight = 50
 
 [[main]]
-  name = "OSS"
-  url = "/projects/oss_activities/"
+  name = "Materials"
+  url = "/projects/materials/"
   weight = 60
 
 [[main]]
