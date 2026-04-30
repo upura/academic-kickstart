@@ -47,6 +47,9 @@ We have also published survey papers and released a library for quantification.
 
 ## Promoting data science competitions
 
+Data science competitions, such as those on Kaggle, are a powerful tool for the social implementation and democratization of information technology.
+Through publishing books and organizing competitions, we are dedicated to promoting this approach.
+
 - Books:
     - 高野海斗, 齋藤慎一朗, <u>石原祥太郎</u> (2026). **Kaggleではじめる大規模言語モデル入門　自然言語処理〈実践〉プログラミング**. *講談社*. {{< pub-link "website" "https://www.kodansha.co.jp/book/products/0000420398" >}}
     - 小嵜耕平, 秋葉拓哉, 林孝紀, <u>石原祥太郎</u> (2023). **Kaggleに挑む深層学習プログラミングの極意**. *講談社*. {{< pub-link "website" "https://www.kspub.co.jp/book/detail/5305133.html" >}}
