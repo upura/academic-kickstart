@@ -40,6 +40,7 @@ date: "2021-06-16T00:00:00Z"
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
 
+- <u>石原祥太郎</u> (2026). **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**. *AI・データサイエンス論文集*, 7 巻, 1 号.
 - <u>石原祥太郎</u> (2026). **大規模言語モデルは誰を覚えているか**. *2026年度人工知能学会全国大会（第40回）論文集*.
 - 前川大輔, 大村和正, 樽本空宙, <u>石原祥太郎</u>, 梶原智之 (2026). **日本語テキスト難易度の主観的かつ多層的なアノテーション**. *言語処理学会第32回年次大会発表論文集*. {{< pub-link "paper" "https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q3-13.pdf" >}}
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **トークン分割に起因する分散に基づくトークンベースのメンバーシップ推論の解釈**. *言語処理学会第32回年次大会発表論文集*. {{< pub-link "paper" "https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-8.pdf" >}}
