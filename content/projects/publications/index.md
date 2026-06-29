@@ -6,6 +6,10 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
+## Pre-print
+
+- Kazuma Iwamoto, Kazumasa Omura, and <u>Shotaro Ishihara</u> (2026). An Empirical Analysis of Factual Errors in Human-Written Text and its Application. {{< pub-link "arXiv" "https://arxiv.org/abs/2606.27959" >}}
+
 ## Journal (Referred)
 
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **大規模言語モデルの訓練データ暗記の研究動向**. *人工知能学会論文誌*, 41巻, 4号.
