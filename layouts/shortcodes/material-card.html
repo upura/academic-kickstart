@@ -1,0 +1,14 @@
+{{- $icons := dict "github" "fab fa-github" "substack" "fas fa-envelope-open-text" "newsletter" "fas fa-envelope-open-text" "youtube" "fab fa-youtube" "speakerdeck" "fab fa-speaker-deck" "blog" "fas fa-blog" "qiita" "fas fa-pen-nib" "press" "fas fa-newspaper" "book" "fas fa-book" "trophy" "fas fa-trophy" "users" "fas fa-users" "paper" "fas fa-scroll" "web" "fas fa-globe" -}}
+{{- $cls := index $icons (.Get "icon" | default "web") | default "fas fa-globe" -}}
+<a href="{{ .Get "url" }}" target="_blank" rel="noopener" class="material-card">
+  <span class="material-card-icon"><i class="{{ $cls }}"></i></span>
+  <span class="material-card-body">
+    <span class="material-card-title">{{ .Get "title" }}</span>
+    {{- with .Get "desc" }}<span class="material-card-desc">{{ . }}</span>{{ end }}
+    {{- with .Get "badges" }}
+    <span class="material-card-badges">
+      {{- range split . "|" }}<span class="material-badge">{{ trim . " " }}</span>{{ end -}}
+    </span>
+    {{- end }}
+  </span>
+</a>

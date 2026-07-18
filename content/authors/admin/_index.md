@@ -21,9 +21,9 @@ organizations:
 bio: Research Scientist at a Japanese Media Company
 
 interests:
-- AI-Accelerated News Media
-- LLM Memorization
-- Data Science Competitions
+- AI for Information Ecosystems
+- Trust and Risk of LLMs
+- Data Science Competitions & DevRel
 
 education:
   courses:
@@ -71,8 +71,9 @@ email: ""
 user_groups: []
 ---
 
-I'm a research scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
+I'm a research scientist at a Japanese media company, engaged in data analysis and service developments.
 While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
-My research interests include the [opportunities and challenges of pre-trained language models for news media](https://upura.github.io/projects/research_interest/).
-I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition, and published three books.
+My research interest lies in [building, evaluating, and communicating AI systems for information ecosystems](https://upura.github.io/projects/research_interest/): how people create, access, evaluate, and act on information.
+I have published four books, written newsletters, and organized community events, as summarized on the [DevRel](https://upura.github.io/projects/materials/) page.
+I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), and hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition.
 The International News Media Association gave me "[30 Under 30 Awards and Grand Prize](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards)" in 2020.

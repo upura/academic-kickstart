@@ -114,3 +114,98 @@
   color: #d8a878;
   border-color: #6e3d12;
 }
+
+.material-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.material-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  padding: 1rem;
+  border: 1px solid #d8dee9;
+  border-radius: 8px;
+  color: #2d3748;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    color: #1a202c;
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: #b8c4d4;
+  }
+}
+
+.material-card-icon i {
+  font-size: 1.5rem;
+  width: 1.75rem;
+  text-align: center;
+  color: #4a5568;
+  opacity: 0.85;
+}
+
+.material-card-body {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.material-card-title {
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.material-card-desc {
+  font-size: 0.85em;
+  color: #4a5568;
+  margin-top: 0.2rem;
+}
+
+.material-card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+}
+
+.material-badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 500;
+  padding: 0.25em 0.65em;
+  border-radius: 999px;
+  background-color: #eef2f7;
+  color: #2d3748;
+  border: 1px solid #d8dee9;
+  white-space: nowrap;
+}
+
+.dark .material-card {
+  border-color: #3a4554;
+  color: #e2e8f0;
+
+  &:hover {
+    color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    border-color: #4a5568;
+  }
+}
+
+.dark .material-card-icon i {
+  color: #cbd5e0;
+}
+
+.dark .material-card-desc {
+  color: #a0aec0;
+}
+
+.dark .material-badge {
+  background-color: #2a3340;
+  color: #e2e8f0;
+  border-color: #3a4554;
+}

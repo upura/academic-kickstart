@@ -47,23 +47,8 @@ Data science competitions, such as Kaggle, are a powerful way to make machine le
 I have contributed to this ecosystem by publishing books, organizing competitions, writing newsletters, and supporting educational activities.
 Through these activities, I aim to help a broader range of developers, students, researchers, and practitioners learn how to apply AI technologies to real-world problems.
 
-* Books:
-  * 高野海斗, 齋藤慎一朗, <u>石原祥太郎</u> (2026). **Kaggleではじめる大規模言語モデル入門　自然言語処理〈実践〉プログラミング**. *講談社*. {{< pub-link "website" "https://www.kodansha.co.jp/book/products/0000420398" >}}
-  * 小嵜耕平, 秋葉拓哉, 林孝紀, <u>石原祥太郎</u> (2023). **Kaggleに挑む深層学習プログラミングの極意**. *講談社*. {{< pub-link "website" "https://www.kspub.co.jp/book/detail/5305133.html" >}}
-  * Abhishek Thakur (著), <u>石原祥太郎</u> (翻訳) (2021). **Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ**. *マイナビ出版*. {{< pub-link "website" "https://book.mynavi.jp/ec/products/detail/id=123641" >}}
-  * <u>石原祥太郎</u>, 村田秀樹 (2020). **PythonではじめるKaggleスタートブック**. *講談社*. {{< pub-link "website" "https://www.kspub.co.jp/book/detail/5190067.html" >}} {{< pub-link "Chinese" "http://books.gotop.com.tw/v_ACD021100" >}} {{< pub-link "Korean" "http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665841" >}}
-* Website:
-  * Weekly Kaggle News {{< pub-link "website" "https://weeklykagglenews.substack.com/" >}}
-  * Everyday Kaggle News {{< pub-link "website" "https://upura.github.io/everyday-kaggle-news/" >}}
-* Hosting competitions:
-  * Kaggle Days Tokyo 2019, Dec 2019. {{< pub-link "website" "https://hack.nikkei.com/blog/report_kaggle_days_tokyo" >}}
-  * JOAI2025, April 2025. {{< pub-link "website" "https://connpass.com/event/358952/" >}}
-  * JAPAN AI CUP 2025 予測部門, Feb 2026. {{< pub-link "website" "https://kikaku.ai-gakkai.or.jp/article/about_japanaicup" >}}
-* Results as a participant {{< pub-link "website" "https://upura.github.io/projects/data_science_competitions/" >}}
-* Committee:
-  * 一般社団法人人工知能学会企画委員会（コンペティション担当）, April 2024 -. {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/" >}}
-  * 地球惑星科学における AI 研究会専門委員, April 2024 -. {{< pub-link "website" "https://sites.google.com/jpgu.org/geosciai2026/" >}}
-  * 国際人工知能オリンピック（IOAI）日本委員会スタッフ, Dec 2024 -. {{< pub-link "website" "https://ioai-japan.org/about-ioai-japan/" >}}
+These activities — books, newsletters, hosted competitions, and community events — are summarized on the [DevRel](/projects/materials/) page.
+See also [Data Science Competitions](/projects/data_science_competitions/) for results as a participant, and the [Committee section in Publications](/projects/publications/#committee) for committee roles.
 
 ## Reference
 

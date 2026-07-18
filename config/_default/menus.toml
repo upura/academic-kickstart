@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Materials"
+  name = "DevRel"
   url = "/projects/materials/"
   weight = 60
 

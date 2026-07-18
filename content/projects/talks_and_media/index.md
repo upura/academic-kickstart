@@ -6,7 +6,11 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
+75 talks, 32 media appearances, and community event organization since 2015.
+
 ## Talks
+
+### 2025
 
 - **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**, 第9回応用数理・AIセミナー, Oct 1st, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/appmech-jsce-2025" >}} {{< pub-link "website" "https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/" >}}
 - **なぜ新聞社で NLP の研究開発に挑むのか**, 第20回言語処理若手シンポジウム(YANS2025)招待ポスター, Sep 19th, 2025. {{< pub-link "slide" "https://yans.anlp.jp/entry/yans2025report" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yans2025invitesession" >}}
@@ -15,6 +19,9 @@ date: "2021-06-16T00:00:00Z"
 - **JOAI2025 講評**, 第1回日本人工知能オリンピック 講評 & 日本代表解法紹介, June 15th, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/joai2025-review" >}} {{< pub-link "website" "https://connpass.com/event/358952/" >}}
 - **人工知能学会コンペティション開催支援制度について**, JSAI2025 企画セッション「人工知能とコンペティション」, May 30th, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/jsai2025-competition" >}} {{< pub-link "website" "https://www.ai-gakkai.or.jp/competition-convening-support-jsai2025/" >}}
 - **Web からのデータ収集と探究事例の紹介**, 第94回人工知能セミナー(2025.1.30)「情報II問題解決で活用できるデータ収集とプログラミング」, Jan 30th, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/no94-jsai-seminar" >}} {{< pub-link "website" "https://www.ai-gakkai.or.jp/event/ai-seminar/no94_jsai_seminar/" >}}
+
+### 2024
+
 - **記者・編集者との協働：情報技術が変えるニュースメディア**, 開志専門職大学「トップランナー研究Ⅰ」, Dec 20th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/kaishi-pu-2024" >}} {{< pub-link "website" "https://portal.kaishi-pu.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=2024B1B28X&P2=2024&P3=20240401" >}}
 - **ニュースメディアにおける生成 AI の活用と開発**, 東京大学工学部「ビジネス入門」, Dec 2nd, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/utokyo-lecture-business-introduction" >}} {{< pub-link "website" "https://catalog.he.u-tokyo.ac.jp/detail?code=FEN-SI2z02L1&year=2024" >}}
 - **マルチモーダル AI 実装の課題と解決策**, Developers X Summit 2024, Nov 14th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/developer-x-summit" >}} {{< pub-link "website" "https://event.shoeisha.jp/devsumi/20241114" >}}
@@ -23,6 +30,9 @@ date: "2021-06-16T00:00:00Z"
 - **第 2 部 11 章「大規模言語モデルの研究開発から実運用に向けて」に向けて**, 第 45 回 『事例でわかる MLOps 機械学習の成果をスケールさせる処方箋』出版記念 MLOps 勉強会, Oct 2nd, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/mlops-book-chapter-11" >}} {{< pub-link "website" "https://mlops.connpass.com/event/328296/" >}}
 - **「巨人の肩の上」で自作ライブラリを作る技術**, PyCon JP 2024, Sep 28th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/pyconjp2024" >}} {{< pub-link "website" "https://2024.pycon.jp" >}}
 - **日本経済新聞社 x 自然言語処理**, 第19回YANSシンポジウム スポンサーセッション, Sep 5th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/yans2024-nikkei" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yans2024" >}}
+
+### 2023
+
 - **テキスト生成 AI の基礎と金融特化モデルの開発**, 日経金融工学研究所年末セミナー, Dec 7th, 2023.
 - **「極意本」サンプルコードをクラウド上で動かそう**, Kaggle Tokyo Meetup 2023, Nov 26, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/gokui-google-cloud" >}} {{< pub-link "website" "https://connpass.com/event/292810/" >}}
 - **論文紹介 Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM 2023)**, IR Reading 2023秋, Nov 18, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/introduction-crossword-cikm2023" >}} {{< pub-link "website" "https://sigir.jp/post/2023-11-18-irreading_2023fall/" >}}
@@ -36,6 +46,9 @@ date: "2021-06-16T00:00:00Z"
 - **論文紹介 Discovering and Categorising Language Biases in Reddit**, ウェブ・ソーシャルメディア論文読み会 第五回, May 18th, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/web-socialmedia-study-5th" >}} {{< pub-link "website" "https://sites.google.com/view/web-socialmedia-study/home" >}}
 - **AMA (Ask me anything) 『Kaggleに挑む深層学習プログラミングの極意』**, W&B 東京ミートアップ #2, Mar 22nd, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/ask-me-anything" >}} {{< pub-link "website" "https://wandb.connpass.com/event/275849/" >}}
 - **著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』**, みんなのPython勉強会#90, Feb 16th, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/kaggle-book-gokui" >}} {{< pub-link "website" "https://startpython.connpass.com/event/270312/" >}}
+
+### 2022
+
 - **Kaggle メダリストが話す、データと分析手法の見つけ方**, 東京大学グローバル・インターンシップ・プログラム（UGIP）, Dec 16th, 2022. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2022/12/16/202025" >}} {{< pub-link "website" "https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html" >}}
 - **国際会議参加報告 AACL-IJCNLP 2022**, 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム, Nov 30th, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/aacl-ijcnlp-2022-report" >}}
 - **実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離**, PyCon JP 2022, Oct 14th-15th, 2022. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2022/10/13/185709" >}} {{< pub-link "website" "https://2022.pycon.jp/" >}}
@@ -46,11 +59,17 @@ date: "2021-06-16T00:00:00Z"
 - **Editors-in-the-loop なニュース記事要約システムの提案**, Machine Learning Casual Talks #13 (Online), Mar 30th, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/editors-in-the-loop-news-article-summarization-framework" >}} {{< pub-link "website" "https://mlct.connpass.com/event/239953/" >}}
 - **Sports Analyst Meetup の紹介**, スポーツアナリティクスジャパン2022, Mar 26th, 2022. {{< pub-link "slide" "http://jsaa.org/saj2022/?sessionId=31" >}} {{< pub-link "website" "http://jsaa.org/saj2022/" >}}
 - **日本経済新聞社における自然言語処理の取り組み**, NLP若手の会懇親会 (YANS懇) 2022, Mar 11st, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/yans2022-nikkei-nlp" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yanskon2022" >}}
+
+### 2021
+
 - **Pythonによるアクセスログ解析入門**, PyCon JP 2021, Oct 16th, 2021. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2021/10/17/090000" >}} {{< pub-link "website" "https://2021.pycon.jp/" >}}
 - **Kaggleの魅力と取り組み方**, Kaggle Masterが語る【9/29ワークショップ】初心者のためのKaggle入門, Sep 29th, 2021. {{< pub-link "slide" "https://speakerdeck.com/upura/attractiveness-and-approach-of-kaggle" >}} {{< pub-link "website" "https://widshiroshima.connpass.com/event/223319/" >}}
 - **審査員**, ARCS IDEATHON (Sports Analyst Meetup #11), Aug 7th, 2021. {{< pub-link "website" "https://spoana.connpass.com/event/218035/" >}}
 - **高校生のためのオープンキャンパス 2021年度『東大卒業生に聞いてみようー18歳のハローワーク』**, July 11th, 2021. {{< pub-link "slide" "https://www.u-tokyo.ac.jp/ja/alumni/support-programs/high.html" >}}
 - **東海高校OBが語る！マスコミにおけるデータサイエンティストの仕事**, 第39回サタデープログラム, June 26th, 2021. {{< pub-link "slide" "https://www.satprogram.net/list.html" >}} {{< pub-link "website" "https://www.satprogram.net/" >}}
+
+### 2020
+
 - **74 第9回スポアナ感想戦 (Gota**, K, upura), CONCAST, Dec 16th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-74/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-74/" >}}
 - **Basketball Behavior Challenge 1位解法**, Sports Analyst Meetup#9, Dec 13rd, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/14/090032" >}} {{< pub-link "website" "https://spoana.connpass.com/event/190699/" >}}
 - **73 spoana振り返り(Gota**, K, upura), CONCAST, Dec 11th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-73/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-73/" >}}
@@ -67,6 +86,9 @@ date: "2021-06-16T00:00:00Z"
 - **R言語で「言語処理100本ノック 2020」**, 第85回R勉強会@東京（#TokyoR）, May 23rd, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/05/23/215000" >}} {{< pub-link "website" "https://tokyor.connpass.com/event/176318/" >}}
 - **【Kaggleスタートブック発売記念】 ゲスト u++ さん**, regonn&curry.fm, Mar 16th, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/03/27/230654" >}} {{< pub-link "website" "https://anchor.fm/regonn-curry-fm/episodes/069-Kaggle--u-ebjhb6" >}}
 - **NLPコンペの知見を実務に活かすために**, Kaggle Google Quest Q&A Labeling 反省会, Feb 28th, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/02/28/235815" >}} {{< pub-link "website" "https://connpass.com/event/167595/" >}}
+
+### 2019
+
 - **KaggleとRコンペの紹介**, Japan.R 2019, Dec 7th 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/12/07/201500" >}} {{< pub-link "website" "https://japanr.connpass.com/event/154070/" >}}
 - **Kaggle Grandmasterに聞く！－トップデータサイエンティストの過去・現在・未来－**, データサイエンティスト協会 6thシンポジウム, Oct 17th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/10/17/161038" >}} {{< pub-link "website" "http://www.datascientist.or.jp/symp/2019/" >}}
 - **技術力で世界と戦う 機械学習コンペティション「Kaggle」の魅力**, AIchi勉強会, Sep 7th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/09/07/222736" >}} {{< pub-link "website" "https://connpass.com/event/134720/" >}}
@@ -80,6 +102,9 @@ date: "2021-06-16T00:00:00Z"
 - **初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」**, Sports Analyst Meetup#1, Feb 24th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/02/25/121000" >}} {{< pub-link "website" "https://spoana.connpass.com/event/113586/" >}}
 - **機械学習を用いた日経電子版Proのユーザ分析**, Data Driven Developer Meetup#4, Jan 22nd, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/d3m-part4" >}} {{< pub-link "website" "https://d3m.connpass.com/event/115217/" >}}
 - **17^2+19^2+37^2=2019**, 第75回R勉強会@東京（#TokyoR）, Jan 19th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/01/19/184655" >}} {{< pub-link "website" "https://tokyor.connpass.com/event/113519/" >}}
+
+### 2018
+
 - **野球データ分析ハッカソン準優勝解法と特徴量重要度**, 第43回阪大AIメディカル研究会, Dec 22nd, 2018. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2018/12/22/180130" >}} {{< pub-link "website" "https://twitter.com/ou_aims/status/1073062205925470208" >}}
 - **kaggler-ja driven learning　なぜ質問に答え、どう学んでいるか**, Kaggle Tokyo Meetup#5, Dec 1st, 2018. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2018/12/01/232113" >}} {{< pub-link "website" "https://connpass.com/event/105298/" >}}
 - **Soccer × Attribution Analysis**, 第74回R勉強会@東京（#TokyoR）, Nov 10th, 2018. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2018/11/10/210427" >}} {{< pub-link "website" "https://tokyor.connpass.com/event/106936/" >}}
@@ -140,9 +165,3 @@ date: "2021-06-16T00:00:00Z"
     - Sports Analyst Meetup #2, May 12th, 2019. {{< pub-link "website" "https://upura.hatenablog.com/entry/2019/05/12/222331" >}}
     - Sports Analyst Meetup #1, Feb 24th, 2019. {{< pub-link "website" "https://upura.hatenablog.com/entry/2019/02/25/121000" >}}
 - 電通過労自殺「日本を変えて」遺族が東大で呼びかけ {{< pub-link "website" "https://mainichi.jp/articles/20170522/k00/00m/040/066000c" >}}
-
-
-## Sports
-
-- Sumo, Best 8 in Nagoya City (2001 and 2002).
-- Athletics: Long jump, Best 8 in Nagoya city and proceed to Aichi prefecture competition (2009, 2012).
