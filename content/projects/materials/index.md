@@ -1,5 +1,5 @@
 ---
-title: DevRel
+title: DevRel materials
 summary: Developer relations & outreach — books, newsletters, OSS, talks, and community activities.
 tags:
 date: "2021-03-07T00:00:00Z"
@@ -20,10 +20,10 @@ date: "2021-03-07T00:00:00Z"
 ## 📚 Books
 
 {{< material-grid >}}
-{{< material-card icon="book" title="Kaggleではじめる大規模言語モデル入門" url="https://www.kodansha.co.jp/book/products/0000420398" desc="自然言語処理〈実践〉プログラミング. Kodansha, 2026. Co-authored." >}}
-{{< material-card icon="book" title="Kaggleに挑む深層学習プログラミングの極意" url="https://www.kspub.co.jp/book/detail/5305133.html" desc="Kodansha Scientific, 2023. Co-authored." >}}
-{{< material-card icon="book" title="Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ" url="https://book.mynavi.jp/ec/products/detail/id=123641" desc="Mynavi, 2021. Japanese translation." >}}
-{{< material-card icon="book" title="PythonではじめるKaggleスタートブック" url="https://www.kspub.co.jp/book/detail/5190067.html" desc="Kodansha, 2020. Co-authored." badges="Chinese & Korean translations" >}}
+{{< material-card icon="book" title="Kaggleではじめる大規模言語モデル入門" url="https://www.kodansha.co.jp/book/products/0000420398" desc="講談社, 2026. 共著." >}}
+{{< material-card icon="book" title="Kaggleに挑む深層学習プログラミングの極意" url="https://www.kspub.co.jp/book/detail/5305133.html" desc="講談社, 2023. 共著." >}}
+{{< material-card icon="book" title="Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ" url="https://book.mynavi.jp/ec/products/detail/id=123641" desc="マイナビ出版, 2021. 訳." >}}
+{{< material-card icon="book" title="PythonではじめるKaggleスタートブック" url="https://www.kspub.co.jp/book/detail/5190067.html" desc="講談社, 2020. 共著." >}}
 {{< /material-grid >}}
 
 → Details: [Book section in Publications](/projects/publications/#book)
@@ -37,22 +37,21 @@ date: "2021-03-07T00:00:00Z"
 
 → Full list: [Publications](/projects/publications/)
 
-## 🎤 Speaking
-
-{{< material-grid >}}
-{{< material-card icon="speakerdeck" title="Speaker Deck" url="https://speakerdeck.com/upura" desc="Slides from talks and lectures." >}}
-{{< material-card icon="youtube" title="YouTube" url="https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw" desc="Recorded talks and tutorials." >}}
-{{< /material-grid >}}
-
-### Selected Talks
+## 🎤 Selected Talks
 
 - **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**, 第9回応用数理・AIセミナー, Oct 1st, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/appmech-jsce-2025" >}} {{< pub-link "website" "https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/" >}}
-- **マルチモーダル AI 実装の課題と解決策**, Developers X Summit 2024, Nov 14th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/developer-x-summit" >}} {{< pub-link "website" "https://event.shoeisha.jp/devsumi/20241114" >}}
 - **ニュースメディアにおける事前学習済みモデルの可能性と課題**, 第27回情報論的学習理論ワークショップ (IBIS2024) 企画セッション3：ビジネスと機械学習, Nov 7th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/ibis2024" >}} {{< pub-link "website" "https://ibisml.org/ibis2024/" >}}
 - **「巨人の肩の上」で自作ライブラリを作る技術**, PyCon JP 2024, Sep 28th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/pyconjp2024" >}} {{< pub-link "website" "https://2024.pycon.jp" >}}
-- **ニュースメディアでの機械学習活用事例 ー Kaggle コンペ開催を題材にー**, Google Developers ML Summit, Dec 3rd, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/02/183400" >}} {{< pub-link "website" "https://cloudonair.withgoogle.com/events/google-mlsummit" >}}
 
 → Full list: [75 talks](/projects/talks_and_media/)
+
+## 📰 Selected Media Coverage
+
+- **INMA 30 Under 30: Shotaro Ishihara of Nikkei**, INMA, Sep 23rd, 2020. {{< pub-link "website" "https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei" >}}
+- **Putting the (Gen AI) Puzzle Together**, FT Product & Technology, Sep 2nd, 2024. {{< pub-link "website" "https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a" >}}
+- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11st, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
+
+→ Full list: [32 media appearances](/projects/talks_and_media/#media-coverage)
 
 ## 🌐 Community & Events
 
@@ -65,14 +64,6 @@ date: "2021-03-07T00:00:00Z"
 {{< /material-grid >}}
 
 → Full list: [Event Organization](/projects/talks_and_media/#event-organization)
-
-## 📰 Selected Media Coverage
-
-- **INMA 30 Under 30: Shotaro Ishihara of Nikkei**, INMA, Sep 23rd, 2020. {{< pub-link "website" "https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei" >}}
-- **Putting the (Gen AI) Puzzle Together**, FT Product & Technology, Sep 2nd, 2024. {{< pub-link "website" "https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a" >}}
-- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11st, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
-
-→ Full list: [32 media appearances](/projects/talks_and_media/#media-coverage)
 
 ## 💻 Code / OSS
 
