@@ -6,6 +6,17 @@ date: "2021-03-07T00:00:00Z"
 
 ---
 
+## ✍️ Writing
+
+{{< material-grid >}}
+{{< material-card icon="substack" title="Weekly Kaggle News" url="https://weeklykagglenews.substack.com/" desc="Weekly newsletter on Kaggle and data science, written in Japanese since 2019." badges="3,000+ subscribers|Featured by Kaggle official" >}}
+{{< material-card icon="newsletter" title="Everyday Kaggle News" url="https://upura.github.io/everyday-kaggle-news/" desc="Daily updates on Kaggle competitions and discussions." >}}
+{{< material-card icon="blog" title="Hatena Blog" url="https://upura.hatenablog.com/" desc="Personal tech blog on data science, NLP, and machine learning." >}}
+{{< material-card icon="qiita" title="Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～" url="https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0" desc="Popular introductory guide to Kaggle on Qiita." >}}
+{{< material-card icon="press" title="University of Tokyo Press" url="http://www.todaishimbun.org/author/shhrshtr/" desc="Articles written as a student journalist." >}}
+{{< material-card icon="press" title="Hack the NIKKEI" url="https://hack.nikkei.com/blog/" desc="Engineering blog of Nikkei, Inc." >}}
+{{< /material-grid >}}
+
 ## 📚 Books
 
 {{< material-grid >}}
@@ -21,26 +32,10 @@ date: "2021-03-07T00:00:00Z"
 
 {{< material-grid >}}
 {{< material-card icon="paper" title="Fast-MIA: Efficient and Scalable Membership Inference for LLMs" url="https://aclanthology.org/2026.acl-demo.9/" desc="ACL 2026 (System Demonstrations)." >}}
-{{< material-card icon="paper" title="日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用" url="https://doi.org/10.5715/jnlp.31.1717" desc="自然言語処理, 31巻, 4号, 2024." >}}
-{{< material-card icon="paper" title="Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper" url="https://aclanthology.org/2024.inlg-main.14/" desc="INLG 2024." >}}
-{{< material-card icon="paper" title="Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem" url="https://dl.acm.org/doi/10.1145/3583780.3615151" desc="CIKM 2023." >}}
+{{< material-card icon="paper" title="大規模言語モデルの訓練データ暗記の研究動向" url="https://doi.org/10.1527/tjsai.41-4_AN40-F" desc="人工知能学会論文誌, 41巻, 4号, 2026." >}}
 {{< /material-grid >}}
 
 → Full list: [Publications](/projects/publications/)
-
-## ✍️ Writing
-
-{{< material-grid >}}
-{{< material-card icon="substack" title="Weekly Kaggle News" url="https://weeklykagglenews.substack.com/" desc="Weekly newsletter on Kaggle and data science, written in Japanese since 2019." badges="3,000+ subscribers|Featured by Kaggle official" >}}
-{{< material-card icon="newsletter" title="Everyday Kaggle News" url="https://upura.github.io/everyday-kaggle-news/" desc="Daily updates on Kaggle competitions and discussions." >}}
-{{< material-card icon="blog" title="Hatena Blog" url="https://upura.hatenablog.com/" desc="Personal tech blog on data science, NLP, and machine learning." >}}
-{{< material-card icon="qiita" title="Qiita" url="https://qiita.com/upura" desc="Technical articles including a popular introductory guide to Kaggle." >}}
-{{< material-card icon="press" title="University of Tokyo Press" url="http://www.todaishimbun.org/author/shhrshtr/" desc="Articles written as a student journalist." >}}
-{{< material-card icon="press" title="Hack the NIKKEI" url="https://hack.nikkei.com/blog/" desc="Engineering blog of Nikkei, Inc." >}}
-{{< /material-grid >}}
-
-- Weekly Kaggle News was featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html). Previous platform was [Revue](https://www.getrevue.co/profile/upura), but migrated to Substack in 2023.
-- Popular Qiita article: [Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～](https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0)
 
 ## 🎤 Speaking
 
@@ -82,7 +77,6 @@ date: "2021-03-07T00:00:00Z"
 ## 💻 Code / OSS
 
 {{< material-grid >}}
-{{< material-card icon="github" title="GitHub: upura" url="https://github.com/upura" desc="Personal GitHub profile." >}}
 {{< material-card icon="github" title="Fast-MIA" url="https://github.com/Nikkei/fast-mia" desc="Efficient and scalable membership inference for LLMs." badges="Nikkei OSS" >}}
 {{< material-card icon="github" title="Ayniy" url="https://github.com/upura/ayniy" desc="All You Need is YAML: a machine learning experiment framework." >}}
 {{< material-card icon="github" title="NLP Recipes for Japanese" url="https://github.com/upura/nlp-recipes-ja" desc="Sample codes for Japanese NLP tasks." >}}
