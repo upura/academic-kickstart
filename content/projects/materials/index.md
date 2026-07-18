@@ -1,5 +1,5 @@
 ---
-title: DevRel materials
+title: DevRel Materials
 summary: Developer relations & outreach — books, newsletters, OSS, talks, and community activities.
 tags:
 date: "2021-03-07T00:00:00Z"
