@@ -18,3 +18,7 @@ autolink = true
 email_form = 0
 +++
 
+I welcome inquiries about talks and lectures, interviews, and writing. Please feel free to reach out using the contacts below.
+
+登壇・講演、取材・インタビュー、執筆・寄稿のご依頼を歓迎しています。下記のメールまたは Twitter の DM まで、お気軽にご連絡ください。
+
