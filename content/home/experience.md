@@ -22,7 +22,7 @@ date_format = "January 2006"
   location = "Tokyo, Japan"
   date_start = "2026-08-31"
   date_end = ""
-  description = ""
+  description = "Cloud AI (Global team)"
 
 [[experience]]
   title = "Senior Research Scientist"
