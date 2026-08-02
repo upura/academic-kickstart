@@ -11,6 +11,7 @@ date: "2021-03-07T00:00:00Z"
 {{< material-grid >}}
 {{< material-card icon="substack" title="Weekly Kaggle News" url="https://weeklykagglenews.substack.com/" desc="Weekly newsletter on Kaggle and data science, written in Japanese since 2019." badges="3,000+ subscribers|Featured by Kaggle official" >}}
 {{< material-card icon="newsletter" title="Everyday Kaggle News" url="https://upura.github.io/everyday-kaggle-news/" desc="Daily updates on Kaggle competitions and discussions." >}}
+{{< material-card icon="web" title="Awesome Memorization Wiki" url="https://upura.github.io/awesome-memorization-wiki/" desc="Japanese knowledge base on memorization in LLMs." >}}
 {{< material-card icon="blog" title="Hatena Blog" url="https://upura.hatenablog.com/" desc="Personal tech blog on data science, NLP, and machine learning." >}}
 {{< material-card icon="qiita" title="Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～" url="https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0" desc="Popular introductory guide to Kaggle on Qiita." >}}
 {{< material-card icon="press" title="University of Tokyo Press" url="http://www.todaishimbun.org/author/shhrshtr/" desc="Articles written as a student journalist." >}}
@@ -43,7 +44,7 @@ date: "2021-03-07T00:00:00Z"
 - **ニュースメディアにおける事前学習済みモデルの可能性と課題**, 第27回情報論的学習理論ワークショップ (IBIS2024) 企画セッション3：ビジネスと機械学習, Nov 7th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/ibis2024" >}} {{< pub-link "website" "https://ibisml.org/ibis2024/" >}}
 - **「巨人の肩の上」で自作ライブラリを作る技術**, PyCon JP 2024, Sep 28th, 2024. {{< pub-link "slide" "https://speakerdeck.com/upura/pyconjp2024" >}} {{< pub-link "website" "https://2024.pycon.jp" >}}
 
-→ Full list: [75 talks](/projects/talks_and_media/)
+→ Full list: [Talks](/projects/talks_and_media/)
 
 ## 📰 Selected Media Coverage
 
@@ -51,7 +52,7 @@ date: "2021-03-07T00:00:00Z"
 - **Putting the (Gen AI) Puzzle Together**, FT Product & Technology, Sep 2nd, 2024. {{< pub-link "website" "https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a" >}}
 - **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11st, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
 
-→ Full list: [32 media appearances](/projects/talks_and_media/#media-coverage)
+→ Full list: [Media Coverage](/projects/talks_and_media/#media-coverage)
 
 ## 🌐 Community & Events
 

@@ -6,8 +6,6 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
-75 talks, 32 media appearances, and community event organization since 2015.
-
 ## Talks
 
 - **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**, 第9回応用数理・AIセミナー, Oct 1st, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/appmech-jsce-2025" >}} {{< pub-link "website" "https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/" >}}
