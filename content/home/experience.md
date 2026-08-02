@@ -17,12 +17,20 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
+  title = "Senior Developer Advocate"
+  company = "???"
+  location = "Tokyo, Japan"
+  date_start = "2026-08-31"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Senior Research Scientist"
   company = "Nikkei Inc."
   company_url = "https://www.nikkei.co.jp/nikkeiinfo/en/"
   location = "Tokyo, Japan"
   date_start = "2022-04-01"
-  date_end = ""
+  date_end = "2026-08-30"
   description = "Research and development on natural language processing and large language models for news media, covering both applications in editorial workflows and the evaluation of trustworthiness and risk."
 
 [[experience]]
