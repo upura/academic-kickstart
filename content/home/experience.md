@@ -17,12 +17,12 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
-  title = "Senior Developer Advocate"
+  title = "???"
   company = "???"
   location = "Tokyo, Japan"
   date_start = "2026-08-31"
   date_end = ""
-  description = "Cloud AI (Global team)"
+  description = "???"
 
 [[experience]]
   title = "Senior Research Scientist"
@@ -31,7 +31,7 @@ date_format = "January 2006"
   location = "Tokyo, Japan"
   date_start = "2022-04-01"
   date_end = "2026-08-30"
-  description = "Research and development on natural language processing and large language models for news media, covering both applications in editorial workflows and the evaluation of trustworthiness and risk."
+  description = "Research and development on LLMs for news media, covering both applications in editorial workflows and the evaluation of trustworthiness and risk."
 
 [[experience]]
   title = "Research Scientist"
@@ -40,7 +40,7 @@ date_format = "January 2006"
   location = "Tokyo, Japan"
   date_start = "2021-04-01"
   date_end = "2022-03-31"
-  description = "Conducted applied research on natural language processing for news media, publishing results at international conferences and in journals."
+  description = "Conducted applied research on NLP and ML for news media, publishing results at international conferences."
 
 [[experience]]
   title = "Data Scientist"
@@ -49,5 +49,5 @@ date_format = "January 2006"
   location = "Tokyo, Japan"
   date_start = "2017-10-01"
   date_end = "2021-03-31"
-  description = "Built machine learning models and analyzed user behavior for digital subscription services, working with editorial, engineering, and business teams."
+  description = "Built ML models and analyzed user behavior for digital subscription services, working with editorial, engineering, and business teams."
 +++
