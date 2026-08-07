@@ -8,6 +8,7 @@ date: "2021-06-16T00:00:00Z"
 
 ## Talks
 
+- **Agent 時代の Kaggle 展望**, 第6回関東 Kaggler 会, Aug 7th, 2026. {{< pub-link "slide" "https://speakerdeck.com/upura/kaggle-in-the-agentic-era" >}} {{< pub-link "website" "https://kanto-kaggler.connpass.com/event/397753/" >}}
 - **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**, 第9回応用数理・AIセミナー, Oct 1st, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/appmech-jsce-2025" >}} {{< pub-link "website" "https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/" >}}
 - **なぜ新聞社で NLP の研究開発に挑むのか**, 第20回言語処理若手シンポジウム(YANS2025)招待ポスター, Sep 19th, 2025. {{< pub-link "slide" "https://yans.anlp.jp/entry/yans2025report" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yans2025invitesession" >}}
 - **日本語新聞記事を用いた大規模言語モデルの暗記定量化**, 第22回LLM勉強会, Aug 26th, 2025. {{< pub-link "slide" "https://speakerdeck.com/upura/llmc2025" >}} {{< pub-link "website" "https://llm-jp.nii.ac.jp/" >}}
