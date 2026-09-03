@@ -6,10 +6,6 @@ date: "2021-06-16T00:00:00Z"
 
 ---
 
-## Pre-print
-
-- Kazuma Iwamoto, Kazumasa Omura, and <u>Shotaro Ishihara</u> (2026). **An Empirical Analysis of Factual Errors in Human-Written Text and its Application**. {{< pub-link "arXiv" "https://arxiv.org/abs/2606.27959" >}}
-
 ## Journal (Referred)
 
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **大規模言語モデルの訓練データ暗記の研究動向**. *人工知能学会論文誌*, 41巻, 4号. {{< pub-link "paper" "https://doi.org/10.1527/tjsai.41-4_AN40-F" >}}
@@ -19,6 +15,9 @@ date: "2021-06-16T00:00:00Z"
 
 ## International Conference (Referred)
 
+- Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, <u>Shotaro Ishihara</u>, and Tomoyuki Kajiwara (2026). **Subjective and Hierarchical Annotation of Text Difficulty in Japanese**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. (to appear)
+- Kazuma Iwamoto, Kazumasa Omura, and <u>Shotaro Ishihara</u> (2026). **An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)*. {{< pub-link "arXiv" "https://arxiv.org/abs/2606.27959" >}} (to appear)
+- Tomoaki Yasuda and <u>Shotaro Ishihara</u> (2026). **Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)*. (to appear)
 - Hiromu Takahashi and <u>Shotaro Ishihara</u> (2026). **Fast-MIA: Efficient and Scalable Membership Inference for LLMs**. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)*. {{< pub-link "paper" "https://aclanthology.org/2026.acl-demo.9/" >}} {{< pub-link "arXiv" "https://arxiv.org/abs/2510.23074" >}} {{< pub-link "slide" "https://speakerdeck.com/upura/acl-2026-demo-fast-mia-efficient-and-scalable-membership-inference-for-llms" >}} {{< pub-link "poster" "https://speakerdeck.com/upura/fast-mia-efficient-and-scalable-membership-inference-for-llms" >}} (acceptance rate: 0.37=85/227)
 - Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, <u>Shotaro Ishihara</u>, Ryo Namiki (2026). **Effects of News Delivery Formats on the Article Diversity**. *12th International Conference on Computational Social Science (IC2S2 2026).*
 - Kota Tanabe, <u>Shotaro Ishihara</u>, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). **Making News Familiar: News Recommendation from Daily Scenery**. *Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)*. {{< pub-link "paper" "https://doi.org/10.1016/j.procs.2025.09.172" >}}
