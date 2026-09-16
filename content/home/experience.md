@@ -17,12 +17,12 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
-  title = "???"
-  company = "???"
+  title = "Developer Advocate, Cloud AI"
+  company = "Google Cloud Japan G.K."
   location = "Tokyo, Japan"
   date_start = "2026-08-31"
   date_end = ""
-  description = "???"
+  description = "Developer Advocate, Cloud AI for Google's global Cloud AI team. I'm responsible for sharing information and relaying requests from Japan back to the team. To help boost AI adoption in Japan, I'm normally working from Japan, so please feel free to reach out for speaking engagements, info exchanges, or anything else."
 
 [[experience]]
   title = "Senior Research Scientist"
