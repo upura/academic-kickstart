@@ -24,7 +24,7 @@ sh view.sh
 - デプロイには Secret `ACTIONS_DEPLOY_KEY`(`upura.github.io` の write 権限付き deploy key の秘密鍵)が必要
 - 公開は追加のみ (`keep_files: true`)。ビルド生成物に対応物がないファイル
   (`pdf/` など) を消したい場合は `upura.github.io` 側で直接削除する
-- Hugo のバージョンはワークフローと `netlify.toml` の両方に書かれているので、上げるときは両方を更新する
+- Hugo のバージョンはワークフロー内でピン留めしている。上げるときは上記 Requirements も更新する
 
 `deploy.sh` は Actions が使えないときの手動デプロイ用に残してある。実行前に
 `git -C public pull` で手元の `public/` を最新にすること(そうしないと Actions の
@@ -36,3 +36,8 @@ sh view.sh
 [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) から、
 `site.LanguageCode` / `site.Data`(Hugo 0.158 / 0.156 で deprecated)を置き換える
 独自パッチを当てた状態。上流の更新を取り込む場合は手動でマージする。
+
+fork 元テンプレート由来で未使用だったもの(Netlify / Netlify CMS / Forestry /
+blogdown 用の設定、テーマ更新スクリプト)は削除済み。Netlify CMS は
+`config/_default/params.toml` の `netlify_cms = false` で明示的に無効化している
+(テーマ側の既定値が `true` のため、キーごと消してはいけない)。
