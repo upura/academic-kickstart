@@ -1,0 +1,42 @@
+name: Deploy
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # config.toml の enableGitInfo = true が各ページの lastmod を
+          # git のコミット日時から求めるため、全履歴が必要。
+          # 既定の浅い clone では全ページの lastmod が同じ日時に潰れる。
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.161.0'
+          extended: true
+
+      - run: hugo
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: upura/upura.github.io
+          publish_branch: master
+          publish_dir: ./public
+          # deploy.sh の `git add .` と同じ「追加のみ」の挙動にする。
+          # false だと pdf/ や .github/FUNDING.yml など、ソースに対応物がない
+          # 公開済みファイルが削除されてしまう。
+          keep_files: true
+          user_name: upura
+          user_email: upura0@gmail.com
+          commit_message: 'Build website'

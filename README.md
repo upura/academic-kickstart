@@ -15,13 +15,24 @@ sh view.sh
 
 ## How to deploy
 
-```bash
-sh deploy.sh
-```
+`master` に push すると GitHub Actions
+([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)) が Hugo でビルドし、
+生成物を [upura/upura.github.io](https://github.com/upura/upura.github.io) に push する。
+ローカルでの作業は不要。
+
+- Actions → Deploy から手動実行 (`workflow_dispatch`) も可能
+- デプロイには Secret `ACTIONS_DEPLOY_KEY`(`upura.github.io` の write 権限付き deploy key の秘密鍵)が必要
+- 公開は追加のみ (`keep_files: true`)。ビルド生成物に対応物がないファイル
+  (`pdf/` など) を消したい場合は `upura.github.io` 側で直接削除する
+- Hugo のバージョンはワークフローと `netlify.toml` の両方に書かれているので、上げるときは両方を更新する
+
+`deploy.sh` は Actions が使えないときの手動デプロイ用に残してある。実行前に
+`git -C public pull` で手元の `public/` を最新にすること(そうしないと Actions の
+コミットと衝突する)。
 
 ## Caveats
 
-The `themes/academic` submodule is pinned to a local commit that is **not pushed to `origin` (gcushen/hugo-academic)**. The local commit migrates the theme away from `site.LanguageCode` / `site.Data` (deprecated in Hugo 0.158 / 0.156) so the site builds cleanly on Hugo 0.161+. A fresh `git clone` followed by `git submodule update --init` will fail to fetch this commit. If working on a new machine, either:
-
-- copy the `themes/academic/` directory from a working checkout, or
-- push the submodule commit to a personal fork and update `.gitmodules` to point there.
+`themes/academic` は submodule ではなくリポジトリに直接取り込んでいる。上流の
+[gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) から、
+`site.LanguageCode` / `site.Data`(Hugo 0.158 / 0.156 で deprecated)を置き換える
+独自パッチを当てた状態。上流の更新を取り込む場合は手動でマージする。
