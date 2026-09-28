@@ -71,7 +71,7 @@ email: ""
 user_groups: []
 ---
 
-I'm a Developer Advocate, Cloud AI, Google Cloud.
+I'm a Developer Advocate, Cloud AI, Google.
 I'm responsible for sharing information and relaying requests from Japan back to the team.
 While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
 My research interest lies in [building, evaluating, and communicating AI systems for information ecosystems](https://upura.github.io/projects/research_interest/): how people create, access, evaluate, and act on information.
