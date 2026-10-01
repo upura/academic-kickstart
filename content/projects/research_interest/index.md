@@ -3,6 +3,7 @@ title: AI for Information Ecosystems
 summary: Building, evaluating, and communicating AI systems that improve how people create, access, and trust information.
 tags:
 date: "2021-05-01T00:00:00Z"
+weight: 10
 
 ---
 
@@ -19,6 +20,9 @@ Some of these projects have been published externally as press releases, researc
 
 * Domain-specific pre-trained models {{< venue "Press release" "https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf" "press" >}}
 * Improving operational efficiency:
+  * Factual error detection {{< venue "EMNLP 2026 Findings" "https://arxiv.org/abs/2606.27959" >}}
+  * Reproducing omitted temporal expressions {{< venue "EMNLP 2026 Industry Track" "https://arxiv.org/abs/2609.09569" >}}
+  * Text difficulty annotation {{< venue "EMNLP 2026" "" >}}
   * News summarization {{< venue "Journal of NLP" "https://doi.org/10.5715/jnlp.31.1717" "journal" >}}
   * Entity linking system {{< venue "Journal of NLP" "https://doi.org/10.5715/jnlp.31.1330" "journal" >}}
 * Creating new experiences:
@@ -36,8 +40,8 @@ One of my research interests is understanding how training data remains in model
 I have conducted experiments to quantify memorization, primarily using Japanese newspaper articles as a high-quality, real-world corpus.
 I have also published survey papers and released tools for benchmarking membership inference attacks and related memorization risks.
 
-* Survey paper {{< venue "ACL 2023 Workshop" "https://aclanthology.org/2023.trustnlp-1.23/" "workshop" >}} {{< venue "Transactions of JSAI" "" "journal" >}}
-* Benchmarking membership inference attacks {{< venue "ACL 2026 Demo" "" "demo" >}}
+* Survey paper {{< venue "ACL 2023 Workshop" "https://aclanthology.org/2023.trustnlp-1.23/" "workshop" >}} {{< venue "Transactions of JSAI" "https://doi.org/10.1527/tjsai.41-4_AN40-F" "journal" >}}
+* Benchmarking membership inference attacks {{< venue "ACL 2026 Demo" "https://aclanthology.org/2026.acl-demo.9/" "demo" >}}
 * Experiments on Japanese newspaper {{< venue "INLG 2024" "https://aclanthology.org/2024.inlg-main.14/" >}} {{< venue "ACL 2025 Workshop" "https://aclanthology.org/2025.l2m2-1.8/" "workshop" >}}
 * Monitoring time-series performance degradation {{< venue "AACL-IJCNLP 2022" "https://aclanthology.org/2022.aacl-main.17/" >}} {{< venue "Journal of NLP" "https://doi.org/10.5715/jnlp.31.1563" "journal" >}}
 
@@ -52,4 +56,4 @@ See also [Data Science Competitions](/projects/data_science_competitions/) for r
 
 ## Reference
 
-You can see [Publications](https://upura.github.io/projects/publications/) for more details.
+You can see [Publications](/projects/publications/) for more details.

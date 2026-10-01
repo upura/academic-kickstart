@@ -1,10 +1,10 @@
 ---
 title: Data Science Competitions
-summary: https://www.kaggle.com/sishihara
+summary: Results in Kaggle, SIGNATE, and other data science competitions.
 tags:
 - Kaggle
 date: "2021-05-01T00:00:00Z"
-
+weight: 50
 ---
 
 ## Kaggle
@@ -46,7 +46,7 @@ https://atcoder.jp/users/upura
 - [NLP若手の会 (YANS) 第17回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2022hackathon) {{< compe rank="1st" team="Team" year="2022" >}}
 - [Kaggle Days Meetup at New Delhi](https://kaggledays.com/championship/leaderboard/) {{< compe rank="3rd" team="Team" year="2021" >}}
 - [NLP若手の会 (YANS) 第16回シンポジウム ハッカソン](https://yans.anlp.jp/entry/yans2021hackathon) {{< compe rank="2nd" team="Team" year="2021" >}}
-- [SIGIR eCom'21 Data Challenge Purchase Intent Prediction](https://sigir-ecom.github.io/data-task.html) {{< compe rank="3nd" team="Team" year="2021" >}}
+- [SIGIR eCom'21 Data Challenge Purchase Intent Prediction](https://sigir-ecom.github.io/data-task.html) {{< compe rank="3rd" team="Team" year="2021" >}}
 - [Solafune: 夜間光データから土地価格を予測](https://solafune.com/#/competitions/f03f39cc-597b-4819-b1a5-41479d4b73d6) {{< compe rank="6th" team="Solo" year="2021" >}}
 - [言語処理学会第27回年次大会（NLP2021）ワークショップ2 AI王 〜クイズAI日本一決定戦〜 ライブコンペティション](https://sites.google.com/view/nlp2021-aio/) {{< compe rank="5th" team="Team" year="2021" >}}
 - [ACM WSDM Workshop on Web Tourism (WSDM Webtour'21)](https://web.ec.tuwien.ac.at/webtour21/?page_id=27) {{< compe rank="6th" team="Team" year="2021" >}}

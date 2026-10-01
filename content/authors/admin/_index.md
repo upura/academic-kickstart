@@ -14,11 +14,11 @@ role: Developer Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: ""
+- name: "Google"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at a Japanese Media Company
+bio: Developer Advocate, Cloud AI, Google
 
 interests:
 - AI for Information Ecosystems
@@ -74,7 +74,7 @@ user_groups: []
 I'm a Developer Advocate, Cloud AI, Google.
 I'm responsible for sharing information and relaying requests from Japan back to the team.
 While studying computer science at university, I was also involved in [a university press](http://www.todaishimbun.org/).
-My research interest lies in [building, evaluating, and communicating AI systems for information ecosystems](https://upura.github.io/projects/research_interest/): how people create, access, evaluate, and act on information.
-I have published four books, written newsletters, and organized community events, as summarized on the [DevRel](https://upura.github.io/projects/materials/) page.
+My research interest lies in [building, evaluating, and communicating AI systems for information ecosystems](/projects/research_interest/): how people create, access, evaluate, and act on information.
+I have published four books, written newsletters, and organized community events, as summarized on the [DevRel](/projects/materials/) page.
 I enjoy participating in machine learning competitions and won the first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), and hosted a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition.
 The International News Media Association gave me "[30 Under 30 Awards and Grand Prize](https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards)" in 2020.

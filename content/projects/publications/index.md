@@ -1,19 +1,19 @@
 ---
 title: Publications
-summary:
+summary: Research papers, books, awards, and committee activities.
 tags:
 date: "2021-06-16T00:00:00Z"
-
+weight: 30
 ---
 
-## Journal (Referred)
+## Journal (Refereed)
 
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **大規模言語モデルの訓練データ暗記の研究動向**. *人工知能学会論文誌*, 41巻, 4号. {{< pub-link "paper" "https://doi.org/10.1527/tjsai.41-4_AN40-F" >}}
 - <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号. {{< pub-link "paper" "https://doi.org/10.5715/jnlp.31.1717" >}}
 - <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2024). **Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査**. *自然言語処理*, 31巻, 4号. {{< pub-link "paper" "https://doi.org/10.5715/jnlp.31.1563" >}} {{< pub-link "code" "https://github.com/Nikkei/semantic-shift-stability" >}}
 - 澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, <u>石原祥太郎</u>, 山田剛, 進藤裕之 (2024). **企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析**. *自然言語処理*, 31巻, 3号. {{< pub-link "paper" "https://doi.org/10.5715/jnlp.31.1330" >}}
 
-## International Conference (Referred)
+## International Conference (Refereed)
 
 - Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, <u>Shotaro Ishihara</u>, and Tomoyuki Kajiwara (2026). **Subjective and Hierarchical Annotation of Text Difficulty in Japanese**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. (to appear)
 - Kazuma Iwamoto, Kazumasa Omura, and <u>Shotaro Ishihara</u> (2026). **An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)*. {{< pub-link "arXiv" "https://arxiv.org/abs/2606.27959" >}} (to appear)
@@ -41,7 +41,7 @@ date: "2021-06-16T00:00:00Z"
 ## Misc
 
 This section presents domestic conferences and refereed talks.
-Other talks and media coverage can be found [here](https://upura.github.io/projects/talks_and_media/).
+Other talks and media coverage can be found [here](/projects/talks_and_media/).
 
 - <u>石原祥太郎</u> (2026). **大規模言語モデルは誰を覚えているか**. *2026年度人工知能学会全国大会（第40回）論文集*. {{< pub-link "paper" "https://doi.org/10.11517/pjsai.JSAI2026.0_1H4OS5a05" >}}
 - <u>石原祥太郎</u> (2026). **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**. *AI・データサイエンス論文集*, 7 巻, 1 号. {{< pub-link "paper" "https://doi.org/10.11532/jsceiii.7.1_36" >}}

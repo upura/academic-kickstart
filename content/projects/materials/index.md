@@ -3,7 +3,7 @@ title: DevRel Materials
 summary: Developer relations & outreach — books, newsletters, OSS, talks, and community activities.
 tags:
 date: "2021-03-07T00:00:00Z"
-
+weight: 40
 ---
 
 ## ✍️ Writing
@@ -50,7 +50,7 @@ date: "2021-03-07T00:00:00Z"
 
 - **INMA 30 Under 30: Shotaro Ishihara of Nikkei**, INMA, Sep 23rd, 2020. {{< pub-link "website" "https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei" >}}
 - **Putting the (Gen AI) Puzzle Together**, FT Product & Technology, Sep 2nd, 2024. {{< pub-link "website" "https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a" >}}
-- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11st, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
+- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11th, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
 
 → Full list: [Media Coverage](/projects/talks_and_media/#media-coverage)
 

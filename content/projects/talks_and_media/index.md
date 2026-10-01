@@ -1,9 +1,9 @@
 ---
 title: Talks & Media Coverage
-summary:
+summary: Talks, lectures, media coverage, and event organization.
 tags:
 date: "2021-06-16T00:00:00Z"
-
+weight: 20
 ---
 
 ## Talks
@@ -32,7 +32,7 @@ date: "2021-06-16T00:00:00Z"
 - **事前学習済み言語モデルとニュースメディア〜応用可能性と課題〜**, 立教大学人工知能科学研究科: ＡＩビジネス特論Ｂ, Nov 1st, 2023. {{< pub-link "website" "https://sy.rikkyo.ac.jp/web/preview.php?nendo=2023&kodo_2=VR456" >}}
 - **事前学習済み言語モデルとニュースメディア〜応用可能性と課題〜**, 立教大学人工知能科学研究科: ＡＩビジネス特論Ｂ, Oct 25th, 2023. {{< pub-link "website" "https://sy.rikkyo.ac.jp/web/preview.php?nendo=2023&kodo_2=VR456" >}}
 - **日本経済新聞社におけるWandBの活用例**, Fully Connected 2023 Tokyoカンファレンス, Oct 11th, 2023. {{< pub-link "slide" "https://speakerdeck.com/masakiaota/ri-ben-jing-ji-xin-wen-she-niokeruwandbnohuo-yong-li" >}} {{< pub-link "website" "https://fullyconnected.jp/" >}}
-- **関東 Kaggler 会スポンサーセッション**, 関東 Kaggler 会, Sep 23th, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/230923-kanto-kaggler-sponsor" >}} {{< pub-link "website" "https://connpass.com/event/290248/" >}}
+- **関東 Kaggler 会スポンサーセッション**, 関東 Kaggler 会, Sep 23rd, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/230923-kanto-kaggler-sponsor" >}} {{< pub-link "website" "https://connpass.com/event/290248/" >}}
 - **生成 AI のこれまでとこれから**, Innovators Live Japan, Google Cloud, Sep 5th, 2023. {{< pub-link "website" "https://cloudonair.withgoogle.com/events/innovators-live-jp" >}}
 - **論文紹介 Quantifying attention via dwell time and engagement in a social media browsing environment**, ウェブ・ソーシャルメディア論文読み会 第八回, Aug 24th, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/web-socialmedia-study-8th" >}} {{< pub-link "website" "https://sites.google.com/view/web-socialmedia-study/home" >}}
 - **論文紹介 Discovering and Categorising Language Biases in Reddit**, ウェブ・ソーシャルメディア論文読み会 第五回, May 18th, 2023. {{< pub-link "slide" "https://speakerdeck.com/upura/web-socialmedia-study-5th" >}} {{< pub-link "website" "https://sites.google.com/view/web-socialmedia-study/home" >}}
@@ -47,15 +47,15 @@ date: "2021-06-16T00:00:00Z"
 - **機械学習コンペの近年の潮流 2022年4月版**, ML Study #3「機械学習コンペ」, Apr 4th, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/ml-competition-trend-2022-dot-04" >}} {{< pub-link "website" "https://forkwell.connpass.com/event/240639/" >}}
 - **Editors-in-the-loop なニュース記事要約システムの提案**, Machine Learning Casual Talks #13 (Online), Mar 30th, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/editors-in-the-loop-news-article-summarization-framework" >}} {{< pub-link "website" "https://mlct.connpass.com/event/239953/" >}}
 - **Sports Analyst Meetup の紹介**, スポーツアナリティクスジャパン2022, Mar 26th, 2022. {{< pub-link "slide" "http://jsaa.org/saj2022/?sessionId=31" >}} {{< pub-link "website" "http://jsaa.org/saj2022/" >}}
-- **日本経済新聞社における自然言語処理の取り組み**, NLP若手の会懇親会 (YANS懇) 2022, Mar 11st, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/yans2022-nikkei-nlp" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yanskon2022" >}}
+- **日本経済新聞社における自然言語処理の取り組み**, NLP若手の会懇親会 (YANS懇) 2022, Mar 11th, 2022. {{< pub-link "slide" "https://speakerdeck.com/upura/yans2022-nikkei-nlp" >}} {{< pub-link "website" "https://yans.anlp.jp/entry/yanskon2022" >}}
 - **Pythonによるアクセスログ解析入門**, PyCon JP 2021, Oct 16th, 2021. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2021/10/17/090000" >}} {{< pub-link "website" "https://2021.pycon.jp/" >}}
 - **Kaggleの魅力と取り組み方**, Kaggle Masterが語る【9/29ワークショップ】初心者のためのKaggle入門, Sep 29th, 2021. {{< pub-link "slide" "https://speakerdeck.com/upura/attractiveness-and-approach-of-kaggle" >}} {{< pub-link "website" "https://widshiroshima.connpass.com/event/223319/" >}}
 - **審査員**, ARCS IDEATHON (Sports Analyst Meetup #11), Aug 7th, 2021. {{< pub-link "website" "https://spoana.connpass.com/event/218035/" >}}
 - **高校生のためのオープンキャンパス 2021年度『東大卒業生に聞いてみようー18歳のハローワーク』**, July 11th, 2021. {{< pub-link "slide" "https://www.u-tokyo.ac.jp/ja/alumni/support-programs/high.html" >}}
 - **東海高校OBが語る！マスコミにおけるデータサイエンティストの仕事**, 第39回サタデープログラム, June 26th, 2021. {{< pub-link "slide" "https://www.satprogram.net/list.html" >}} {{< pub-link "website" "https://www.satprogram.net/" >}}
-- **74 第9回スポアナ感想戦 (Gota**, K, upura), CONCAST, Dec 16th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-74/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-74/" >}}
-- **Basketball Behavior Challenge 1位解法**, Sports Analyst Meetup#9, Dec 13rd, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/14/090032" >}} {{< pub-link "website" "https://spoana.connpass.com/event/190699/" >}}
-- **73 spoana振り返り(Gota**, K, upura), CONCAST, Dec 11th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-73/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-73/" >}}
+- **74 第9回スポアナ感想戦 (Gota, K, upura)**, CONCAST, Dec 16th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-74/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-74/" >}}
+- **Basketball Behavior Challenge 1位解法**, Sports Analyst Meetup#9, Dec 13th, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/14/090032" >}} {{< pub-link "website" "https://spoana.connpass.com/event/190699/" >}}
+- **73 spoana振り返り(Gota, K, upura)**, CONCAST, Dec 11th, 2020. {{< pub-link "slide" "https://sports-con.xyz/concast-73/" >}} {{< pub-link "website" "https://sports-con.xyz/concast-73/" >}}
 - **CA x atmaCup 2nd**, 5th Place Solution, atmaCup#7 振り返り会, Dec 10th, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/10/233944" >}} {{< pub-link "website" "https://atma.connpass.com/event/198237/" >}}
 - **ニュースメディアでの機械学習活用事例 ー Kaggle コンペ開催を題材にー**, Google Developers ML Summit, Dec 3rd, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/12/02/183400" >}} {{< pub-link "website" "https://cloudonair.withgoogle.com/events/google-mlsummit" >}}
 - **企業の"Kaggler枠"って実際どうなの？**, データサイエンティスト協会7thシンポジウム, Nov 10th, 2020. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2020/11/08/160104" >}} {{< pub-link "website" "http://www.datascientist.or.jp/symp/2020/" >}}
@@ -74,7 +74,7 @@ date: "2021-06-16T00:00:00Z"
 - **技術力で世界と戦う 機械学習コンペティション「Kaggle」の魅力**, AIchi勉強会, Sep 7th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/09/07/222736" >}} {{< pub-link "website" "https://connpass.com/event/134720/" >}}
 - **なんでデータサイエンティストやってるの？**, なんでデータサイエンティストやってるの？ 〜 思い描いていた自分を思い出すために。 vol.4, Sep 6th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/09/06/212219" >}} {{< pub-link "website" "https://nan-d-vol4.peatix.com/" >}}
 - **機械学習を用いた大相撲千秋楽の勝敗予想**, Sports Analyst Meetup#4, Aug 24th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/08/24/214442" >}} {{< pub-link "website" "https://spoana.connpass.com/event/138392/" >}}
-- **PetFinder 2nd Place Solution**, Kaggle Tokyo Meetup#6, July 13rd 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/07/13/173420" >}} {{< pub-link "website" "https://connpass.com/event/132935/" >}}
+- **PetFinder 2nd Place Solution**, Kaggle Tokyo Meetup#6, July 13th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/07/13/173420" >}} {{< pub-link "website" "https://connpass.com/event/132935/" >}}
 - **PK戦の先攻有利は「ABBA方式」で変わるか？**, Sports Analyst Meetup#3, Jun 30th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/06/30/215844" >}} {{< pub-link "website" "https://spoana.connpass.com/event/134243/" >}}
 - **社外で探る自分のキャリア**, 【ESTYLE AI LOUNGE】データアナリスト・機械学習エンジニアの実情とAIキャリアの築き方, Jun 27th, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/06/27/222248" >}} {{< pub-link "website" "https://ailounge.connpass.com/event/134525/" >}}
 - **29組のデータアナリストに同じデータセットと同じ質問を与えても、分析結果がバラバラだったという研究**, Data Driven Developer Meetup 【番外編 好きな論文について語る会】#1, Apr 22nd, 2019. {{< pub-link "slide" "https://upura.hatenablog.com/entry/2019/04/19/123325" >}} {{< pub-link "website" "https://d3m.connpass.com/event/128063/" >}}
@@ -106,7 +106,7 @@ date: "2021-06-16T00:00:00Z"
 - **東京大学新聞 2020年12月8日 100周年記念号**, Dec 8th, 2020. {{< pub-link "website" "https://utnp.stores.jp/items/5fcdba9b8a457268993e69c8" >}}
 - **日本経済新聞社のデータサイエンティストにインタビュー。その仕事の内容とは？**, マスメディアン, Nov 4th, 2020. {{< pub-link "website" "https://advanced.massmedian.co.jp/article/detail/id=5940" >}}
 - **INMA 30 Under 30: Shotaro Ishihara of Nikkei**, INMA, Sep 23rd, 2020. {{< pub-link "website" "https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei" >}}
-- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11st, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
+- **「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選**, ITmedia, Jun 11th, 2020. {{< pub-link "website" "https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html" >}}
 - **Kaggleは実務の役に立つ？ データサイエンティストがKaggleから学んだ「教師あり学習」の勘どころ**, エンジニアHub, Apr 23rd, 2020. {{< pub-link "website" "https://employment.en-japan.com/engineerhub/entry/2020/04/23/103000" >}}
 - **データアナリスト、機械学習エンジニアが語るAIキャリアの形成について【6/27（木） AIキャリアイベント #4】**, TRaiNZ, Mar 25th, 2020. {{< pub-link "website" "https://trainz.jp/media/aievent/156/" >}}
 - **できないのが、当たり前。変革が激しいからこそ、新しいことへ挑戦する【6/27（木）イベントレポート#2】**, TRaiNZ, Mar 25th, 2020. {{< pub-link "website" "https://trainz.jp/media/aievent/128/" >}}
@@ -132,10 +132,10 @@ date: "2021-06-16T00:00:00Z"
     - Sports Analyst Meetup #12, Dec 19th, 2021. {{< pub-link "website" "https://spoana.connpass.com/event/230887/" >}}
     - ARCS IDEATHON (Sports Analyst Meetup #11), Aug 7th, 2021. {{< pub-link "website" "https://spoana.connpass.com/event/218035/" >}}
     - Sports Analyst Meetup #10, June 26th, 2021. {{< pub-link "website" "https://spoana.connpass.com/event/213076/" >}}
-    - Sports Analyst Meetup #9, Dec 13rd, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/12/14/090032" >}}
+    - Sports Analyst Meetup #9, Dec 13th, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/12/14/090032" >}}
     - Sports Analyst Meetup #8, July 18th, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/07/19/090000" >}}
     - Sports Analyst Meetup #7, Apr 16th, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/04/17/190500" >}}
-    - Sports Analyst Meetup #6, Frb 16th, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/02/17/120725" >}}
+    - Sports Analyst Meetup #6, Feb 16th, 2020. {{< pub-link "website" "https://upura.hatenablog.com/entry/2020/02/17/120725" >}}
     - Sports Analyst Meetup #5, Nov 2nd, 2019. {{< pub-link "website" "https://upura.hatenablog.com/entry/2019/11/02/220842" >}}
     - Sports Analyst Meetup #4, Aug 24th, 2019. {{< pub-link "website" "https://upura.hatenablog.com/entry/2019/08/24/214442" >}}
     - Sports Analyst Meetup #3, June 30th, 2019. {{< pub-link "website" "https://upura.hatenablog.com/entry/2019/06/30/215844" >}}
