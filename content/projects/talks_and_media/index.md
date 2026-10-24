@@ -8,6 +8,7 @@ weight: 20
 
 ## Talks
 
+- **Supercharging AI Agents: Integrating Google Search, Maps, Gemini Enterprise Agent Retrieval, Custom APIs, and MCP**, Google Developer Group DevFest Tokyo 2026, Nov 29th, 2026. {{< pub-link "website" "https://df26.gdgs.jp/en/tokyo/sessions/supercharging-ai-agents/" >}}
 - **【基調講演】エージェント開発の最前線。試すから、本番で動かすへ**, Agentic AI Summit '26 Fall, Oct 30th, 2026. {{< pub-link "website" "https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-fall" >}}
 - **Track 1 - Platform Builders: エージェントの構築から本番運用まで体験**, Build with Gemini Tokyo, Sep 4th, 2026. {{< pub-link "website" "https://cloudonair.withgoogle.com/events/build-with-gemini26q3" >}}
 - **Agent 時代の Kaggle 展望**, 第6回関東 Kaggler 会, Aug 7th, 2026. {{< pub-link "slide" "https://speakerdeck.com/upura/kaggle-in-the-agentic-era" >}} {{< pub-link "website" "https://kanto-kaggler.connpass.com/event/397753/" >}}
