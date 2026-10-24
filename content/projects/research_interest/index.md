@@ -20,9 +20,9 @@ Some of these projects have been published externally as press releases, researc
 
 * Domain-specific pre-trained models {{< venue "Press release" "https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf" "press" >}}
 * Improving operational efficiency:
-  * Factual error detection {{< venue "EMNLP 2026 Findings" "https://arxiv.org/abs/2606.27959" >}}
-  * Reproducing omitted temporal expressions {{< venue "EMNLP 2026 Industry Track" "https://arxiv.org/abs/2609.09569" >}}
-  * Text difficulty annotation {{< venue "EMNLP 2026" "" >}}
+  * Factual error detection {{< venue "EMNLP 2026 Findings" "https://aclanthology.org/2026.findings-emnlp.2337/" >}}
+  * Reproducing omitted temporal expressions {{< venue "EMNLP 2026 Industry Track" "https://aclanthology.org/2026.emnlp-industry.236/" >}}
+  * Text difficulty annotation {{< venue "EMNLP 2026" "https://aclanthology.org/2026.emnlp-main.926/" >}}
   * News summarization {{< venue "Journal of NLP" "https://doi.org/10.5715/jnlp.31.1717" "journal" >}}
   * Entity linking system {{< venue "Journal of NLP" "https://doi.org/10.5715/jnlp.31.1330" "journal" >}}
 * Creating new experiences:
