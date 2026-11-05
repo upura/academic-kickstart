@@ -94,6 +94,7 @@ weight: 20
 - **PoC で止まらず本番へ。汎用的な機能は任せ、自社独自の業務に AI エージェント構築を**, trends, Nov 3rd, 2026. {{< pub-link "website" "https://trends.codecamp.jp/blogs/media/agentic-ai-summit-26-fall-day2-01" >}}
 - **Agentic AI Summit '26 Fall Day 2 基調講演 速報レポート**, Zenn, Oct 31st, 2026. {{< pub-link "website" "https://zenn.dev/densan_techblog/articles/e124c1d23d6b68" >}}
 - **【参加無料】 Google の最先端 AI と「つくる・動かす」を極める。すべての人が最先端 AI の開発手法と活用を学べる祭典 – GDG DevFest Tokyo 2026 概要紹介**, note, Oct 27th, 2026. {{< pub-link "website" "https://note.com/gdgtokyo/n/n8009e1743a94" >}}
+- **AIエージェントを本番運用する前に、権限・防御・評価をどう設計するか**, trends, Oct 11th, 2026. {{< pub-link "website" "https://trends.codecamp.jp/blogs/media/build-with-gemini-tokyo-agent-governance" >}}
 - **Build with Gemini Tokyo参加レポート。世界を巡回するGoogle のハンズオン、2日間の全記録**, trends, Oct 9th, 2026. {{< pub-link "website" "https://trends.codecamp.jp/blogs/media/build-with-gemini-tokyo-report" >}}
 - **【JAPAN AI CUP】予測部門チュートリアル**, 人工知能学会（JSAI）公式チャンネル, Jan 26th, 2026. {{< pub-link "youtube" "https://youtu.be/cckdj4ChgaQ?si=qVKD4C_ULDgD6OiK/" >}}
 - **The Kaggle Book - Second Edition**, Dec 25th, 2025. {{< pub-link "website" "https://www.oreilly.com/library/view/the-kaggle-book/9781835083208/" >}}
