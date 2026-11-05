@@ -209,3 +209,58 @@
   color: #e2e8f0;
   border-color: #3a4554;
 }
+
+/* Experience: LinkedIn-style sub-timeline */
+.exp-subtimeline {
+  position: relative;
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+  border-left: 2px solid #cbd5e0;
+  margin-left: 0.5rem;
+}
+
+.dark .exp-subtimeline {
+  border-left-color: #4a5568;
+}
+
+.sub-position {
+  position: relative;
+  margin-bottom: 1.25rem;
+
+  &:last-child {
+    margin-bottom: 0.25rem;
+  }
+}
+
+.sub-position-dot {
+  position: absolute;
+  left: -1.5rem;
+  top: 0.35rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #718096;
+  border: 2px solid #ffffff;
+  transform: translateX(-50%);
+}
+
+.dark .sub-position-dot {
+  background-color: #a0aec0;
+  border-color: #1a202c;
+}
+
+.sub-position-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.sub-position-meta {
+  font-size: 0.8rem;
+  color: #718096;
+  margin-bottom: 0.35rem;
+}
+
+.dark .sub-position-meta {
+  color: #a0aec0;
+}

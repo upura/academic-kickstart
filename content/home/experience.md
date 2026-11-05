@@ -25,29 +25,31 @@ date_format = "January 2006"
   description = "Developer Advocate, Cloud AI for Google's global Cloud AI team. I'm responsible for sharing information and relaying requests from Japan back to the team. To help boost AI adoption in Japan, I'm normally working from Japan, so please feel free to reach out for speaking engagements, info exchanges, or anything else."
 
 [[experience]]
-  title = "Senior Research Scientist"
-  company = "Nikkei Inc."
-  company_url = "https://www.nikkei.co.jp/nikkeiinfo/en/"
-  location = "Tokyo, Japan"
-  date_start = "2022-04-01"
-  date_end = "2026-08-30"
-  description = "Research and development on LLMs for news media, covering both applications in editorial workflows and the evaluation of trustworthiness and risk."
-
-[[experience]]
-  title = "Research Scientist"
-  company = "Nikkei Inc."
-  company_url = "https://www.nikkei.co.jp/nikkeiinfo/en/"
-  location = "Tokyo, Japan"
-  date_start = "2021-04-01"
-  date_end = "2022-03-31"
-  description = "Conducted applied research on NLP and ML for news media, publishing results at international conferences."
-
-[[experience]]
-  title = "Data Scientist"
   company = "Nikkei Inc."
   company_url = "https://www.nikkei.co.jp/nikkeiinfo/en/"
   location = "Tokyo, Japan"
   date_start = "2017-10-01"
-  date_end = "2021-03-31"
-  description = "Built ML models and analyzed user behavior for digital subscription services, working with editorial, engineering, and business teams."
+  date_end = "2026-08-30"
+  duration = "8 yrs 11 mos"
+
+  [[experience.positions]]
+    title = "Senior Research Scientist"
+    date_start = "2022-04-01"
+    date_end = "2026-08-30"
+    duration = "4 yrs 5 mos"
+    description = "Research and development on LLMs for news media, covering both applications in editorial workflows and the evaluation of trustworthiness and risk."
+
+  [[experience.positions]]
+    title = "Research Scientist"
+    date_start = "2021-04-01"
+    date_end = "2022-03-31"
+    duration = "1 yr"
+    description = "Conducted applied research on NLP and ML for news media, publishing results at international conferences."
+
+  [[experience.positions]]
+    title = "Data Scientist"
+    date_start = "2017-10-01"
+    date_end = "2021-03-31"
+    duration = "3 yrs 6 mos"
+    description = "Built ML models and analyzed user behavior for digital subscription services, working with editorial, engineering, and business teams."
 +++
