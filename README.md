@@ -15,7 +15,7 @@ sh view.sh
 
 ## How to deploy
 
-`master` に push すると GitHub Actions
+`main` に push すると GitHub Actions
 ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)) が Hugo でビルドし、
 生成物を [upura/upura.github.io](https://github.com/upura/upura.github.io) に push する。
 ローカルでの作業は不要。
