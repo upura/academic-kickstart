@@ -43,6 +43,7 @@ weight: 30
 This section presents domestic conferences and refereed talks.
 Other talks and media coverage can be found [here](/projects/talks_and_media/).
 
+- <u>石原祥太郎</u>, 高野海斗, 山田涼太 (2026). **KS-21「人工知能とコンペティション」**. 特集「2026年度人工知能学会全国大会（第40回）」[KS-1～KS-32], *人工知能*, 2026, 41 巻, 6 号. {{< pub-link "website" "https://doi.org/10.11517/jjsai.41.6_718" >}}
 - <u>石原祥太郎</u> (2026). **大規模言語モデルは誰を覚えているか**. *2026年度人工知能学会全国大会（第40回）論文集*. {{< pub-link "paper" "https://doi.org/10.11517/pjsai.JSAI2026.0_1H4OS5a05" >}}
 - <u>石原祥太郎</u> (2026). **情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から**. *AI・データサイエンス論文集*, 7 巻, 1 号. {{< pub-link "paper" "https://doi.org/10.11532/jsceiii.7.1_36" >}}
 - 前川大輔, 大村和正, 樽本空宙, <u>石原祥太郎</u>, 梶原智之 (2026). **日本語テキスト難易度の主観的かつ多層的なアノテーション**. *言語処理学会第32回年次大会発表論文集*. {{< pub-link "paper" "https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q3-13.pdf" >}}
