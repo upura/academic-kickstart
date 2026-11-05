@@ -52,4 +52,13 @@ date_format = "January 2006"
     date_end = "2021-03-31"
     duration = "3 yrs 6 mos"
     description = "Built ML models and analyzed user behavior for digital subscription services, working with editorial, engineering, and business teams."
+
+[[experience]]
+  title = "Editor-in-Chief"
+  company = "The University of Tokyo Newspaper"
+  company_url = "https://www.todaishimbun.org/"
+  location = "Tokyo, Japan"
+  date_start = "2013-04-01"
+  date_end = "2017-03-31"
+  description = "Led editorial operations and reporting, spearheaded the launch of the digital news platform (Todai Shimbun Online), and developed programmatic automation for campus news."
 +++
