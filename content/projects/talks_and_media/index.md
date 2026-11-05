@@ -8,6 +8,8 @@ weight: 20
 
 ## Talks
 
+- **Google Cloud で AlphaEvolve を使ってみる**, Google AI Dojo シーズン3, Dec 6th, 2026. {{< pub-link "website" "https://googleaidojo.connpass.com/event/411924/" >}}
+- **Agent Skill について学ぼう**, Google AI Dojo シーズン3, Dec 5th, 2026. {{< pub-link "website" "https://googleaidojo.connpass.com/event/411924/" >}}
 - **Supercharging AI Agents: Integrating Google Search, Maps, Gemini Enterprise Agent Retrieval, Custom APIs, and MCP**, Google Developer Group DevFest Tokyo 2026, Nov 29th, 2026. {{< pub-link "website" "https://df26.gdgs.jp/en/tokyo/sessions/supercharging-ai-agents/" >}}
 - **【基調講演】エージェント開発の最前線。試すから、本番で動かすへ**, Agentic AI Summit '26 Fall, Oct 30th, 2026. {{< pub-link "website" "https://cloudonair.withgoogle.com/events/agentic-ai-summit-26-fall" >}}
 - **Track 1 - Platform Builders: エージェントの構築から本番運用まで体験**, Build with Gemini Tokyo, Sep 4th, 2026. {{< pub-link "website" "https://cloudonair.withgoogle.com/events/build-with-gemini26q3" >}}
