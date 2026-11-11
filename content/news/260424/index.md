@@ -1,7 +1,6 @@
 ---
 title: (2026.04.24) Accepted at Transactions of JSAI
 tags:
-- newsfeed
 date: "2026-04-24T00:00:00Z"
 
 ---

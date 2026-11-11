@@ -1,7 +1,6 @@
 ---
 title: (2026.04.27) Accepted at ACL 2026 Demo
 tags:
-- newsfeed
 date: "2026-04-27T00:00:00Z"
 
 ---

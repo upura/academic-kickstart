@@ -8,6 +8,7 @@ weight: 30
 
 ## Journal (Refereed)
 
+- <u>石原祥太郎</u>, 高橋寛武 (2026). **独自コーパスを用いた言語モデルの暗記リスク評価：日本語新聞記事による実践的分析**. *人工知能学会論文誌*, 42巻, 1号.
 - <u>石原祥太郎</u>, 高橋寛武 (2026). **大規模言語モデルの訓練データ暗記の研究動向**. *人工知能学会論文誌*, 41巻, 4号. {{< pub-link "paper" "https://doi.org/10.1527/tjsai.41-4_AN40-F" >}}
 - <u>石原祥太郎</u>, 村田栄樹, 中間康文, 高橋寛武 (2024). **日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用**. *自然言語処理*, 31巻, 4号. {{< pub-link "paper" "https://doi.org/10.5715/jnlp.31.1717" >}}
 - <u>石原祥太郎</u>, 高橋寛武, 白井穂乃 (2024). **Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査**. *自然言語処理*, 31巻, 4号. {{< pub-link "paper" "https://doi.org/10.5715/jnlp.31.1563" >}} {{< pub-link "code" "https://github.com/Nikkei/semantic-shift-stability" >}}
@@ -15,6 +16,8 @@ weight: 30
 
 ## International Conference (Refereed)
 
+- <u>Shotaro Ishihara</u> (2026). **Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis**. *The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).*
+- Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, <u>Shotaro Ishihara</u>, Ryo Namiki (2026). **News Formats as Structural Drivers of Exposure Diversity: Scheduled Editions vs. Continuous Feeds**. *The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).*
 - Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, <u>Shotaro Ishihara</u>, and Tomoyuki Kajiwara (2026). **Subjective and Hierarchical Annotation of Text Difficulty in Japanese**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. {{< pub-link "paper" "https://aclanthology.org/2026.emnlp-main.926/" >}} (acceptance rate: 0.15=2705/17661)
 - Kazuma Iwamoto, Kazumasa Omura, and <u>Shotaro Ishihara</u> (2026). **An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)*. {{< pub-link "paper" "https://aclanthology.org/2026.findings-emnlp.2337/" >}} {{< pub-link "arXiv" "https://arxiv.org/abs/2606.27959" >}} (acceptance rate: 0.29=(2705 + 2480)/17661)
 - Tomoaki Yasuda and <u>Shotaro Ishihara</u> (2026). **Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications**. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)*. {{< pub-link "paper" "https://aclanthology.org/2026.emnlp-industry.236/" >}} {{< pub-link "arXiv" "https://arxiv.org/abs/2609.09569" >}} (acceptance rate: 0.28=265/931)
