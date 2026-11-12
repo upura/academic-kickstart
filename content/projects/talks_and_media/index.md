@@ -93,6 +93,7 @@ weight: 20
 
 ## Media Coverage
 
+- **【イベントレポート】関東Kaggler会で見たデータ分析コミュニティの熱量**, Tech Team Journal, Nov 11th, 2026. {{< pub-link "website" "https://ttj.paiza.jp/archives/2026/11/11/17884/" >}}
 - **PoC で止まらず本番へ。汎用的な機能は任せ、自社独自の業務に AI エージェント構築を**, trends, Nov 3rd, 2026. {{< pub-link "website" "https://trends.codecamp.jp/blogs/media/agentic-ai-summit-26-fall-day2-01" >}}
 - **Agentic AI Summit '26 Fall Day 2 基調講演 速報レポート**, Zenn, Oct 31st, 2026. {{< pub-link "website" "https://zenn.dev/densan_techblog/articles/e124c1d23d6b68" >}}
 - **【参加無料】 Google の最先端 AI と「つくる・動かす」を極める。すべての人が最先端 AI の開発手法と活用を学べる祭典 – GDG DevFest Tokyo 2026 概要紹介**, note, Oct 27th, 2026. {{< pub-link "website" "https://note.com/gdgtokyo/n/n8009e1743a94" >}}
